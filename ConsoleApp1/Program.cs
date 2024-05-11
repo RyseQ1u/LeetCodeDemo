@@ -8,7 +8,7 @@ namespace ConsoleApp1
     {
         private static void Main(string[] args)
         {
-            var leet = new Leet1146();
+            var leet = new Leet2391();
             var result = leet.Action();
 
             Console.WriteLine(result);

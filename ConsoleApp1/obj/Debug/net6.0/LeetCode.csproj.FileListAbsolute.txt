@@ -1,0 +1,15 @@
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\LeetCode.exe
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\LeetCode.deps.json
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\LeetCode.runtimeconfig.json
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\LeetCode.dll
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\LeetCode.pdb
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.csproj.AssemblyReference.cache
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.AssemblyInfoInputs.cache
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.AssemblyInfo.cs
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.csproj.CoreCompileInputs.cache
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.dll
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\LeetCode.dll
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.pdb
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\LeetCode.genruntimeconfig.cache
+D:\Study\Code\C#\Test\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\LeetCode.dll
