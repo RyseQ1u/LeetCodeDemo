@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BDKXT+qoS/WxS4V4tx7YwqBF4H04eXXXVNqUXirS0TqiWg7yJOo8S6PByIjZvD6d5SbLzIqbnDFumFYA3B2sHg==",
+  "dgSpecHash": "12VFOWuRwzc1x4QWHTMOVJMr0kmg3viFXXymA6IIFwR3vtn77JagjAP+bNkUNCcztdF86rqwz7nR9YiV/AFCGw==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\ConsoleApp1\\LeetCode.csproj",
+  "projectFilePath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\LeetConsole\\LeetCode.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46025\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\46025\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

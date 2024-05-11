@@ -1066,11 +1066,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\ConsoleApp1\\LeetCode.csproj",
+      "projectUniqueName": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\LeetConsole\\LeetCode.csproj",
       "projectName": "LeetCode",
-      "projectPath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\ConsoleApp1\\LeetCode.csproj",
+      "projectPath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\LeetConsole\\LeetCode.csproj",
       "packagesPath": "C:\\Users\\46025\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Study\\Code\\C#\\Test\\ConsoleApp1\\LeetConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
