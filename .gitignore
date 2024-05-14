@@ -7,3 +7,8 @@
 /.vs
 /LeetConsole/.vs
 /LeetConsole/bin/Debug
+/LeetConsole/obj/Debug/net6.0/LeetCode.csproj.CoreCompileInputs.cache
+/LeetConsole/obj/Debug/net6.0/LeetCode.dll
+/LeetConsole/obj/Debug/net6.0/LeetCode.pdb
+/LeetConsole/obj/Debug/net6.0/refint/LeetCode.dll
+/LeetConsole/obj/Debug/net6.0/ref/LeetCode.dll
