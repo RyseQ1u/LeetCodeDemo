@@ -1,13 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace ConsoleApp1.Methods
+namespace LeetCode.Methods
 {
     /// <summary>
     /// leetcode 1598
     /// </summary>
-    public static class Q1598
+    public static class Leet1598
     {
         /// <summary>
         ///

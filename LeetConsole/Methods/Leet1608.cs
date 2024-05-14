@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ConsoleApp1.Methods
+﻿namespace LeetCode.Methods
 {
-    public static class Q1608
+    public static class Leet1608
     {
         public static int Method1(int[] nums)
         {

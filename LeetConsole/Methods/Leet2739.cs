@@ -1,11 +1,4 @@
-﻿using ConsoleApp1.Class;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Linq;
-using System.Timers;
-
-namespace ConsoleApp1.Methods
+﻿namespace LeetCode.Methods
 {
     public class Leet2739
     {
@@ -32,7 +25,7 @@ namespace ConsoleApp1.Methods
                 residue = mainTank % 5;
             }
             //副油箱油不够的情况
-            if(quotient > additionalTank)
+            if (quotient > additionalTank)
             {
                 if (additionalTank + residue >= 5)
                 {
@@ -44,14 +37,13 @@ namespace ConsoleApp1.Methods
                 {
                     r = mainTank + quotient;
                 }
-
             }
             else
             {
                 if (quotient + residue >= 5)
                 {
                     var q = (quotient + residue) / 5;
-                    
+
                     var re = (quotient + residue) % 5;
                     r = mainTank + quotient + q + re;
                 }
@@ -60,8 +52,6 @@ namespace ConsoleApp1.Methods
                     r = mainTank + quotient;
                 }
             }
-
-
 
             return r * 10;
         }

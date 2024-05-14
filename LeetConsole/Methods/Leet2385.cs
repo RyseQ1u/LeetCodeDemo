@@ -1,11 +1,8 @@
-﻿using ConsoleApp1.Class;
+﻿using LeetCode.Class;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Linq;
-using System.Timers;
 
-namespace ConsoleApp1.Methods
+namespace LeetCode.Methods
 {
     public class Leet2385
     {

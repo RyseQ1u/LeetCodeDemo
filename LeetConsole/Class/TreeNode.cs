@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1.Class
+﻿namespace LeetCode.Class
 {
     public class TreeNode
     {

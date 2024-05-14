@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
-namespace ConsoleApp1.Methods
+namespace LeetCode.Methods
 {
     public class Leet1146
     {
