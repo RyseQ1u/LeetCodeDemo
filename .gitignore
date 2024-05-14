@@ -2,13 +2,8 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/ConsoleApp1/.vs
-/ConsoleApp1/bin/Debug/net6.0
 /.vs
-/LeetConsole/.vs
-/LeetConsole/bin/Debug
-/LeetConsole/obj/Debug/net6.0/LeetCode.csproj.CoreCompileInputs.cache
-/LeetConsole/obj/Debug/net6.0/LeetCode.dll
-/LeetConsole/obj/Debug/net6.0/LeetCode.pdb
-/LeetConsole/obj/Debug/net6.0/refint/LeetCode.dll
-/LeetConsole/obj/Debug/net6.0/ref/LeetCode.dll
+/LeetConsole/.vs/
+/LeetConsole/bin/Debug/
+/LeetConsole/bin/obj/
+
