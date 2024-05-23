@@ -151,15 +151,16 @@ namespace ConsoleApp3.Methods
 
             //计算间隔
             //按出现次数排序
+            var indexs = dict.Values.OrderByDescending(p => p.Count).ToList();
             for (int i = 0; i < indexs.Count; i++)
             {
                 //如果总数不大于当前结果跳出
-                if (dict[i].Count <= r) break;
+                if (indexs[i].Count <= r) break;
                 int left = 0;
-                for (int right = 0; right < dict[i].Count; right++)
+                for (int right = 0; right < indexs[i].Count; right++)
                 {
                     //原长度
-                    while (dict[i][right] - dict[i][left] > k)
+                    while (indexs[i][right] - indexs[i][left] > k)
                     {
                         left++;
                     }
