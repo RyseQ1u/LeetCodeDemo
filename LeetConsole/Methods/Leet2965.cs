@@ -8,7 +8,7 @@ using System.Runtime.CompilerServices;
 namespace ConsoleApp3.Methods
 {
     /// <summary>
-    /// Leet2965.cs
+    /// Leet2965
     /// </summary>
     public class Leet2965
 
