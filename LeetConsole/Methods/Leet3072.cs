@@ -8,7 +8,6 @@ namespace ConsoleApp3.Methods
     /// 3072
     /// </summary>
     public class Leet3072
-
     {
         public int[] Action()
         {
