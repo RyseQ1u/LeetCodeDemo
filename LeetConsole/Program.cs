@@ -1,5 +1,6 @@
 ﻿using ConsoleApp3.Methods;
 using LeetCode.Methods;
+using LeetCode.Methods.Easy;
 using System;
 
 namespace LeetCode
@@ -8,7 +9,7 @@ namespace LeetCode
     {
         private static void Main(string[] args)
         {
-            var leet = new Leet2938();
+            var leet = new Leet3038();
             var result = leet.Action();
 
             Console.WriteLine(result);
