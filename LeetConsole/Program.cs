@@ -9,7 +9,7 @@ namespace LeetCode
     {
         private static void Main(string[] args)
         {
-            var leet = new Leet3038();
+            var leet = new Leet419();
             var result = leet.Action();
 
             Console.WriteLine(result);
