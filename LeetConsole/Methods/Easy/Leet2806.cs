@@ -12,7 +12,7 @@ namespace LeetCode.Methods.Easy
         public int Action()
         {
             //var input = "0111";
-            var input = 9;
+            var input = 11;
 
             return AccountBalanceAfterPurchase(input);
         }
@@ -20,7 +20,7 @@ namespace LeetCode.Methods.Easy
         public int AccountBalanceAfterPurchase(int purchaseAmount)
         {
             var result = 0;
-            result = 100 - (int)(Math.Round(((double)purchaseAmount / 10)) * 10);
+            result = 100 - (int)(Math.Round(((double)purchaseAmount / 10), MidpointRounding.AwayFromZero) * 10);
             return result;
         }
     }
