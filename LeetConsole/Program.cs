@@ -2,6 +2,7 @@
 using LeetCode.Methods;
 using LeetCode.Methods.Easy;
 using LeetCode.Methods.Hard;
+using LeetCode.Methods.Middle;
 using System;
 
 namespace LeetCode
@@ -10,7 +11,7 @@ namespace LeetCode
     {
         private static void Main(string[] args)
         {
-            var leet = new Leet2813();
+            var leet = new Leet2786();
             var result = leet.Action();
 
             Console.WriteLine(result);
