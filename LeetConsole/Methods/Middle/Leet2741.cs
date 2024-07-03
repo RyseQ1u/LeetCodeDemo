@@ -5,54 +5,21 @@ using System.Linq;
 namespace LeetCode.Methods.Middle
 {
     /// <summary>
-    /// Leet2741
+    /// Leet2741 todo
     /// </summary>
     public class Leet2741
     {
         public int Action()
         {
-            //var input = new string[] { "aba", "cdc", "eae" };
-            var input = new string[] { "aaa", "aaa", "aa" };
-            return FindLUSlength(input);
+            var input = new int[] { 2, 3, 6 };
+            return SpecialPerm(input);
         }
 
         #region 方法一
 
-        public int FindLUSlength(string[] strs)
+        public int SpecialPerm(int[] nums)
         {
-            var result = -1;
-            Array.Sort(strs, (a, b) => b.Length.CompareTo(a.Length));
-
-            for (int i = 0; i < strs.Length; i++)
-            {
-                bool f = true;
-                for (int j = 0; j < strs.Length; j++)
-                {
-                    if (j == i) continue;
-
-                    //判断是否为子串
-                    if (strs[j].Length < strs[i].Length) continue;
-                    int left = 0;
-                    for (int k = 0; k < strs[j].Length; k++)
-                    {
-                        if (strs[j][k] == strs[i][left])
-                        {
-                            left++;
-                        }
-                        if (left == strs[i].Length)
-                        {
-                            f = false;
-                            break;
-                        }
-                    }
-                }
-                if (f)
-                {
-                    return strs[i].Length;
-                }
-            }
-
-            return result;
+            return 0;
         }
 
         #endregion 方法一
