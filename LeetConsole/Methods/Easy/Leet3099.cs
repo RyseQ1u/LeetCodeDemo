@@ -22,7 +22,7 @@ namespace LeetCode.Methods.Easy
             var sum = 0;
             int i = x;
             var mod = i % 10;
-            while (mod > 0)
+            while (i != 0 || mod > 0)
             {
                 sum += mod;
                 i = i / 10;
