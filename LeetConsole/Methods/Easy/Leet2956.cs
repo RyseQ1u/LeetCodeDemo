@@ -15,7 +15,7 @@ namespace LeetCode.Methods.Easy
             var input1 = new int[] { 4, 3, 2, 3, 1 };
             var input2 = new int[] { 2, 2, 5, 2, 3, 6 };
 
-            return FindIntersectionValues(input1, input2);
+            return FindIntersectionValues2(input1, input2);
         }
 
         public int[] FindIntersectionValues(int[] nums1, int[] nums2)
@@ -32,6 +32,11 @@ namespace LeetCode.Methods.Easy
                 if (hs1.Contains(i)) { result[1]++; };
             }
             return result;
+        }
+
+        public int[] FindIntersectionValues2(int[] nums1, int[] nums2)
+        {
+            return new[] { nums1.Count(nums2.Contains), nums2.Count(nums1.Contains) };
         }
     }
 }

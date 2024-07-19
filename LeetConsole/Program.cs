@@ -11,7 +11,7 @@ namespace LeetCode
     {
         private static void Main(string[] args)
         {
-            var leet = new Leet2956();
+            var leet = new Leet3096();
             var result = leet.Action();
 
             Console.WriteLine(result);
