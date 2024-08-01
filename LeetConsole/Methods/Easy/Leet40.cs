@@ -13,12 +13,12 @@ namespace LeetCode.Methods.Easy
         public int Action()
         {
             ////3
-            //var input1 = new int[] { 1, 2, 8, 9 };
+            var input1 = new int[] { 1, 2, 8, 9 };
 
             //1
-            var input1 = new int[] { 3, 3, 1 };
+            //var input1 = new int[] { 3, 3, 1 };
 
-            return MaxmiumScore(input1, 1);
+            return MaxmiumScore2(input1, 3);
         }
 
         public int MaxmiumScore2(int[] cards, int cnt)
@@ -27,46 +27,47 @@ namespace LeetCode.Methods.Easy
 
             int r = 0;
             int curSum = 0;
-            int odd = -1, even = -1;
+            //记录最后一个奇偶数 因为已经排序 得到的是当前数集合里小的奇偶数
+            int minOdd = -1, minEven = -1;
             int end = cards.Length - cnt;
             for (int i = cards.Length - 1; i >= end; i--)
             {
                 curSum += cards[i];
-                if ((cards[i] & 1) != 0)
+                if ((cards[i] & 1) == 0)
                 {
-                    odd = cards[i];
+                    minEven = cards[i];
                 }
                 else
                 {
-                    even = cards[i];
+                    minOdd = cards[i];
                 }
             }
 
-            if ((curSum % 2) == 0)
+            if ((curSum & 1) == 0)
             {
                 return curSum;
             }
 
-            //找最大的奇数
+            //取出一个最小的奇数 再找最大的奇数 已排序下一个奇数即所求
             for (int i = cards.Length - cnt - 1; i >= 0; i--)
             {
                 if ((cards[i] & 1) != 0)
                 {
-                    if (even != -1)
+                    if (minEven != -1)
                     {
-                        r = Math.Max(r, curSum - even + cards[i]);
+                        r = Math.Max(r, curSum - minEven + cards[i]);
                         break;
                     }
                 }
             }
-            //找最大的偶数
+            //取出一个最小的偶数 再找最大的偶数 已排序下一个偶数即所求
             for (int i = cards.Length - cnt - 1; i >= 0; i--)
             {
                 if ((cards[i] & 1) == 0)
                 {
-                    if (odd != -1)
+                    if (minOdd != -1)
                     {
-                        r = Math.Max(r, curSum - odd + cards[i]);
+                        r = Math.Max(r, curSum - minOdd + cards[i]);
                         break;
                     }
                 }
