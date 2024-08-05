@@ -15,6 +15,11 @@ namespace LeetCode.Methods.Hard
             return FindIntegers(data);
         }
 
+        /// <summary>
+        /// 1000000000 输入超时
+        /// </summary>
+        /// <param name="n"></param>
+        /// <returns></returns>
         public int FindIntegers(int n)
         {
             var r = 0;
