@@ -15,7 +15,7 @@ namespace LeetCode.Methods.Easy
             //var input1 = new int[] { 1, 7, 3, 6, 5, 6 };
             var input1 = new int[] { 2, 1, 4 };
 
-            return IsArraySpecial(input1);
+            return IsArraySpecial2(input1);
         }
 
         public bool IsArraySpecial(int[] nums)
@@ -24,7 +24,7 @@ namespace LeetCode.Methods.Easy
             var f = (nums[0] & 1);
             for (int i = 1; i < nums.Length; i++)
             {
-                var n = (nums[1] & 1);
+                var n = (nums[i] & 1);
                 if (n == f)
                 {
                     return false;
@@ -36,5 +36,9 @@ namespace LeetCode.Methods.Easy
             }
             return r;
         }
+
+        public bool IsArraySpecial2(int[] nums) => Enumerable
+        .Range(0, nums.Length - 1)
+        .All(i => (nums[i + 1] & 1) != (nums[i] & 1));
     }
 }
