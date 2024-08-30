@@ -26,7 +26,9 @@ namespace LeetCode.Methods.Middle
             long right = (k + 1) << x;
             while (left + 1 < right)
             {
-                long mid = (left + right) >>> 1;
+                //long mid = (left + right) >>> 1;
+                uint unsignedValue = (uint)(left + right);
+                uint mid = unsignedValue >> 1;
                 if (countDigitOne(mid, x) <= k)
                 {
                     left = mid;
