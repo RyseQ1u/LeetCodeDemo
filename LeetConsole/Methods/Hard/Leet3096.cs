@@ -5,20 +5,10 @@ using System.Linq;
 namespace LeetCode.Methods.Hard
 {
     /// <summary>
-    /// Leet3096
+    /// 3096
     /// </summary>
     public class Leet3096
     {
-        public int Action()
-        {
-            //2
-            //int[] data = new int[] { 1, 0, 1, 0 };
-            int[] data = new int[] { 0, 0 };
-            //int[] data = new int[] { 1, 1, 1, 1, 1 };
-
-            return MinimumLevels(data);
-        }
-
         public int MinimumLevels(int[] possible)
         {
             var r = -1;
