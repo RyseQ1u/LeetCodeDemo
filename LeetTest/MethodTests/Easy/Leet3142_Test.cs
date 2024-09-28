@@ -16,12 +16,12 @@ namespace LeetTest.MethodTests.Easy
         public void CheckArr_SatisfiesConditions_RetunTrue(int[][] grid)
         {
             // Arrange
-            var leet3142 = new Leet3142();
+            var leet = new Leet3142();
             //var input1 = new int[][] { new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 } };
             //var input2 = new int[][] { new int[] { 1, 0, 2 }, new int[] { 1, 0, 2 } };
 
             // Act
-            var result = leet3142.SatisfiesConditions(grid);
+            var result = leet.SatisfiesConditions(grid);
 
             // Assert
             Assert.True(result);

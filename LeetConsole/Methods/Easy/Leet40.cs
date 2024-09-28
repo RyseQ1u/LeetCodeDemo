@@ -10,17 +10,6 @@ namespace LeetCode.Methods.Easy
     /// </summary>
     public class Leet40
     {
-        public int Action()
-        {
-            ////3
-            var input1 = new int[] { 1, 2, 8, 9 };
-
-            //1
-            //var input1 = new int[] { 3, 3, 1 };
-
-            return MaxmiumScore2(input1, 3);
-        }
-
         public int MaxmiumScore2(int[] cards, int cnt)
         {
             Array.Sort(cards);

@@ -18,10 +18,10 @@ namespace LeetTest.MethodTests.Easy
         public void CheckArr_ClearDigits_RetunStr(string s, string check)
         {
             // Arrange
-            var leet3174 = new Leet3174();
+            var leet = new Leet3174();
 
             // Act
-            var result = leet3174.ClearDigits2(s);
+            var result = leet.ClearDigits2(s);
 
             // Assert
             Assert.Equal(result, check);
