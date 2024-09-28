@@ -9,19 +9,6 @@ namespace LeetCode.Methods.Middle
     /// </summary>
     public class Leet419
     {
-        public int Action()
-        {
-            //var input = "0111";
-            var input = new char[][]
-                        {
-                            new char[] {'X', 'X', '.', 'X'},
-                            new char[] {'.', '.', '.', 'X'},
-                            new char[] {'.', '.', '.', 'X'}
-                        };
-
-            return CountBattleships(input);
-        }
-
         #region 方法一遍历
 
         public int CountBattleships(char[][] board)
