@@ -24,8 +24,6 @@ namespace LeetTest.MethodTests.Hard
         {
             // Arrange
             var leet = new Leet2398();
-            //var input1 = new int[][] { new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 } };
-            //var input2 = new int[][] { new int[] { 1, 0, 2 }, new int[] { 1, 0, 2 } };
 
             // Act
             var result = leet.MaximumRobots(chargeTimes, runningCosts, budget);
