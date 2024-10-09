@@ -20,18 +20,16 @@ namespace LeetTest.MethodTests.Middle
 
         [Theory]
         [MemberData(nameof(Data))]
-        public void CheckArr_MaxScoreSightseeingPair_RetunSum(int[] grid, long sum)
+        public void CheckArr_MaxScoreSightseeingPair_RetunSum(int[] input1, long expected)
         {
             // Arrange
             var leet = new Leet1014();
-            //var input1 = new int[][] { new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 }, new int[] { 3, 5, 3 } };
-            //var input2 = new int[][] { new int[] { 1, 0, 2 }, new int[] { 1, 0, 2 } };
 
             // Act
-            var result = leet.MaxScoreSightseeingPair(grid);
+            var actual = leet.MaxScoreSightseeingPair(input1);
 
             // Assert
-            Assert.Equal(sum, result);
+            Assert.Equal(expected, actual);
         }
     }
 }

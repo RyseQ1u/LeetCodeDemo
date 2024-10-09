@@ -9,14 +9,6 @@ namespace LeetCode.Methods.Middle
     /// </summary>
     public class Leet3106
     {
-        public string Action()
-        {
-            //var input = new string[] { "aba", "cdc", "eae" };
-            var input = "xaxcd";
-            var k = 3;
-            return GetSmallestString(input, k);
-        }
-
         public string GetSmallestString(string s, int k)
         {
             //字典需小就需要排前的字母最小 最接近a
