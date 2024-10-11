@@ -23,7 +23,7 @@ namespace LeetCode.Methods.Easy
             {
                 for (int j = 0; j < l2; j++)
                 {
-                    if (nums1[i] < nums2[j]) break;
+                    //if (nums1[i] < nums2[j]) break;
                     if (nums1[i] % nums2[j] == 0)
                     {
                         r++;
