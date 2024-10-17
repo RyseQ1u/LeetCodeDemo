@@ -9,13 +9,6 @@ namespace LeetCode.Methods.Easy
     /// </summary>
     public class Leet2748
     {
-        public int Action()
-        {
-            //var input = "0111";
-            var input = new int[] { 2, 5, 1, 4 };
-
-            return CountBeautifulPairs(input);
-        }
 
         public int CountBeautifulPairs(int[] nums)
         {
