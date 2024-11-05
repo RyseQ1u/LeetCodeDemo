@@ -11,6 +11,7 @@ namespace LeetCode.Methods.Easy
     {
         public string LosingPlayer(int x, int y)
         {
+            return Math.Min(x, y / 4) % 2 == 0 ? "Alice" : "Bob";
         }
     }
 }
