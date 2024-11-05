@@ -38,8 +38,9 @@ namespace LeetCode.Methods.Middle
             int b = (int)Math.Sqrt(c);
             while (a <= b)
             {
+                // 避免溢出
                 if (a * a == c - b * b)
-                { // 避免溢出
+                {
                     return true;
                 }
                 if (a * a < c - b * b)
