@@ -6,9 +6,9 @@ using System.Text.RegularExpressions;
 namespace LeetCode.Methods.Middle
 {
     /// <summary>
-    /// 3524
+    /// 3255 解法与 3254相同
     /// </summary>
-    public class Leet3254
+    public class Leet3255
     {
         /// <summary>
         /// 统计个数
