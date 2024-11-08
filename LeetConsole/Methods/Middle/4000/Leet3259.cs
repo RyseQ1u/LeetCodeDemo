@@ -33,6 +33,8 @@ namespace LeetCode.Methods.Middle
                 //选B的情况同理，dp[2]记录上一次计算的选A最大值
                 dp2 = Math.Max(dp2 + energyDrinkB[i], tmp);
             }
+            ////可以优化内存
+            //if (energyDrinkA.Length > 10000) GC.Collect();
             //最后返回最大值
             return Math.Max(dp1, dp2);
         }
