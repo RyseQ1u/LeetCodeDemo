@@ -1,8 +1,4 @@
-﻿using LeetCode.Utilities.Extensions;
-using LeetCode.Methods;
-using LeetCode.Methods.Easy;
-using LeetCode.Methods.Hard;
-using LeetCode.Methods.Middle;
+﻿using LeetCode.Methods.Easy;
 using System;
 
 namespace LeetCode

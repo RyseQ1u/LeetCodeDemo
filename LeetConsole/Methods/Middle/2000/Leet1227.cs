@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace LeetCode.Methods.Middle
+﻿namespace LeetCode.Methods.Middle
 {
     /// <summary>
     /// 1227

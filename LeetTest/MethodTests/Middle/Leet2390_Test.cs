@@ -1,12 +1,4 @@
 ﻿using LeetCode.Methods;
-using LeetCode.Methods.Easy;
-using LeetCode.Methods.Middle;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LeetTest.MethodTests.Middle
 {

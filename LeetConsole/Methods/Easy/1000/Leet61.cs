@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Security.Cryptography;
 
 namespace LeetCode.Methods.Easy
 {
@@ -90,7 +87,7 @@ namespace LeetCode.Methods.Easy
                     cur++;
                     r = Math.Max(r, cur);
                 }
-                else 
+                else
                 {
                     cur = 0;
                 }

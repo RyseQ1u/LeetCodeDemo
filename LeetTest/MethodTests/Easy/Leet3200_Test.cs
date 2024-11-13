@@ -1,9 +1,5 @@
 using LeetCode.Methods.Easy;
 
-using LeetCode.Methods.Easy;
-
-using Xunit;
-
 namespace LeetTest.MethodTests.Easy
 {
     public class Leet3200_Test

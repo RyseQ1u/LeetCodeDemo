@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text.RegularExpressions;
+﻿using System.Collections.Generic;
 
 namespace LeetCode.Methods.Middle
 {
@@ -30,7 +27,8 @@ namespace LeetCode.Methods.Middle
                 {
                     max = dict[edge];
                     r = edge;
-                }else if(max == dict[edge] &&edge<r)
+                }
+                else if (max == dict[edge] && edge < r)
                 {
                     r = edge;
                 }

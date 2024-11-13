@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Linq;
-using System.Net.WebSockets;
 
 namespace LeetCode.Methods.Hard
 {
@@ -80,13 +78,11 @@ namespace LeetCode.Methods.Hard
                 {
                     if (st.Any())
                     {
-
-                    ans[i] = st.Peek();
+                        ans[i] = st.Peek();
                     }
-
                     else { ans[i] = -1; }
                 }
-                
+
                 st.Push(x);
             }
             return ans;

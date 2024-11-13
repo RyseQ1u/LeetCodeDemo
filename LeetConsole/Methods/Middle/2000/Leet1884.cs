@@ -1,5 +1,4 @@
-﻿using LeetCode.Class;
-using System;
+﻿using System;
 
 namespace LeetCode.Methods.Middle
 {

@@ -1,9 +1,5 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Diagnostics.CodeAnalysis;
-using System.Linq;
-using System.Runtime.CompilerServices;
 
 namespace ConsoleApp3.Methods
 {
@@ -58,7 +54,7 @@ namespace ConsoleApp3.Methods
                 //如果第一第二字符串长度相同 则至少可以得到四个长度length[0] - 1的子串
                 if (keyValuePairs[k][0] == keyValuePairs[k][1])
                 {
-                    two = keyValuePairs[k][0] -1;
+                    two = keyValuePairs[k][0] - 1;
                 }
                 //如果第二字符串长度较小 则可以得到三个长度为length[0]的子串 length[0]中两个 length[1]本身一个
                 else if (keyValuePairs[k][0] > keyValuePairs[k][1])

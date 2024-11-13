@@ -1,11 +1,4 @@
-﻿using LeetCode.Methods.Easy;
-using LeetCode.Methods.Hard;
-using LeetCode.Methods.Middle;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using LeetCode.Methods.Hard;
 
 namespace LeetTest.MethodTests.Hard
 {

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace LeetCode.Methods.Hard
 {
@@ -68,7 +67,7 @@ namespace LeetCode.Methods.Hard
                 }
                 result = Math.Max(result, count + (long)Math.Pow(categories.Count, 2));
                 //如果不同类型已经最大值跳出循环
-                if(categories.Count == k)
+                if (categories.Count == k)
                 {
                     break;
                 }

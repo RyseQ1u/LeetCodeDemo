@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace LeetCode.Methods.Hard
+﻿namespace LeetCode.Methods.Hard
 {
     /// <summary>
     /// 3096

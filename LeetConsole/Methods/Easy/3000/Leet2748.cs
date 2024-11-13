@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace LeetCode.Methods.Easy
+﻿namespace LeetCode.Methods.Easy
 {
     /// <summary>
     /// 2748
     /// </summary>
     public class Leet2748
     {
-
         public int CountBeautifulPairs(int[] nums)
         {
             int res = 0, n = nums.Length;
