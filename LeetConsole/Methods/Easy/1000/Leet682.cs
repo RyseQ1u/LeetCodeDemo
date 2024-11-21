@@ -7,15 +7,6 @@ namespace LeetCode.Methods.Easy
     /// </summary>
     public class Leet682
     {
-        public int Action()
-        {
-            //var input1 = new int[] { 1, 7, 3, 6, 5, 6 };
-            //var input1 = new string[] { "5", "2", "C", "D", "+" };
-            var input1 = new string[] { "5", "-2", "4", "C", "D", "9", "+", "+" };
-
-            return CalPoints(input1);
-        }
-
         public int CalPoints(string[] operations)
         {
             var r = 0;
