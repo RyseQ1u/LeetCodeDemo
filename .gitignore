@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/LeetConsole/.vs/
+/LeetConsole/bin/Debug/
+/LeetConsole/obj/
+
+/LeetTest/bin/Debug/net6.0
+/LeetTest/obj
+/LeetTest/bin/Release/net6.0
