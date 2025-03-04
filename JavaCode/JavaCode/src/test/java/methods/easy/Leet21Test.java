@@ -1,3 +1,5 @@
+package methods.easy;
+
 import leet._class.ListNode;
 import leet.methods.easy.Leet21;
 import org.junit.jupiter.api.Assertions;
