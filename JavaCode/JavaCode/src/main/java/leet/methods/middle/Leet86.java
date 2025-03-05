@@ -1,4 +1,4 @@
-package leet.methods.easy;
+package leet.methods.middle;
 
 import leet._class.ListNode;
 
@@ -29,7 +29,7 @@ public class Leet86 {
         //big链表收尾
         big.next = null;
         //返回结果
-        return small.next;
+        return smallFirst.next;
     }
     
 }

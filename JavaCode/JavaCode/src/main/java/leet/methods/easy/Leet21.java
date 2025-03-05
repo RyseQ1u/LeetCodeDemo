@@ -4,6 +4,7 @@ import leet._class.ListNode;
 
 public class Leet21 {
 
+    /// 有序合并两个链表有序链表 使用递归
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         //如果l1为空直接返回l2
         if (l1 == null) {

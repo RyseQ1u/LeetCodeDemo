@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet21 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/methods/easy/Leet206Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/middle/Leet86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Leet21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/easy/Leet21Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,8 @@
     "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
     "JUnit.Leet21Test.executor": "Run",
     "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
+    "JUnit.Leet86Test.executor": "Debug",
+    "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "JavaCode",
@@ -68,20 +71,7 @@
       <recent name="leet.methods.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet206Test">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Leet86Test.testLeet206WithMethodSource">
     <configuration name="Leet206Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -128,11 +118,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet21Test.testLeet21WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet86Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
-      <option name="PACKAGE_NAME" value="methods.easy" />
-      <option name="MAIN_CLASS_NAME" value="methods.easy.Leet21Test" />
-      <option name="METHOD_NAME" value="testLeet21WithMethodSource(leet._class.ListNode,leet._class.ListNode,leet._class.ListNode)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="methods.middle" />
+      <option name="MAIN_CLASS_NAME" value="methods.middle.Leet86Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet86Test.testLeet206WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.middle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="methods.middle" />
+      <option name="MAIN_CLASS_NAME" value="methods.middle.Leet86Test" />
+      <option name="METHOD_NAME" value="testLeet206WithMethodSource(leet._class.ListNode,int,leet._class.ListNode)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet86Test.testLeet206WithMethodSource" />
+        <item itemvalue="JUnit.Leet86Test" />
         <item itemvalue="JUnit.Leet206Test" />
         <item itemvalue="JUnit.Leet206Test.testLeet206WithMethodSource" />
         <item itemvalue="JUnit.Leet21Test" />
-        <item itemvalue="JUnit.Leet21Test.testLeet21WithMethodSource" />
-        <item itemvalue="应用程序.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -166,6 +177,7 @@
       <updated>1740992348858</updated>
       <workItem from="1740992349988" duration="4909000" />
       <workItem from="1741081552859" duration="4096000" />
+      <workItem from="1741144238017" duration="3003000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -211,5 +223,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leet21 commit" />
     <option name="LAST_COMMIT_MESSAGE" value="leet21 commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

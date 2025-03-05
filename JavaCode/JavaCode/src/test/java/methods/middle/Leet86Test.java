@@ -1,3 +1,4 @@
+package methods.middle;
 
 import leet._class.ListNode;
 import leet.methods.middle.Leet86;
@@ -24,7 +25,7 @@ class Leet86Test {
                 Arguments.of(
                         new ListNode(1,new ListNode(2,new ListNode(3,new ListNode(1)))),
                         3,
-                        new ListNode(1,new ListNode(2,new ListNode(1,new ListNode(3)))
+                        new ListNode(1,new ListNode(2,new ListNode(1,new ListNode(3))))
 
 
 

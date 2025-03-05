@@ -6,7 +6,7 @@ import java.util.Stack;
 
 public class Leet206 {
 
-    ///迭代实现
+    ///反转链表 迭代实现
     public ListNode reverseList(ListNode head) {
         //遍历，交换指针
         //上一个节点
@@ -26,6 +26,7 @@ public class Leet206 {
         return last;
     }
 
+    /// 反转链表 递归
     public ListNode reverseList2(ListNode head) {
         return reverse(head, null);
     }
