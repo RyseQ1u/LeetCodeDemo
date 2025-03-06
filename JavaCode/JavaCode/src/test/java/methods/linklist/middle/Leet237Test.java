@@ -1,7 +1,7 @@
-package methods.middle;
+package methods.linklist.middle;
 
 import leet._class.ListNode;
-import leet.methods.middle.Leet86;
+import leet.methods.linklist.middle.Leet86;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
