@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet21 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/middle/Leet86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet237Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/middle/Leet86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/easy/Leet206Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet206Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/easy/Leet21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet21Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet86Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +50,7 @@
     "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
     "JUnit.Leet21Test.executor": "Run",
     "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
+    "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
     "JUnit.Leet86Test.executor": "Debug",
     "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -67,11 +72,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="methods.linklist.middle" />
+      <recent name="leet.methods.middle" />
       <recent name="methods.easy" />
       <recent name="leet.methods.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet86Test.testLeet206WithMethodSource">
+  <component name="RunManager" selected="JUnit.Leet237Test.testLeet237WithMethodSource">
     <configuration name="Leet206Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -103,17 +110,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet21Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet237Test.testLeet237WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="methods.easy.*" />
+          <option name="PATTERN" value="methods.linklist.middle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="methods.easy" />
-      <option name="MAIN_CLASS_NAME" value="methods.easy.Leet21Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="methods.linklist.middle" />
+      <option name="MAIN_CLASS_NAME" value="methods.linklist.middle.Leet237Test" />
+      <option name="METHOD_NAME" value="testLeet237WithMethodSource(leet._class.ListNode,leet._class.ListNode)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet237Test.testLeet237WithMethodSource" />
         <item itemvalue="JUnit.Leet86Test.testLeet206WithMethodSource" />
         <item itemvalue="JUnit.Leet86Test" />
         <item itemvalue="JUnit.Leet206Test" />
         <item itemvalue="JUnit.Leet206Test.testLeet206WithMethodSource" />
-        <item itemvalue="JUnit.Leet21Test" />
       </list>
     </recent_temporary>
   </component>
@@ -178,6 +186,9 @@
       <workItem from="1740992349988" duration="4909000" />
       <workItem from="1741081552859" duration="4096000" />
       <workItem from="1741144238017" duration="3003000" />
+      <workItem from="1741187242423" duration="16000" />
+      <workItem from="1741187542211" duration="6000" />
+      <workItem from="1741249644172" duration="2784000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -228,7 +239,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet86Test.java</url>
           <line>18</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

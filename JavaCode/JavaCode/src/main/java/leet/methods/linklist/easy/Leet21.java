@@ -1,4 +1,4 @@
-package leet.methods.easy;
+package leet.methods.linklist.easy;
 
 import leet._class.ListNode;
 

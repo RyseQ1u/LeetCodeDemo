@@ -1,4 +1,4 @@
-package methods.middle;
+package methods.linklist.middle;
 
 import leet._class.ListNode;
 import leet.methods.linklist.middle.Leet86;
