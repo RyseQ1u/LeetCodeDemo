@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet21 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet237Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/easy/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/middle/Leet86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/easy/Leet206Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet206Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/easy/Leet21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet21Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/middle/Leet86Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet86Test.java" afterDir="false" />
-    </list>
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet21 commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +178,7 @@
       <workItem from="1741144238017" duration="3003000" />
       <workItem from="1741187242423" duration="16000" />
       <workItem from="1741187542211" duration="6000" />
-      <workItem from="1741249644172" duration="2784000" />
+      <workItem from="1741249644172" duration="3279000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
