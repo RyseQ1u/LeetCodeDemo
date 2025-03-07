@@ -1,6 +1,6 @@
 package leet.methods.linklist.middle;
 
-import leet._class.ListNode;
+import leet._class.linklist.ListNode;
 
 public class Leet237 {
 
@@ -10,6 +10,8 @@ public class Leet237 {
         node.val = node.next.val;
         //删除下一个节点
         node.next = node.next.next;
+
+
     }
-    
+
 }

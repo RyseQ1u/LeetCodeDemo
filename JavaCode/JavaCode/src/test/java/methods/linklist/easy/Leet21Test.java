@@ -1,6 +1,6 @@
 package methods.linklist.easy;
 
-import leet._class.ListNode;
+import leet._class.linklist.ListNode;
 import leet.methods.linklist.easy.Leet21;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;

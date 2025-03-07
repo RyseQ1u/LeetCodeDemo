@@ -1,6 +1,6 @@
 package leet.methods.linklist.easy;
 
-import leet._class.ListNode;
+import leet._class.linklist.ListNode;
 
 public class Leet21 {
 

@@ -1,4 +1,4 @@
-package leet._class;
+package leet._class.linklist;
 
  public class ListNode {
      public int val;

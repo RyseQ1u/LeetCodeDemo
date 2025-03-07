@@ -1,8 +1,6 @@
 package leet.methods.linklist.easy;
 
-import leet._class.ListNode;
-
-import java.util.Stack;
+import leet._class.linklist.ListNode;
 
 public class Leet206 {
 
