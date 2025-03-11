@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet237 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/_class/stackAndqueue/ListNode_Leet115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/_class/stackAndqueue/MinStack_LinkList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/_class/stackAndqueue/MinStack_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet115Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet115 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/_class/stackAndqueue/MyQueue_Leet232.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet232.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/_class/linklist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/_class/linklist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/middle/Leet115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet115Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet115Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,42 +52,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.Leet115Test.testLeet237WithMethodSource (1).executor": "Debug",
-    "JUnit.Leet115Test.testLeet237WithMethodSource.executor": "Debug",
-    "JUnit.Leet206Test.executor": "Run",
-    "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
-    "JUnit.Leet20Test.testLeet21WithMethodSource.executor": "Run",
-    "JUnit.Leet21Test.executor": "Run",
-    "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
-    "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
-    "JUnit.Leet86Test.executor": "Debug",
-    "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "JavaCode",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Dev/Java/java8",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet21Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet21Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet237Test.testLeet237WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet86Test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet86Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Dev/Java/java8&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.stackAndqueue.easy" />
       <recent name="leet._class.stackAndqueue" />
       <recent name="methods.linklist.middle" />
       <recent name="leet._class.linklist" />
-      <recent name="leet.stackAndqueue.easy" />
       <recent name="methods.linklist.easy" />
     </key>
   </component>
@@ -212,7 +208,8 @@
       <workItem from="1741325156232" duration="3630000" />
       <workItem from="1741360000144" duration="2000" />
       <workItem from="1741444403015" duration="3745000" />
-      <workItem from="1741595833419" duration="7809000" />
+      <workItem from="1741595833419" duration="9046000" />
+      <workItem from="1741663097576" duration="2264000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -254,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741356292956</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="leet115 commit">
+      <option name="closed" value="true" />
+      <created>1741607073319</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741607073319</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +291,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leet21 commit" />
     <MESSAGE value="leet237 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="leet237 commit" />
+    <MESSAGE value="leet115 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet115 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -297,12 +303,12 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet115.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/stackAndqueue/middle/Leet115.java</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet115.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/stackAndqueue/middle/Leet115.java</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
