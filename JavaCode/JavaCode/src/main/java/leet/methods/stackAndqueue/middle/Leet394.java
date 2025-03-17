@@ -1,6 +1,4 @@
-package leet.stackAndqueue.middle;
-
-import leet._class.stackAndqueue.MinStack_Stack;
+package leet.methods.stackAndqueue.middle;
 
 import java.util.LinkedList;
 import java.util.Queue;

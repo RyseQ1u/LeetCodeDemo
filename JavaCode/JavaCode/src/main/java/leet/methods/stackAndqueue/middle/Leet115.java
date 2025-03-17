@@ -1,4 +1,4 @@
-package leet.stackAndqueue.middle;
+package leet.methods.stackAndqueue.middle;
 
 import leet._class.stackAndqueue.MinStack_Stack;
 

@@ -1,4 +1,4 @@
-package leet.stackAndqueue.easy;
+package leet.methods.stackAndqueue.easy;
 
 import java.util.HashMap;
 import java.util.Map;
