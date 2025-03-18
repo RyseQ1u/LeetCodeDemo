@@ -18,9 +18,9 @@ public class Leet394 {
         //临时乘数
         int multi = 0;
         //出现次数队列
-        Stack<Integer> frequency = new Stack<Integer>();
+        Stack<Integer> frequency = new Stack<>();
         //出现字符串队列
-        Stack<String> strings = new Stack<String>();
+        Stack<String> strings = new Stack<>();
 
         //遍历字符串
         for (int i = 0; i < s.length(); i++) {
@@ -39,7 +39,7 @@ public class Leet394 {
                     tmp.append(sb);
                 }
                 sb.setLength(0);
-                sb.append(strings.pop()+tmp);
+                sb.append(strings.pop()).append(tmp);
                 tmp.setLength(0);
             }
             //遇到数字时处理，可能有多位数
@@ -60,9 +60,9 @@ public class Leet394 {
         //临时变量
         StringBuilder tmp = new StringBuilder();
         //出现次数队列
-        Queue<Integer> frequency = new LinkedList<Integer>();
+        Queue<Integer> frequency = new LinkedList<>();
         //出现字符串队列
-        Queue<String> strings = new LinkedList<String>();
+        Queue<String> strings = new LinkedList<>();
         //标记是否进入[]
         boolean flag = false;
         //遍历字符串

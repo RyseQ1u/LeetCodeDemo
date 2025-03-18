@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet394 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/hashTable/easy/Leet242.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet242 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/hashTable/easy/Leet387.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/easy/Leet20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/easy/Leet232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/easy/Leet232.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/middle/Leet115.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet115.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/stackAndqueue/middle/Leet394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet20Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet20Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet115Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet115Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet394Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet394Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,11 +83,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.hashTable.easy" />
       <recent name="methods.linklist.middle" />
       <recent name="leet.stackAndqueue.middle" />
       <recent name="leet.stackAndqueue.easy" />
       <recent name="leet._class.stackAndqueue" />
-      <recent name="leet._class.linklist" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet394Test.testLeet394WithMethodSource">
@@ -216,7 +210,8 @@
       <workItem from="1741595833419" duration="9046000" />
       <workItem from="1741663097576" duration="2318000" />
       <workItem from="1741744270816" duration="9804000" />
-      <workItem from="1742176852743" duration="3518000" />
+      <workItem from="1742176852743" duration="5179000" />
+      <workItem from="1742262209936" duration="3478000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -282,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741762115883</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Leet242 commit">
+      <option name="closed" value="true" />
+      <created>1742184657613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1742184657613</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +320,8 @@
     <MESSAGE value="leet115 commit" />
     <MESSAGE value="leet232 commit" />
     <MESSAGE value="leet394 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="leet394 commit" />
+    <MESSAGE value="Leet242 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet242 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
