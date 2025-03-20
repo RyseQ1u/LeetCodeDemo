@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet242 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/hashTable/easy/Leet387.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet115 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/hashTable/easy/Leet205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/hashTable/easy/Leet409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet205Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
   &quot;keyToString&quot;: {
     &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
@@ -84,13 +86,13 @@
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leet.methods.hashTable.easy" />
+      <recent name="methods.linklist.easy" />
       <recent name="methods.linklist.middle" />
       <recent name="leet.stackAndqueue.middle" />
       <recent name="leet.stackAndqueue.easy" />
-      <recent name="leet._class.stackAndqueue" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet394Test.testLeet394WithMethodSource">
+  <component name="RunManager" selected="JUnit.Leet205Test.testLeet205WithMethodSource">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="JavaCode" />
@@ -136,7 +138,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet20Test.testLeet21WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet205Test.testLeet205WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +147,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="methods.linklist.easy" />
-      <option name="MAIN_CLASS_NAME" value="methods.linklist.easy.Leet20Test" />
-      <option name="METHOD_NAME" value="testLeet21WithMethodSource(java.lang.String,boolean)" />
+      <option name="MAIN_CLASS_NAME" value="methods.linklist.easy.Leet205Test" />
+      <option name="METHOD_NAME" value="testLeet205WithMethodSource(java.lang.String,java.lang.String,boolean)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
         <item itemvalue="JUnit.Leet394Test.testLeet394WithMethodSource" />
         <item itemvalue="JUnit.Leet115Test.testLeet237WithMethodSource (1)" />
         <item itemvalue="JUnit.Leet115Test.testLeet237WithMethodSource" />
         <item itemvalue="应用程序.Main" />
-        <item itemvalue="JUnit.Leet20Test.testLeet21WithMethodSource" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +213,10 @@
       <workItem from="1741663097576" duration="2318000" />
       <workItem from="1741744270816" duration="9804000" />
       <workItem from="1742176852743" duration="5179000" />
-      <workItem from="1742262209936" duration="3478000" />
+      <workItem from="1742262209936" duration="3605000" />
+      <workItem from="1742368554390" duration="3421000" />
+      <workItem from="1742379424949" duration="9000" />
+      <workItem from="1742434945127" duration="5440000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -285,7 +290,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742184657613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Leet115 commit">
+      <option name="closed" value="true" />
+      <created>1742268588977</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1742268588977</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,7 +334,8 @@
     <MESSAGE value="leet232 commit" />
     <MESSAGE value="leet394 commit" />
     <MESSAGE value="Leet242 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet242 commit" />
+    <MESSAGE value="Leet115 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet115 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
