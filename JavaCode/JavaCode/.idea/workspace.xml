@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet392 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/easy/Leet876.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet2255Test.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet2255,876 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/easy/Leet160.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,12 +30,12 @@
     &quot;assignee&quot;: &quot;RyseQ1u&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/RyseQ1u/LeetCodeDemo&quot;,
-    &quot;accountId&quot;: &quot;06181d86-eabd-4fc8-a5e1-3b820db3984e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:RyseQ1u/LeetCodeDemo.git",
+    "accountId": "735a660b-93cf-490e-b6f5-58ac067d0998"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -51,44 +50,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.Leet115Test.testLeet237WithMethodSource (1).executor": "Debug",
-    "JUnit.Leet115Test.testLeet237WithMethodSource.executor": "Debug",
-    "JUnit.Leet205Test.testLeet205WithMethodSource.executor": "Run",
-    "JUnit.Leet206Test.executor": "Run",
-    "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
-    "JUnit.Leet20Test.testLeet21WithMethodSource.executor": "Run",
-    "JUnit.Leet21Test.executor": "Run",
-    "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
-    "JUnit.Leet2255Test.testLeet2255WithMethodSource.executor": "Debug",
-    "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
-    "JUnit.Leet394Test.testLeet394WithMethodSource.executor": "Run",
-    "JUnit.Leet86Test.executor": "Debug",
-    "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "JavaCode",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Study/Code/Java/grpc-java-1.69.0/examples",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet21Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet21Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet2255Test.testLeet2255WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet237Test.testLeet237WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet394Test.testLeet394WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet86Test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet86Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/Java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.doublePointer.easy" />
       <recent name="methods.linklist.easy" />
       <recent name="leet.Daily.easy" />
-      <recent name="leet.methods.doublePointer.easy" />
       <recent name="leet.methods.hashTable.easy" />
       <recent name="methods.linklist.middle" />
     </key>
@@ -224,7 +228,9 @@
       <workItem from="1742527741406" duration="5361000" />
       <workItem from="1742555491785" duration="4000" />
       <workItem from="1742556159060" duration="11000" />
-      <workItem from="1742788589525" duration="3603000" />
+      <workItem from="1742788589525" duration="6582000" />
+      <workItem from="1742836289589" duration="18000" />
+      <workItem from="1742868456996" duration="849000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -322,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742555268428</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Leet2255,876 commit">
+      <option name="closed" value="true" />
+      <created>1742796283917</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1742796283917</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +375,8 @@
     <MESSAGE value="Leet115 commit" />
     <MESSAGE value="Leet205,409 commit" />
     <MESSAGE value="Leet392 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet392 commit" />
+    <MESSAGE value="Leet2255,876 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet2255,876 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -398,7 +413,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java</url>
-          <line>10</line>
+          <line>6</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
