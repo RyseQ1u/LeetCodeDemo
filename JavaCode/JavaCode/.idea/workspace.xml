@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet2716 commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2278.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet2278 commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2873.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/Daily/easy/Leet2873Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -49,46 +51,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet21Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet21Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet2255Test.testLeet2255WithMethodSource.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Leet237Test.testLeet237WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet2716Test.testLeet2716WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet394Test.testLeet394WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet86Test.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Leet86Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.Leet115Test.testLeet237WithMethodSource (1).executor": "Debug",
+    "JUnit.Leet115Test.testLeet237WithMethodSource.executor": "Debug",
+    "JUnit.Leet205Test.testLeet205WithMethodSource.executor": "Run",
+    "JUnit.Leet206Test.executor": "Run",
+    "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
+    "JUnit.Leet20Test.testLeet21WithMethodSource.executor": "Run",
+    "JUnit.Leet21Test.executor": "Run",
+    "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
+    "JUnit.Leet2255Test.testLeet2255WithMethodSource.executor": "Debug",
+    "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
+    "JUnit.Leet2716Test.testLeet2716WithMethodSource.executor": "Run",
+    "JUnit.Leet2873Test.maximumTripletValue.executor": "Run",
+    "JUnit.Leet394Test.testLeet394WithMethodSource.executor": "Run",
+    "JUnit.Leet86Test.executor": "Debug",
+    "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "JavaCode",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Study/Code/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.Main.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="leet.Daily.easy" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="leet.Daily.easy" />
       <recent name="methods.linklist.easy" />
@@ -97,23 +108,7 @@
       <recent name="methods.linklist.middle" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet2716Test.testLeet2716WithMethodSource">
-    <configuration name="Leet115Test.testLeet237WithMethodSource (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.linklist.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="methods.linklist.middle" />
-      <option name="MAIN_CLASS_NAME" value="methods.linklist.middle.Leet115Test" />
-      <option name="METHOD_NAME" value="testLeet237WithMethodSource([Ljava.lang.Integer;)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Leet2873Test.maximumTripletValue">
     <configuration name="Leet205Test.testLeet205WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -162,6 +157,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Leet2873Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.Daily.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.Daily.easy" />
+      <option name="MAIN_CLASS_NAME" value="leet.Daily.easy.Leet2873Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int[],long)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leet394Test.testLeet394WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -180,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet2873Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet2716Test.testLeet2716WithMethodSource" />
         <item itemvalue="JUnit.Leet2255Test.testLeet2255WithMethodSource" />
         <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
         <item itemvalue="JUnit.Leet394Test.testLeet394WithMethodSource" />
-        <item itemvalue="JUnit.Leet115Test.testLeet237WithMethodSource (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +244,11 @@
       <workItem from="1742868456996" duration="913000" />
       <workItem from="1742870298943" duration="2000" />
       <workItem from="1743133166746" duration="4075000" />
-      <workItem from="1743385807416" duration="1094000" />
+      <workItem from="1743385807416" duration="1727000" />
+      <workItem from="1743389614795" duration="2000" />
+      <workItem from="1743389631306" duration="2000" />
+      <workItem from="1743476785359" duration="1224000" />
+      <workItem from="1743560980730" duration="5700000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -355,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743144652323</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Leet2278 commit">
+      <option name="closed" value="true" />
+      <created>1743386918640</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1743386918640</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -397,7 +420,8 @@
     <MESSAGE value="Leet2255,876 commit" />
     <MESSAGE value="Leet160 commit" />
     <MESSAGE value="Leet2716 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet2716 commit" />
+    <MESSAGE value="Leet2278 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet2278 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
