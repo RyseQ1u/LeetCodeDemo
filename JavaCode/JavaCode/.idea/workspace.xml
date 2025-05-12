@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet2843、142 commit">
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet1534&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +75,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/Java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/Java/HdfsClientDemo&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -102,8 +103,8 @@
       <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet.Daily.easy" />
+      <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet._class.stackAndqueue" />
       <recent name="leet.methods.stackAndqueue.hard" />
       <recent name="leet.Daily.middle" />
@@ -259,7 +260,12 @@
       <workItem from="1743996077373" duration="3492000" />
       <workItem from="1744188828358" duration="600000" />
       <workItem from="1744333862608" duration="5625000" />
-      <workItem from="1744593882755" duration="660000" />
+      <workItem from="1744593882755" duration="1037000" />
+      <workItem from="1744611334776" duration="654000" />
+      <workItem from="1744766337588" duration="3000" />
+      <workItem from="1744777078095" duration="2425000" />
+      <workItem from="1747031886635" duration="91000" />
+      <workItem from="1747032108074" duration="922000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -421,7 +427,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744354581745</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Leet1534&#10; commit">
+      <option name="closed" value="true" />
+      <created>1744594917327</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744594917327</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +482,8 @@
     <MESSAGE value="Leet2874、295 commit" />
     <MESSAGE value="Leet167 commit" />
     <MESSAGE value="Leet2843、142 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet2843、142 commit" />
+    <MESSAGE value="Leet1534&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet1534&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
