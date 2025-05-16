@@ -1,8 +1,6 @@
 package leet.methods.doublePointer.middle;
 
-import java.util.Calendar;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
 
 public class Leet3 {
