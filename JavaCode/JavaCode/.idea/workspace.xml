@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet151 method2&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2900.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/middle/Leet3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +104,8 @@
       <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.Daily.easy" />
       <recent name="leet.methods.doublePointer.middle" />
+      <recent name="leet.Daily.easy" />
       <recent name="leet.Daily.middle" />
       <recent name="leet._class.stackAndqueue" />
       <recent name="leet.methods.stackAndqueue.hard" />
@@ -270,6 +270,7 @@
       <workItem from="1747103034678" duration="2796000" />
       <workItem from="1747187042894" duration="5357000" />
       <workItem from="1747282192972" duration="2332000" />
+      <workItem from="1747363052353" duration="3411000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
