@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet15&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/middle/Leet15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/doublePointer/middle/Leet15Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet3024.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,8 +109,8 @@
       <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet.Daily.easy" />
+      <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet.Daily.middle" />
       <recent name="leet._class.stackAndqueue" />
       <recent name="leet.methods.stackAndqueue.hard" />
@@ -278,7 +277,7 @@
       <workItem from="1747282192972" duration="2332000" />
       <workItem from="1747363052353" duration="3543000" />
       <workItem from="1747576755401" duration="958000" />
-      <workItem from="1747617016358" duration="4268000" />
+      <workItem from="1747617016358" duration="5707000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -496,7 +495,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747367608517</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Leet15&#10; commit">
+      <option name="closed" value="true" />
+      <created>1747622040175</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1747622040175</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
