@@ -6,9 +6,11 @@ public class Leet415 {
         //carry 10进位
         int i = num1.length() - 1, j = num2.length() - 1, carry = 0;
         while (i >= 0 || j >= 0) {
+            //如果较短的字符串提前遍历完 则补0
             int n1 = i >= 0 ? num1.charAt(i) - '0' : 0;
             int n2 = j >= 0 ? num2.charAt(j) - '0' : 0;
             int tmp = n1 + n2 + carry;
+            //记录进位
             carry = tmp / 10;
             res.append(tmp % 10);
             i--;
