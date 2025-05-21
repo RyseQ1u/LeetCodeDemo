@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet3355&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/middle/Leet3355.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/mock/easy/Leet415.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -282,7 +282,8 @@
       <workItem from="1747638471835" duration="1711000" />
       <workItem from="1747642964101" duration="2183000" />
       <workItem from="1747671481285" duration="795000" />
-      <workItem from="1747704019765" duration="4546000" />
+      <workItem from="1747704019765" duration="4563000" />
+      <workItem from="1747839955098" duration="842000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -508,7 +509,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747622040175</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Leet3355&#10; commit">
+      <option name="closed" value="true" />
+      <created>1747726657500</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1747726657500</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
