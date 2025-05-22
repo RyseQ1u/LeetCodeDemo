@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet3355&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/mock/easy/Leet415.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet415&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/mock/easy/Leet796.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -110,11 +110,11 @@
       <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.mock.easy" />
       <recent name="leet.Daily.middle" />
       <recent name="leet.Daily.easy" />
       <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet._class.stackAndqueue" />
-      <recent name="leet.methods.stackAndqueue.hard" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet15Test.testLeet206WithMethodSource">
@@ -283,7 +283,8 @@
       <workItem from="1747642964101" duration="2183000" />
       <workItem from="1747671481285" duration="795000" />
       <workItem from="1747704019765" duration="4563000" />
-      <workItem from="1747839955098" duration="842000" />
+      <workItem from="1747839955098" duration="1624000" />
+      <workItem from="1747902942363" duration="1593000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -517,7 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747726657500</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Leet415&#10; commit">
+      <option name="closed" value="true" />
+      <created>1747840820083</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1747840820083</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Leet415&#10; commit">
+      <option name="closed" value="true" />
+      <created>1747842154685</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1747842154685</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +564,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leet21 commit" />
     <MESSAGE value="leet237 commit" />
     <MESSAGE value="leet115 commit" />
     <MESSAGE value="leet232 commit" />
@@ -572,7 +588,8 @@
     <MESSAGE value="Leet3&#10; commit" />
     <MESSAGE value="Leet15&#10; commit" />
     <MESSAGE value="Leet3355&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet3355&#10; commit" />
+    <MESSAGE value="Leet415&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet415&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
