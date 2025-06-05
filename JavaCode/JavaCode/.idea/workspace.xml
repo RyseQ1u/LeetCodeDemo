@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet6&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/mock/middle/Leet54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/mock/middle/Leet54Test.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet59&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/mock/middle/Leet48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +73,7 @@
     &quot;JUnit.Leet2716Test.testLeet2716WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet2873Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet394Test.testLeet394WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet54Test.maximumTripletValue (1).executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet54Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet6Test.maximumTripletValue (1).executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet6Test.maximumTripletValue (2).executor&quot;: &quot;Run&quot;,
@@ -291,7 +291,9 @@
       <workItem from="1747970558901" duration="3162000" />
       <workItem from="1748395709710" duration="4622000" />
       <workItem from="1748918446827" duration="7225000" />
-      <workItem from="1748929999366" duration="388000" />
+      <workItem from="1748929999366" duration="857000" />
+      <workItem from="1749003278925" duration="1123000" />
+      <workItem from="1749093046777" duration="5074000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -557,7 +559,23 @@
       <option name="project" value="LOCAL" />
       <updated>1747980117182</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Leet54&#10; commit">
+      <option name="closed" value="true" />
+      <created>1748930850566</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1748930850566</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Leet59&#10; commit">
+      <option name="closed" value="true" />
+      <created>1749004469091</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1749004469091</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -587,8 +605,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="leet394 commit" />
-    <MESSAGE value="Leet242 commit" />
     <MESSAGE value="Leet115 commit" />
     <MESSAGE value="Leet205,409 commit" />
     <MESSAGE value="Leet392 commit" />
@@ -612,7 +628,9 @@
     <MESSAGE value="Leet796&#10; commit" />
     <MESSAGE value="Leet946&#10; commit" />
     <MESSAGE value="Leet6&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet6&#10; commit" />
+    <MESSAGE value="Leet54&#10; commit" />
+    <MESSAGE value="Leet59&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet59&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -656,11 +674,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/middle/Leet167.java</url>
           <line>17</line>
           <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/mock/middle/Leet54.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
