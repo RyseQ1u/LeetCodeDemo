@@ -1,13 +1,10 @@
 package leet.methods.mock.middle;
 
-import java.util.ArrayList;
-
 public class Leet48 {
 
 
     /**
      * 数学法 使用旋转公式
-     * @param matrix
      */
     public void rotate(int[][] matrix) {
         int n = matrix.length;
@@ -24,8 +21,7 @@ public class Leet48 {
     }
 
     /**
-     * 模拟旋转+旋转公式
-     * @param matrix
+     * 模拟旋转+旋转公式 降低空间复杂度
      */
     public void rotate_V2(int[][] matrix) {
         int n = matrix.length;
