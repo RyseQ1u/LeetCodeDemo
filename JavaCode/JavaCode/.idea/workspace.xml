@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet8&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet278.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/binarySearch/easy/Leet278Test.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet278&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet724.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -301,7 +300,7 @@
       <workItem from="1749093046777" duration="5325000" />
       <workItem from="1749173584962" duration="6192000" />
       <workItem from="1749517760760" duration="4220000" />
-      <workItem from="1749604403408" duration="2915000" />
+      <workItem from="1749604403408" duration="4612000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -607,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749185657742</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Leet278&#10; commit">
+      <option name="closed" value="true" />
+      <created>1749607916964</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749607916964</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,7 +644,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet392 commit" />
     <MESSAGE value="Leet2255,876 commit" />
     <MESSAGE value="Leet160 commit" />
     <MESSAGE value="Leet2716 commit" />
@@ -662,7 +668,8 @@
     <MESSAGE value="Leet59&#10; commit" />
     <MESSAGE value="Leet48&#10; commit" />
     <MESSAGE value="Leet8&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet8&#10; commit" />
+    <MESSAGE value="Leet278&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet278&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
