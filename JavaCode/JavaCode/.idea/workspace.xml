@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet8&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet3442.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet704.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/binarySearch/easy/Leet704Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/binarySearch/easy/Leet278Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,8 @@
     "JUnit.Leet2255Test.testLeet2255WithMethodSource.executor": "Debug",
     "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
     "JUnit.Leet2716Test.testLeet2716WithMethodSource.executor": "Run",
+    "JUnit.Leet278Test.maximumTripletValue (1).executor": "Debug",
+    "JUnit.Leet278Test.maximumTripletValue.executor": "Debug",
     "JUnit.Leet2873Test.maximumTripletValue.executor": "Run",
     "JUnit.Leet394Test.testLeet394WithMethodSource.executor": "Run",
     "JUnit.Leet54Test.maximumTripletValue (1).executor": "Run",
@@ -127,7 +128,39 @@
       <recent name="leet.Daily.middle" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet704Test.maximumTripletValue">
+  <component name="RunManager" selected="JUnit.Leet278Test.maximumTripletValue (1)">
+    <configuration name="Leet278Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods.binarySearch.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods.binarySearch.easy" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods.binarySearch.easy.Leet278Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet278Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods.binarySearch.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods.binarySearch.easy" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods.binarySearch.easy.Leet278Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leet54Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -160,38 +193,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet6Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.mock.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.mock.middle" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.mock.middle.Leet6Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(java.lang.String,int,int[])" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leet6Test.maximumTripletValue (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.mock.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.mock.middle" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.mock.middle.Leet6Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(java.lang.String,int,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leet704Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -210,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet278Test.maximumTripletValue (1)" />
+        <item itemvalue="JUnit.Leet278Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet704Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet54Test.maximumTripletValue (1)" />
         <item itemvalue="JUnit.Leet54Test.maximumTripletValue" />
-        <item itemvalue="JUnit.Leet6Test.maximumTripletValue (2)" />
-        <item itemvalue="JUnit.Leet6Test.maximumTripletValue (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -300,6 +301,7 @@
       <workItem from="1749093046777" duration="5325000" />
       <workItem from="1749173584962" duration="6192000" />
       <workItem from="1749517760760" duration="4220000" />
+      <workItem from="1749604403408" duration="2915000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
