@@ -1,5 +1,6 @@
 package leet.methods.Search.easy;
 
+import leet.methods.Search.Leet704;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
