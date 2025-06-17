@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet3423&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet287.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet235,230&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/tree/Leet230.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/tree/Leet235.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/tree/Leet230Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet704.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/binarySearch/easy/Leet724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet724.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/binarySearch/easy/Leet278Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/Search/easy/Leet278Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/binarySearch/easy/Leet704Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/Search/easy/Leet704Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/tree/Leet236.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/tree/Leet236.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
   &quot;isMigrated&quot;: true
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -74,6 +72,7 @@
     "JUnit.Leet21Test.executor": "Run",
     "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
     "JUnit.Leet2255Test.testLeet2255WithMethodSource.executor": "Debug",
+    "JUnit.Leet230Test.maximumTripletValue.executor": "Run",
     "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
     "JUnit.Leet2716Test.testLeet2716WithMethodSource.executor": "Run",
     "JUnit.Leet278Test.maximumTripletValue (1).executor": "Debug",
@@ -125,20 +124,37 @@
       <recent name="leet.methods.binarySearch" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="leet.methods.tree" />
       <recent name="leet.methods.binarySearch.easy" />
       <recent name="leet.methods.mock.middle" />
       <recent name="leet.methods.doublePointer.middle" />
       <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.tree" />
       <recent name="leet.methods.Search" />
       <recent name="leet.Daily.easy" />
       <recent name="leet.methods.binarySearch.easy" />
       <recent name="leet.methods.mock.middle" />
-      <recent name="leet.methods.mock.easy" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet278Test.maximumTripletValue (1)">
+  <component name="RunManager" selected="JUnit.Leet230Test.maximumTripletValue">
+    <configuration name="Leet230Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods.tree" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods.tree.Leet230Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(leet._class.Tree.TreeNode,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leet278Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -187,22 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet54Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.mock.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.mock.middle" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.mock.middle.Leet54Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int[][],java.util.List)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leet704Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -221,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet230Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet278Test.maximumTripletValue (1)" />
         <item itemvalue="JUnit.Leet278Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet704Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet54Test.maximumTripletValue (1)" />
-        <item itemvalue="JUnit.Leet54Test.maximumTripletValue" />
       </list>
     </recent_temporary>
   </component>
@@ -313,6 +313,7 @@
       <workItem from="1749517760760" duration="4220000" />
       <workItem from="1749604403408" duration="4646000" />
       <workItem from="1749692070709" duration="4329000" />
+      <workItem from="1750123220533" duration="5542000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -672,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet2716 commit" />
     <MESSAGE value="Leet2278 commit" />
     <MESSAGE value="Leet2873 commit" />
     <MESSAGE value="Leet2874、295 commit" />
@@ -697,7 +697,8 @@
     <MESSAGE value="Leet278&#10; commit" />
     <MESSAGE value="Leet274&#10; commit" />
     <MESSAGE value="Leet3423&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet3423&#10; commit" />
+    <MESSAGE value="Leet235,230&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet235,230&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
