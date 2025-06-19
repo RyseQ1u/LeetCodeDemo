@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet215&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet207.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet113、104&#10; commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/recall/Leet104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/recall/Leet113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/recall/Leet104Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JUnit.Leet104Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet151Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
@@ -121,21 +124,37 @@
       <recent name="leet.methods.binarySearch" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="leet.methods.recall" />
       <recent name="leet.methods.tree" />
       <recent name="leet.methods.binarySearch.easy" />
       <recent name="leet.methods.mock.middle" />
       <recent name="leet.methods.doublePointer.middle" />
-      <recent name="leet.Daily.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.recall" />
       <recent name="leet.methods.Search" />
       <recent name="leet.methods.tree" />
       <recent name="leet.Daily.easy" />
       <recent name="leet.methods.binarySearch.easy" />
-      <recent name="leet.methods.mock.middle" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet230Test.maximumTripletValue">
+  <component name="RunManager" selected="JUnit.Leet104Test.maximumTripletValue">
+    <configuration name="Leet104Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods.recall.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods.recall" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods.recall.Leet104Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(leet._class.Tree.TreeNode,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Leet230Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -184,22 +203,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet54Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.mock.middle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.mock.middle" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.mock.middle.Leet54Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int[][],int[])" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Leet704Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -218,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet104Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet230Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet278Test.maximumTripletValue (1)" />
         <item itemvalue="JUnit.Leet278Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet704Test.maximumTripletValue" />
-        <item itemvalue="JUnit.Leet54Test.maximumTripletValue (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +315,9 @@
       <workItem from="1749692070709" duration="4329000" />
       <workItem from="1750123220533" duration="5571000" />
       <workItem from="1750209270001" duration="6135000" />
-      <workItem from="1750217089923" duration="1883000" />
+      <workItem from="1750217089923" duration="2311000" />
+      <workItem from="1750296515907" duration="2630000" />
+      <workItem from="1750299796481" duration="1359000" />
     </task>
     <task id="LOCAL-00001" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -658,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750215740297</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Leet207&#10; commit">
+      <option name="closed" value="true" />
+      <created>1750219285821</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1750219285821</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -688,8 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet2873 commit" />
-    <MESSAGE value="Leet2874、295 commit" />
     <MESSAGE value="Leet167 commit" />
     <MESSAGE value="Leet2843、142 commit" />
     <MESSAGE value="Leet1534&#10; commit" />
@@ -713,7 +724,9 @@
     <MESSAGE value="Leet3423&#10; commit" />
     <MESSAGE value="Leet235,230&#10; commit" />
     <MESSAGE value="Leet215&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet215&#10; commit" />
+    <MESSAGE value="Leet207&#10; commit" />
+    <MESSAGE value="Leet113、104&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet113、104&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -757,6 +770,14 @@
           <url>file://$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/middle/Leet167.java</url>
           <line>17</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/recall/Leet104.java</url>
+          <line>39</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
