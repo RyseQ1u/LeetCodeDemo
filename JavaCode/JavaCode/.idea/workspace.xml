@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet101&#10; commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/DivideConquer/Leet105Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet105..&#10; commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -114,6 +110,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="leet.methods.DivideConquer" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Study\Code\C#\Test\ConsoleApp1\JavaCode\JavaCode\src\main\java\leet\methods\Search" />
     </key>
@@ -323,15 +322,7 @@
       <workItem from="1750597007147" duration="3677000" />
       <workItem from="1750641871405" duration="6865000" />
       <workItem from="1750727693700" duration="3085000" />
-      <workItem from="1750813750013" duration="9683000" />
-    </task>
-    <task id="LOCAL-00003" summary="leet21 commit">
-      <option name="closed" value="true" />
-      <created>1741012246349</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1741012246349</updated>
+      <workItem from="1750813750013" duration="9790000" />
     </task>
     <task id="LOCAL-00004" summary="leet21 commit">
       <option name="closed" value="true" />
@@ -717,7 +708,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750650930804</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Leet105..&#10; commit">
+      <option name="closed" value="true" />
+      <created>1750834361692</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1750834361692</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -747,7 +746,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet151 method2&#10; commit" />
     <MESSAGE value="Leet3&#10; commit" />
     <MESSAGE value="Leet15&#10; commit" />
     <MESSAGE value="Leet3355&#10; commit" />
@@ -772,7 +770,8 @@
     <MESSAGE value="Leet79&#10; commit" />
     <MESSAGE value="Leet226&#10; commit" />
     <MESSAGE value="Leet101&#10; commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet101&#10; commit" />
+    <MESSAGE value="Leet105..&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet105..&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -832,7 +831,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet105.java</url>
-          <line>16</line>
+          <line>19</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
