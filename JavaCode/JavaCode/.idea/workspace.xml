@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="demo commit" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet105..&#10; commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -323,30 +323,6 @@
       <workItem from="1750641871405" duration="6865000" />
       <workItem from="1750727693700" duration="3085000" />
       <workItem from="1750813750013" duration="9790000" />
-    </task>
-    <task id="LOCAL-00004" summary="leet21 commit">
-      <option name="closed" value="true" />
-      <created>1741264696222</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1741264696222</updated>
-    </task>
-    <task id="LOCAL-00005" summary="leet237 commit">
-      <option name="closed" value="true" />
-      <created>1741356292956</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1741356292956</updated>
-    </task>
-    <task id="LOCAL-00006" summary="leet115 commit">
-      <option name="closed" value="true" />
-      <created>1741607073319</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1741607073319</updated>
     </task>
     <task id="LOCAL-00007" summary="leet232 commit">
       <option name="closed" value="true" />
@@ -716,7 +692,31 @@
       <option name="project" value="LOCAL" />
       <updated>1750834361692</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Leet105..&#10; commit">
+      <option name="closed" value="true" />
+      <created>1752638533255</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1752638533255</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Leet105..&#10; commit">
+      <option name="closed" value="true" />
+      <created>1752638599161</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1752638599161</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Leet105..&#10; commit">
+      <option name="closed" value="true" />
+      <created>1752638607020</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1752638607020</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -769,9 +769,9 @@
     <MESSAGE value="Leet79&#10; commit" />
     <MESSAGE value="Leet226&#10; commit" />
     <MESSAGE value="Leet101&#10; commit" />
-    <MESSAGE value="Leet105..&#10; commit" />
     <MESSAGE value="demo commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="demo commit" />
+    <MESSAGE value="Leet105..&#10; commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet105..&#10; commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
