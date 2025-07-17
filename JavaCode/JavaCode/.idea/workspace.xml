@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="代码管理&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet297.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/DivideConquer/Leet297Test.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaCode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet297.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,15 +336,7 @@
       <workItem from="1750641871405" duration="6865000" />
       <workItem from="1750727693700" duration="3085000" />
       <workItem from="1750813750013" duration="9790000" />
-      <workItem from="1752717255276" duration="7205000" />
-    </task>
-    <task id="LOCAL-00010" summary="Leet115 commit">
-      <option name="closed" value="true" />
-      <created>1742268588977</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1742268588977</updated>
+      <workItem from="1752717255276" duration="7277000" />
     </task>
     <task id="LOCAL-00011" summary="Leet205,409 commit">
       <option name="closed" value="true" />
@@ -732,7 +722,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752638851001</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
+      <option name="closed" value="true" />
+      <created>1752726026924</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1752726026924</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -762,7 +760,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet3355&#10; commit" />
     <MESSAGE value="Leet415&#10; commit" />
     <MESSAGE value="Leet796&#10; commit" />
     <MESSAGE value="Leet946&#10; commit" />
@@ -787,7 +784,8 @@
     <MESSAGE value="demo commit" />
     <MESSAGE value="Leet105..&#10; commit" />
     <MESSAGE value="代码管理&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="代码管理&#10;commit" />
+    <MESSAGE value="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -852,11 +850,6 @@
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="16" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet297.java</url>
-          <line>46</line>
-          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

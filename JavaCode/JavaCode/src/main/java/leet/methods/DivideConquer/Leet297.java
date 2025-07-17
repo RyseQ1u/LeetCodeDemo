@@ -44,23 +44,22 @@ class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-        if( data.isEmpty())
-        return null;
+        if (data.isEmpty()) return null;
         String[] split = data.split(",");
         TreeNode root = new TreeNode(Integer.parseInt(split[0]));
         LinkedList<TreeNode> nodes = new LinkedList<>();
         nodes.add(root);
-        int i =1;
-        while (!nodes.isEmpty()){
+        int i = 1;
+        while (!nodes.isEmpty()) {
             TreeNode node = nodes.poll();
             //处理左节点
-            if(!split[i].equals("#")){
+            if (!split[i].equals("#")) {
                 node.left = new TreeNode(Integer.parseInt(split[i]));
                 nodes.add(node.left);
             }
             i++;
             //处理右节点
-            if(!split[i].equals("#")){
+            if (!split[i].equals("#")) {
                 node.right = new TreeNode(Integer.parseInt(split[i]));
                 nodes.add(node.right);
             }
