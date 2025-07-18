@@ -30,4 +30,18 @@ public class Leet509 {
         }
         return res[n-1];
     }
+
+    /**
+     * 空间优化
+     */
+    public int fib_3(int n) {
+        int a = 0, b = 1, sum;
+        for(int i = 0; i < n; i++){
+            sum = a + b;
+            a = b;
+            b = sum;
+        }
+        return a;
+    }
+
 }
