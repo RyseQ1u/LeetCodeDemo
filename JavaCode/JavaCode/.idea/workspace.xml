@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet70.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet64 最小路径和&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet64.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet509.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,11 +144,11 @@
       <recent name="leet.methods.mock.middle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._10_Dynamic" />
       <recent name="leet.methods.DivideConquer" />
       <recent name="leet.methods.recall" />
       <recent name="leet.methods.Search" />
       <recent name="leet.methods.tree" />
-      <recent name="leet.Daily.easy" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet297Test.maximumTripletValue">
@@ -339,22 +338,7 @@
       <workItem from="1750813750013" duration="9790000" />
       <workItem from="1752717255276" duration="7296000" />
       <workItem from="1752801758403" duration="5595000" />
-    </task>
-    <task id="LOCAL-00013" summary="Leet2255,876 commit">
-      <option name="closed" value="true" />
-      <created>1742796283917</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1742796283917</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Leet160 commit">
-      <option name="closed" value="true" />
-      <created>1742870264989</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1742870264989</updated>
+      <workItem from="1753061687596" duration="7025000" />
     </task>
     <task id="LOCAL-00015" summary="Leet2716 commit">
       <option name="closed" value="true" />
@@ -732,7 +716,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752806225927</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="动态规划&#10;leet1480一维数组的动态求和&#10;commit">
+      <option name="closed" value="true" />
+      <created>1753064877737</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1753064877737</updated>
+    </task>
+    <task id="LOCAL-00063" summary="动态规划&#10;leet121 买卖股票的最佳时机&#10;commit">
+      <option name="closed" value="true" />
+      <created>1753067922767</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1753067922767</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -762,9 +762,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet796&#10; commit" />
-    <MESSAGE value="Leet946&#10; commit" />
-    <MESSAGE value="Leet6&#10; commit" />
     <MESSAGE value="Leet54&#10; commit" />
     <MESSAGE value="Leet59&#10; commit" />
     <MESSAGE value="Leet48&#10; commit" />
@@ -787,7 +784,10 @@
     <MESSAGE value="代码管理&#10;commit" />
     <MESSAGE value="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit" />
     <MESSAGE value="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit" />
+    <MESSAGE value="动态规划&#10;leet1480一维数组的动态求和&#10;commit" />
+    <MESSAGE value="动态规划&#10;leet121 买卖股票的最佳时机&#10;commit" />
+    <MESSAGE value="动态规划&#10;leet64 最小路径和&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet64 最小路径和&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
