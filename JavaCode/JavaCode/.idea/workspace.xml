@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet64 最小路径和&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet64.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet53 最大子数组和&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet198.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet53.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,23 +339,8 @@
       <workItem from="1750813750013" duration="9790000" />
       <workItem from="1752717255276" duration="7296000" />
       <workItem from="1752801758403" duration="5595000" />
-      <workItem from="1753061687596" duration="7025000" />
-    </task>
-    <task id="LOCAL-00015" summary="Leet2716 commit">
-      <option name="closed" value="true" />
-      <created>1743144652323</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1743144652323</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Leet2278 commit">
-      <option name="closed" value="true" />
-      <created>1743386918640</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1743386918640</updated>
+      <workItem from="1753061687596" duration="7124000" />
+      <workItem from="1753147410382" duration="9900000" />
     </task>
     <task id="LOCAL-00017" summary="Leet2873 commit">
       <option name="closed" value="true" />
@@ -732,7 +718,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753067922767</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="动态规划&#10;leet64 最小路径和&#10;commit">
+      <option name="closed" value="true" />
+      <created>1753069395760</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1753069395760</updated>
+    </task>
+    <task id="LOCAL-00065" summary="动态规划&#10;leet53 最大子数组和&#10;commit">
+      <option name="closed" value="true" />
+      <created>1753149459748</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1753149459748</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +751,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/JavaCode" />
+                        <option value="JavaCode" />
                       </list>
                     </value>
                   </entry>
@@ -762,7 +764,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet54&#10; commit" />
     <MESSAGE value="Leet59&#10; commit" />
     <MESSAGE value="Leet48&#10; commit" />
     <MESSAGE value="Leet8&#10; commit" />
@@ -787,7 +788,8 @@
     <MESSAGE value="动态规划&#10;leet1480一维数组的动态求和&#10;commit" />
     <MESSAGE value="动态规划&#10;leet121 买卖股票的最佳时机&#10;commit" />
     <MESSAGE value="动态规划&#10;leet64 最小路径和&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet64 最小路径和&#10;commit" />
+    <MESSAGE value="动态规划&#10;leet53 最大子数组和&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet53 最大子数组和&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
