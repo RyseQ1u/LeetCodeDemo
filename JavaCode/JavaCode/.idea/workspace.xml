@@ -4,9 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet300 最长递增子序列&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet264.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="数学&#10;leet2273 去除相邻的异或字符串&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet21_r1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/easy/Leet21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet138.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/linklist/middle/Leet86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet86.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/Daily/easy/Leet2873Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/Daily/easy/Leet2873Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/doublePointer/middle/Leet151Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/doublePointer/middle/Leet151Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet206Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet206Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet21Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet2255Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet2255Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet237Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet237Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet86Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/middle/Leet86Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +29,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -72,6 +85,7 @@
     &quot;JUnit.Leet15Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet167Test.maximumTripletValue.[3] [-1, 0], -1, [1, 2].executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet167Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet1823Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
@@ -137,37 +151,21 @@
       <recent name="leet.methods.binarySearch" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="leet.methods._13_Math" />
       <recent name="leet.methods.DivideConquer" />
       <recent name="leet.methods.recall" />
       <recent name="leet.methods.tree" />
       <recent name="leet.methods.binarySearch.easy" />
-      <recent name="leet.methods.mock.middle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._10_Dynamic" />
-      <recent name="leet.methods.DivideConquer" />
-      <recent name="leet.methods.recall" />
-      <recent name="leet.methods.Search" />
-      <recent name="leet.methods.tree" />
+      <recent name="leet.methods._1_linklist.easy" />
+      <recent name="leet.Daily.easy" />
+      <recent name="leet.methods._13_Math" />
+      <recent name="leet.methods._12_BitManipulation" />
+      <recent name="leet.methods._11_GreedyAlgorithm" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet297Test.maximumTripletValue">
-    <configuration name="Leet104Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.recall.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.recall" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.recall.Leet104Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(leet._class.Tree.TreeNode,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Leet1823Test.maximumTripletValue">
     <configuration name="Leet105Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -179,6 +177,22 @@
       <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
       <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet105Test" />
       <option name="METHOD_NAME" value="maximumTripletValue(int[],int[],leet._class.Tree.TreeNode)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet1823Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods._13_Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods._13_Math" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.Leet1823Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int,int,int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet1823Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet297Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet105Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet297Test" />
         <item itemvalue="JUnit.Leet297Test.test1" />
-        <item itemvalue="JUnit.Leet104Test.maximumTripletValue" />
       </list>
     </recent_temporary>
   </component>
@@ -343,118 +357,23 @@
       <workItem from="1753319586561" duration="4514000" />
       <workItem from="1753667439414" duration="2370000" />
       <workItem from="1753753506513" duration="3746000" />
-    </task>
-    <task id="LOCAL-00020" summary="Leet2843、142 commit">
-      <option name="closed" value="true" />
-      <created>1744354581745</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1744354581745</updated>
-    </task>
-    <task id="LOCAL-00021" summary="Leet1534&#10; commit">
-      <option name="closed" value="true" />
-      <created>1744594917327</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1744594917327</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Leet2094&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747033062683</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1747033062683</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Leet3335&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747106439250</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1747106439250</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Leet151 method1&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747191404286</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1747191404286</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Leet151 method2&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747192382959</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1747192382959</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Leet3&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747367595493</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1747367595493</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Leet3&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747367608517</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1747367608517</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Leet15&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747622040175</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1747622040175</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Leet3355&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747726657500</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1747726657500</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Leet415&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747840820083</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1747840820083</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Leet415&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747842154685</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1747842154685</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Leet796&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747925872241</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1747925872241</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Leet946&#10; commit">
-      <option name="closed" value="true" />
-      <created>1747980117182</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1747980117182</updated>
+      <workItem from="1753839220226" duration="3362000" />
+      <workItem from="1754014003385" duration="1407000" />
+      <workItem from="1754359727448" duration="5220000" />
+      <workItem from="1754876073931" duration="1130000" />
+      <workItem from="1754884643394" duration="154000" />
+      <workItem from="1754885435524" duration="2610000" />
+      <workItem from="1755133846926" duration="4526000" />
+      <workItem from="1755226420342" duration="6308000" />
+      <workItem from="1755481741703" duration="2109000" />
+      <workItem from="1755584879893" duration="3646000" />
+      <workItem from="1755672558625" duration="4469000" />
+      <workItem from="1755739023178" duration="2168000" />
+      <workItem from="1756344359654" duration="4433000" />
+      <workItem from="1757991812719" duration="855000" />
+      <workItem from="1760343208055" duration="4386000" />
+      <workItem from="1760375212878" duration="25000" />
+      <workItem from="1760459015162" duration="1393000" />
     </task>
     <task id="LOCAL-00034" summary="Leet54&#10; commit">
       <option name="closed" value="true" />
@@ -736,7 +655,119 @@
       <option name="project" value="LOCAL" />
       <updated>1753754712956</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="贪心、动态规划&#10;leet122 买卖股票的最佳时机 II&#10;commit">
+      <option name="closed" value="true" />
+      <created>1753842511007</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1753842511007</updated>
+    </task>
+    <task id="LOCAL-00070" summary="贪心&#10;leet11 盛最多水的容器、接雨水&#10;commit">
+      <option name="closed" value="true" />
+      <created>1754362247786</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1754362247787</updated>
+    </task>
+    <task id="LOCAL-00071" summary="贪心、流式处理&#10;leet179 最大数&#10;commit">
+      <option name="closed" value="true" />
+      <created>1754365187154</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1754365187154</updated>
+    </task>
+    <task id="LOCAL-00072" summary="贪心&#10;leet135 分糖果&#10;commit">
+      <option name="closed" value="true" />
+      <created>1754896044085</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1754896044085</updated>
+    </task>
+    <task id="LOCAL-00073" summary="贪心&#10;leet768 最多能完成排序的块&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755141085397</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1755141085397</updated>
+    </task>
+    <task id="LOCAL-00074" summary="贪心&#10;leet231 2 的幂&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755231964728</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1755231964728</updated>
+    </task>
+    <task id="LOCAL-00075" summary="位运算&#10;leet231 两数之和&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755243722613</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1755243722613</updated>
+    </task>
+    <task id="LOCAL-00076" summary="位运算&#10;leet231 只出现一次的数字&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755482541636</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1755482541636</updated>
+    </task>
+    <task id="LOCAL-00077" summary="位运算&#10;leet231 只出现一次的数字II&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755588472343</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1755588472343</updated>
+    </task>
+    <task id="LOCAL-00078" summary="数学&#10;leet231 整数拆分&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755745886443</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1755745886443</updated>
+    </task>
+    <task id="LOCAL-00079" summary="数学&#10;leet231 整数拆分&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755745905285</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1755745905285</updated>
+    </task>
+    <task id="LOCAL-00080" summary="数学&#10;leet89 格雷码&#10;commit">
+      <option name="closed" value="true" />
+      <created>1755748752212</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1755748752212</updated>
+    </task>
+    <task id="LOCAL-00081" summary="数学&#10;leet1823 找出游戏的获胜者&#10;commit">
+      <option name="closed" value="true" />
+      <created>1756350605579</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1756350605579</updated>
+    </task>
+    <task id="LOCAL-00082" summary="数学&#10;leet2273 去除相邻的异或字符串&#10;commit">
+      <option name="closed" value="true" />
+      <created>1760349879527</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1760349879527</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -766,19 +797,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet278&#10; commit" />
-    <MESSAGE value="Leet274&#10; commit" />
-    <MESSAGE value="Leet3423&#10; commit" />
-    <MESSAGE value="Leet235,230&#10; commit" />
-    <MESSAGE value="Leet215&#10; commit" />
-    <MESSAGE value="Leet207&#10; commit" />
-    <MESSAGE value="Leet113、104&#10; commit" />
-    <MESSAGE value="Leet46&#10; commit" />
-    <MESSAGE value="Leet47&#10; commit" />
-    <MESSAGE value="Leet39,40&#10; commit" />
-    <MESSAGE value="Leet79&#10; commit" />
-    <MESSAGE value="Leet226&#10; commit" />
-    <MESSAGE value="Leet101&#10; commit" />
     <MESSAGE value="demo commit" />
     <MESSAGE value="Leet105..&#10; commit" />
     <MESSAGE value="代码管理&#10;commit" />
@@ -791,7 +809,20 @@
     <MESSAGE value="动态规划&#10;leet198 打家劫舍&#10;commit" />
     <MESSAGE value="动态规划&#10;leet213 打家劫舍2&#10;commit" />
     <MESSAGE value="动态规划&#10;leet300 最长递增子序列&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet300 最长递增子序列&#10;commit" />
+    <MESSAGE value="贪心、动态规划&#10;leet122 买卖股票的最佳时机 II&#10;commit" />
+    <MESSAGE value="贪心&#10;leet11 盛最多水的容器、接雨水&#10;commit" />
+    <MESSAGE value="贪心、流式处理&#10;leet179 最大数&#10;commit" />
+    <MESSAGE value="贪心&#10;leet135 分糖果&#10;commit" />
+    <MESSAGE value="贪心&#10;leet768 最多能完成排序的块&#10;commit" />
+    <MESSAGE value="贪心&#10;leet231 2 的幂&#10;commit" />
+    <MESSAGE value="位运算&#10;leet231 两数之和&#10;commit" />
+    <MESSAGE value="位运算&#10;leet231 只出现一次的数字&#10;commit" />
+    <MESSAGE value="位运算&#10;leet231 只出现一次的数字II&#10;commit" />
+    <MESSAGE value="数学&#10;leet231 整数拆分&#10;commit" />
+    <MESSAGE value="数学&#10;leet89 格雷码&#10;commit" />
+    <MESSAGE value="数学&#10;leet1823 找出游戏的获胜者&#10;commit" />
+    <MESSAGE value="数学&#10;leet2273 去除相邻的异或字符串&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="数学&#10;leet2273 去除相邻的异或字符串&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
