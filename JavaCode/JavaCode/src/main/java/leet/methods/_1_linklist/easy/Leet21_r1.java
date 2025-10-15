@@ -5,7 +5,7 @@ import leet._class.linklist.ListNode;
 public class Leet21_r1 {
 
 
-    /// 递归遍历链表
+    ///合并两个升序链 表 递归遍历链表
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         if (list2 == null)
             return list1;
