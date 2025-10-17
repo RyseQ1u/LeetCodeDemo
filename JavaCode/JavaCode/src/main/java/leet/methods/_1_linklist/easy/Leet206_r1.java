@@ -14,6 +14,7 @@ public class Leet206_r1 {
             ListNode next = cur.next;
             cur.next = last;
             last =  cur;
+            //遍历
             cur =  next;
         }
         return last;
@@ -26,7 +27,7 @@ public class Leet206_r1 {
     private ListNode reverse(ListNode cur, ListNode pre) {
         if(cur==null)return pre ;
         ListNode res =reverse(cur.next,cur);
-        cur.next =res;
+        cur.next =pre;
         return res;
     }
     
