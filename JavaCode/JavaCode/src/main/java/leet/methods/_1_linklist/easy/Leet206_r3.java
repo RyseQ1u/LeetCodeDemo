@@ -2,19 +2,20 @@ package leet.methods._1_linklist.easy;
 
 import leet._class.linklist.ListNode;
 
-public class Leet206_r2 {
+public class Leet206_r3 {
 
     ///反转链表 迭代循环实现
     public ListNode reverseList(ListNode head) {
-            ListNode pre= null;
-            ListNode cur= head;
-            while (cur!=null){
-                ListNode next = cur.next;
-                cur.next = pre;
-                pre = cur;
-                cur=next;
-            }
-            return pre;
+        //记录上一个节点和当前节点
+        ListNode pre = null;
+        ListNode cur = head;
+        while (cur!=null){
+            ListNode tmp = cur.next;
+            cur.next = pre;
+            pre = cur;
+            cur=tmp;
+        }
+        return pre;
     }
 
     /// 反转链表 递归
@@ -24,8 +25,8 @@ public class Leet206_r2 {
 
     private ListNode reverse(ListNode cur, ListNode pre) {
         if(cur==null) return pre;
-        ListNode res = reverse(cur.next ,cur);
-        cur.next = pre;
+        ListNode res = reverse(cur.next,cur);
+        cur.next =pre;
         return res;
     }
 
