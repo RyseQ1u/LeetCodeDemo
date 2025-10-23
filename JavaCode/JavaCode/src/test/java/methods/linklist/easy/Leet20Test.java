@@ -1,6 +1,6 @@
 package methods.linklist.easy;
 
-import leet.methods.stackAndqueue.easy.Leet20;
+import leet.methods._2_stackAndqueue.review.Leet20_r1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -14,7 +14,7 @@ class Leet20Test {
     @ParameterizedTest
     @MethodSource("provideTestCases")
     void testLeet21WithMethodSource(String input1, boolean expected) {
-        boolean res = new Leet20().isValid(input1);
+        boolean res = new Leet20_r1().isValid(input1);
         Assertions.assertEquals (expected, res);
     }
 
@@ -22,8 +22,8 @@ class Leet20Test {
     private static Stream<Arguments> provideTestCases() {
         return Stream.of(
                 Arguments.of(
-                        "{[]}",
-                        true)
+                        "({[)",
+                        false)
 
 
         );

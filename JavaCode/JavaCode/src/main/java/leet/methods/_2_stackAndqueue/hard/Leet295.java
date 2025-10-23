@@ -1,4 +1,4 @@
-package leet.methods.stackAndqueue.hard;
+package leet.methods._2_stackAndqueue.hard;
 
 import leet._class.stackAndqueue.MinStack_Stack;
 

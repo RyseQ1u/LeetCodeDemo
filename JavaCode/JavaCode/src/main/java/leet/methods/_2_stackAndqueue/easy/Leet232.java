@@ -1,10 +1,10 @@
-package leet.methods.stackAndqueue.easy;
+package leet.methods._2_stackAndqueue.easy;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class Leet20 {
+public class Leet232 {
     public boolean isValid(String s) {
         //记录括号
         Stack<Character> stack = new Stack<>();
