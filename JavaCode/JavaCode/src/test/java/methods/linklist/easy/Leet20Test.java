@@ -1,6 +1,6 @@
 package methods.linklist.easy;
 
-import leet.methods._2_stackAndqueue.review.Leet20_r1;
+import leet.methods._2_stackAndqueue.review.L20.Leet20_r1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

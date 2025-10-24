@@ -1,7 +1,6 @@
-package leet.methods._2_stackAndqueue.review;
+package leet.methods._2_stackAndqueue.review.L20;
 
 import java.util.HashMap;
-import java.util.Hashtable;
 import java.util.Stack;
 
 public class Leet20_r1 {

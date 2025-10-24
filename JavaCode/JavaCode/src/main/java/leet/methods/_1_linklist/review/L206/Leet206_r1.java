@@ -1,8 +1,6 @@
-package leet.methods._1_linklist.easy;
+package leet.methods._1_linklist.review.L206;
 
 import leet._class.linklist.ListNode;
-
-import java.util.List;
 
 public class Leet206_r1 {
 

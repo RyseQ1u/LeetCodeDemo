@@ -1,4 +1,4 @@
-package leet.methods._1_linklist.easy;
+package leet.methods._1_linklist.review.L21;
 
 import leet._class.linklist.ListNode;
 
