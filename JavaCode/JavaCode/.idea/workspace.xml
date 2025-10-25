@@ -4,24 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 232 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/easy/Leet232_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet394_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/Leet20_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/Leet232_r1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/Leet394_r1.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 20 21 138 155 232 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_r3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L232/Leet232_r2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet206_Temple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_Temple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet206_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet206_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet206_r3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet21_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_r1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/easy/Leet21_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_r2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet138_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet138_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet86_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet86_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet86_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_r2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,11 +155,11 @@
       <recent name="leet.methods.binarySearch.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._1_linklist.review.L206" />
+      <recent name="leet.methods._1_linklist.review.L86" />
+      <recent name="leet.methods._2_stackAndqueue.review.L232" />
       <recent name="leet.methods._2_stackAndqueue.review" />
       <recent name="leet.methods._1_linklist.review.L138" />
-      <recent name="leet.methods._1_linklist.review" />
-      <recent name="leet.methods._2_stackAndqueue.review.rclass" />
-      <recent name="leet.methods._2_stackAndqueue.easy.review" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet20Test.testLeet21WithMethodSource">
@@ -402,15 +392,9 @@
       <workItem from="1761183232988" duration="7163000" />
       <workItem from="1761297660276" duration="313000" />
       <workItem from="1761298026151" duration="1370000" />
-      <workItem from="1761303723033" duration="2981000" />
-    </task>
-    <task id="LOCAL-00042" summary="Leet235,230&#10; commit">
-      <option name="closed" value="true" />
-      <created>1750129759853</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1750129759853</updated>
+      <workItem from="1761303723033" duration="3381000" />
+      <workItem from="1761314441808" duration="757000" />
+      <workItem from="1761397216273" duration="2573000" />
     </task>
     <task id="LOCAL-00043" summary="Leet215&#10; commit">
       <option name="closed" value="true" />
@@ -796,7 +780,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761191177896</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Leet 20 21 138 155 232 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1761306878182</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1761306878185</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,13 +809,6 @@
                       </list>
                     </value>
                   </entry>
-                  <entry key="text">
-                    <value>
-                      <list>
-                        <option value="232" />
-                      </list>
-                    </value>
-                  </entry>
                 </map>
               </option>
             </State>
@@ -833,7 +818,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="动态规划&#10;leet53 最大子数组和&#10;commit" />
     <MESSAGE value="动态规划&#10;leet198 打家劫舍&#10;commit" />
     <MESSAGE value="动态规划&#10;leet213 打家劫舍2&#10;commit" />
     <MESSAGE value="动态规划&#10;leet300 最长递增子序列&#10;commit" />
@@ -858,7 +842,8 @@
     <MESSAGE value="Leet 86 206 复习&#10;commit" />
     <MESSAGE value="Leet 138 复习&#10;commit" />
     <MESSAGE value="Leet 20 155 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 20 155 复习&#10;commit" />
+    <MESSAGE value="Leet 20 21 138 155 232 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 20 21 138 155 232 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
