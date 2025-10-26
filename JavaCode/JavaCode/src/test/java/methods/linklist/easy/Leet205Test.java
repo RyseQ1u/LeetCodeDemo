@@ -1,6 +1,6 @@
 package methods.linklist.easy;
 
-import leet.methods.hashTable.easy.Leet205;
+import leet.methods._3_hashTable.easy.Leet205;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

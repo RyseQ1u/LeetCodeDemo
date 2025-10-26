@@ -16,11 +16,11 @@ public class Leet155_Template {
         }
 
         public int top() {
-
+            return 0;
         }
 
         public int getMin() {
-
+            return 0;
         }
     }
 }

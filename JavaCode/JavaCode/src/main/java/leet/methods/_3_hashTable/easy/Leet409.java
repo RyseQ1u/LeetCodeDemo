@@ -1,4 +1,4 @@
-package leet.methods.hashTable.easy;
+package leet.methods._3_hashTable.easy;
 
 import java.util.HashMap;
 import java.util.Map;

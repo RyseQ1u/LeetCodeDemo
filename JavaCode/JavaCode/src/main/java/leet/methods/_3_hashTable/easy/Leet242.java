@@ -1,4 +1,4 @@
-package leet.methods.hashTable.easy;
+package leet.methods._3_hashTable.easy;
 
 public class Leet242 {
     public boolean isAnagram(String s, String t) {

@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 86 206 232 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_r1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L20/Leet20_r3.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 20 155 复习&#10;commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet155_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -393,15 +393,7 @@
       <workItem from="1761314441808" duration="757000" />
       <workItem from="1761397216273" duration="2647000" />
       <workItem from="1761486981232" duration="10000" />
-      <workItem from="1761487031008" duration="2414000" />
-    </task>
-    <task id="LOCAL-00044" summary="Leet207&#10; commit">
-      <option name="closed" value="true" />
-      <created>1750219285821</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1750219285821</updated>
+      <workItem from="1761487031008" duration="3988000" />
     </task>
     <task id="LOCAL-00045" summary="Leet113、104&#10; commit">
       <option name="closed" value="true" />
@@ -787,7 +779,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761400068118</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="Leet 20 155 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1761489604869</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1761489604870</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -839,10 +839,10 @@
     <MESSAGE value="Leet21 237 复习&#10;commit" />
     <MESSAGE value="Leet 86 206 复习&#10;commit" />
     <MESSAGE value="Leet 138 复习&#10;commit" />
-    <MESSAGE value="Leet 20 155 复习&#10;commit" />
     <MESSAGE value="Leet 20 21 138 155 232 复习&#10;commit" />
     <MESSAGE value="Leet 86 206 232 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 86 206 232 复习&#10;commit" />
+    <MESSAGE value="Leet 20 155 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 20 155 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -861,21 +861,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet115.java</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet394.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet394.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet394.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java</url>
