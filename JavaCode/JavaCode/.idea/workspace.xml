@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 20 155 复习&#10;commit">
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 242 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L237/Leet237_r2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet237_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L237/Leet237_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/middle/Leet237_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L237/Leet237_r1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,11 +152,11 @@
       <recent name="leet.methods.binarySearch.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._1_linklist.review.L237" />
+      <recent name="leet.methods._3_hashTable.easy.review" />
       <recent name="leet.methods._2_stackAndqueue.review.L155" />
       <recent name="leet.methods._2_stackAndqueue.review.L20" />
       <recent name="leet.methods._1_linklist.review.L206" />
-      <recent name="leet.methods._1_linklist.review.L86" />
-      <recent name="leet.methods._2_stackAndqueue.review.L232" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet20Test.testLeet21WithMethodSource">
@@ -393,15 +393,7 @@
       <workItem from="1761314441808" duration="757000" />
       <workItem from="1761397216273" duration="2647000" />
       <workItem from="1761486981232" duration="10000" />
-      <workItem from="1761487031008" duration="3988000" />
-    </task>
-    <task id="LOCAL-00045" summary="Leet113、104&#10; commit">
-      <option name="closed" value="true" />
-      <created>1750301203254</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1750301203254</updated>
+      <workItem from="1761487031008" duration="4509000" />
     </task>
     <task id="LOCAL-00046" summary="Leet46&#10; commit">
       <option name="closed" value="true" />
@@ -787,7 +779,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761489604870</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Leet 242 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1761496552739</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1761496552739</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -817,7 +817,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="动态规划&#10;leet213 打家劫舍2&#10;commit" />
     <MESSAGE value="动态规划&#10;leet300 最长递增子序列&#10;commit" />
     <MESSAGE value="贪心、动态规划&#10;leet122 买卖股票的最佳时机 II&#10;commit" />
     <MESSAGE value="贪心&#10;leet11 盛最多水的容器、接雨水&#10;commit" />
@@ -842,7 +841,8 @@
     <MESSAGE value="Leet 20 21 138 155 232 复习&#10;commit" />
     <MESSAGE value="Leet 86 206 232 复习&#10;commit" />
     <MESSAGE value="Leet 20 155 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 20 155 复习&#10;commit" />
+    <MESSAGE value="Leet 242 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 242 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
