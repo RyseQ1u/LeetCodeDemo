@@ -1,6 +1,7 @@
 package methods.linklist.middle;
 
 import leet.methods._2_stackAndqueue.middle.Leet394;
+import leet.methods._2_stackAndqueue.review.L394.Leet394_r1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -14,7 +15,7 @@ class Leet394Test {
     @ParameterizedTest
     @MethodSource("provideTestCases")
     void testLeet394WithMethodSource(String input1, String expected) {
-        String res = new Leet394().decodeString(input1);
+        String res = new Leet394_r1().decodeString(input1);
         Assertions.assertEquals (expected, res);
     }
 
