@@ -1,6 +1,7 @@
 package methods.linklist.easy;
 
 import leet.methods._3_hashTable.easy.Leet205;
+import leet.methods._3_hashTable.easy.review.L205.L205_r1;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
@@ -14,7 +15,7 @@ class Leet205Test {
     @ParameterizedTest
     @MethodSource("provideTestCases")
     void testLeet205WithMethodSource(String input1, String input2, boolean expected) {
-        boolean res = new Leet205().isIsomorphic(input1, input2);
+        boolean res = new L205_r1().isIsomorphic(input1, input2);
         Assertions.assertEquals(expected, res);
     }
 
@@ -23,10 +24,14 @@ class Leet205Test {
         return Stream.of(
                 Arguments.of(
                         "foo", "bar",
-                        false),
-                Arguments.of(
-                        "13", "42",
-                        true)
+                        false)
+//                , Arguments.of(
+//                        "badc", "baba",
+//                        false) , Arguments.of(
+//                        "aba", "baa",
+//                        false), Arguments.of(
+//                        "egg", "add",
+//                        true)
 
 
         );

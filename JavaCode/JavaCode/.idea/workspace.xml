@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 242 295 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r2.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 394 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L205/L205_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L205/L205_r1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet205Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/methods/linklist/easy/Leet205Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,7 @@
     "JUnit.Leet167Test.maximumTripletValue.[3] [-1, 0], -1, [1, 2].executor": "Debug",
     "JUnit.Leet167Test.maximumTripletValue.executor": "Run",
     "JUnit.Leet1823Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet205Test.testLeet205WithMethodSource.executor": "Run",
+    "JUnit.Leet205Test.testLeet205WithMethodSource.executor": "Debug",
     "JUnit.Leet206Test.executor": "Run",
     "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
     "JUnit.Leet20Test.testLeet21WithMethodSource.executor": "Debug",
@@ -150,30 +152,14 @@
       <recent name="leet.methods.binarySearch.easy" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._3_hashTable.easy.review.L205" />
       <recent name="leet.methods._2_stackAndqueue.review.L394" />
       <recent name="leet.methods._2_stackAndqueue.review.L295" />
       <recent name="leet.methods._3_hashTable.easy.review.L242" />
       <recent name="leet.methods._3_hashTable.easy.review.L387" />
-      <recent name="leet.methods._2_stackAndqueue.review.L232" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet394Test.testLeet394WithMethodSource">
-    <configuration name="Leet105Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.DivideConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet105Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int[],int[],leet._class.Tree.TreeNode)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Leet205Test.testLeet205WithMethodSource">
     <configuration name="Leet1823Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -185,6 +171,22 @@
       <option name="PACKAGE_NAME" value="leet.methods._13_Math" />
       <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.Leet1823Test" />
       <option name="METHOD_NAME" value="maximumTripletValue(int,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Leet205Test.testLeet205WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="methods.linklist.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="methods.linklist.easy" />
+      <option name="MAIN_CLASS_NAME" value="methods.linklist.easy.Leet205Test" />
+      <option name="METHOD_NAME" value="testLeet205WithMethodSource(java.lang.String,java.lang.String,boolean)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -240,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
         <item itemvalue="JUnit.Leet394Test.testLeet394WithMethodSource" />
         <item itemvalue="JUnit.Leet20Test.testLeet21WithMethodSource" />
         <item itemvalue="JUnit.Leet1823Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet297Test.maximumTripletValue" />
-        <item itemvalue="JUnit.Leet105Test.maximumTripletValue" />
       </list>
     </recent_temporary>
   </component>
@@ -398,15 +400,8 @@
       <workItem from="1761534908352" duration="4000" />
       <workItem from="1761547100378" duration="700000" />
       <workItem from="1761588688715" duration="602000" />
-      <workItem from="1761614164310" duration="7895000" />
-    </task>
-    <task id="LOCAL-00051" summary="Leet101&#10; commit">
-      <option name="closed" value="true" />
-      <created>1750650930804</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1750650930804</updated>
+      <workItem from="1761614164310" duration="8439000" />
+      <workItem from="1761624120810" duration="5688000" />
     </task>
     <task id="LOCAL-00052" summary="Leet105..&#10; commit">
       <option name="closed" value="true" />
@@ -792,7 +787,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761620764305</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="Leet 394 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1761623713105</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1761623713105</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -850,11 +853,11 @@
     <MESSAGE value="Leet 20 155 复习&#10;commit" />
     <MESSAGE value="Leet 242 复习&#10;commit" />
     <MESSAGE value="Leet 232 237 复习&#10;commit" />
-    <MESSAGE value="Leet 394 复习&#10;commit" />
     <MESSAGE value="Leet 295 复习&#10;commit" />
     <MESSAGE value="Leet 242 387 复习&#10;commit" />
     <MESSAGE value="Leet 242 295 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 242 295 复习&#10;commit" />
+    <MESSAGE value="Leet 394 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 394 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
