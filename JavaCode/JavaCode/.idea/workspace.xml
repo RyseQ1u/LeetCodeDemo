@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 205 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r3.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 138 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L409/L409_Template.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -403,15 +402,7 @@
       <workItem from="1761614164310" duration="8439000" />
       <workItem from="1761624120810" duration="5846000" />
       <workItem from="1761640381780" duration="12000" />
-      <workItem from="1761702851061" duration="1626000" />
-    </task>
-    <task id="LOCAL-00055" summary="Leet105..&#10; commit">
-      <option name="closed" value="true" />
-      <created>1752638607020</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1752638607020</updated>
+      <workItem from="1761702851061" duration="2448000" />
     </task>
     <task id="LOCAL-00056" summary="代码管理&#10;commit">
       <option name="closed" value="true" />
@@ -797,7 +788,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761704075632</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Leet 138 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1761704495075</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1761704495075</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -847,7 +846,6 @@
     <MESSAGE value="Leet86、206 复习&#10;commit" />
     <MESSAGE value="Leet21 237 复习&#10;commit" />
     <MESSAGE value="Leet 86 206 复习&#10;commit" />
-    <MESSAGE value="Leet 138 复习&#10;commit" />
     <MESSAGE value="Leet 20 21 138 155 232 复习&#10;commit" />
     <MESSAGE value="Leet 86 206 232 复习&#10;commit" />
     <MESSAGE value="Leet 20 155 复习&#10;commit" />
@@ -859,7 +857,8 @@
     <MESSAGE value="Leet 394 复习&#10;commit" />
     <MESSAGE value="Leet 266 复习&#10;commit" />
     <MESSAGE value="Leet 205 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 205 复习&#10;commit" />
+    <MESSAGE value="Leet 138 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 138 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
