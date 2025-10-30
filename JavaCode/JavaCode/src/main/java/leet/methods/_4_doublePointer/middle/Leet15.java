@@ -1,4 +1,4 @@
-package leet.methods.doublePointer.middle;
+package leet.methods._4_doublePointer.middle;
 
 import java.util.ArrayList;
 import java.util.Arrays;

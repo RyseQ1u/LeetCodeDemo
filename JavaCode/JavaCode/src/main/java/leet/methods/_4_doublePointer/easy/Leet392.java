@@ -1,7 +1,4 @@
-package leet.methods.doublePointer.easy;
-
-import java.util.HashMap;
-import java.util.Map;
+package leet.methods._4_doublePointer.easy;
 
 public class Leet392 {
 

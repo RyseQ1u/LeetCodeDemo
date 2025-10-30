@@ -1,4 +1,4 @@
-package leet.methods.doublePointer.middle;
+package leet.methods._4_doublePointer.middle;
 
 import leet._class.linklist.ListNode;
 

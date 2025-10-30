@@ -1,6 +1,4 @@
-package leet.methods.doublePointer.middle;
-
-import com.sun.xml.internal.ws.util.StringUtils;
+package leet.methods._4_doublePointer.middle;
 
 public class Leet151 {
 
