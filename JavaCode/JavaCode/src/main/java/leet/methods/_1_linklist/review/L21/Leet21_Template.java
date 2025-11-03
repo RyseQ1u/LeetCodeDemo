@@ -6,4 +6,8 @@ public class Leet21_Template {
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         return null;
     }
+
+    public ListNode mergeTwoListsIteration(ListNode list1, ListNode list2) {
+        return null;
+    }
 }
