@@ -2,18 +2,18 @@ package leet.methods._4_doublePointer.review.L876;
 
 import leet._class.linklist.ListNode;
 
-public class L876_r1 {
+///链表的中点
+/// 快慢指针 主链表走两步 中链表走一步
+public class L876_r2 {
     public ListNode middleNode(ListNode head) {
-        ListNode middle = head;
+        ListNode res = head;
         int count =0;
         while (head!=null){
             head=head.next;
-            count++;
-            // 每次前进时，判断当前节点数是奇数还是偶数
-            if(count%2==0) {
-                middle = middle.next;
+            if((count++ & 1 )==0){
+                res=res.next;
             }
         }
-        return middle;
+        return res;
     }
 }

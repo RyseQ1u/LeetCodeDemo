@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 205 409 20 155 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/L160_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/L160_r1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L876/L876_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L876/L876_r1.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 160 876 21 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L295/Leet295_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L242/Leet242_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/L160_r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L876/L876_r2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L21/Leet21_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L206/Leet206_r4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L86/Leet86_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L242/Leet242_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L242/Leet242_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/L160_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/L160_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L876/L876_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L876/L876_r1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +129,7 @@
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
   },
@@ -157,11 +162,11 @@
       <recent name="leet.methods.tree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._4_doublePointer.review.L160" />
-      <recent name="leet.methods._1_linklist.review.L21" />
-      <recent name="leet.methods._2_stackAndqueue.review.L232" />
-      <recent name="leet.methods._3_hashTable.easy.review.L409" />
-      <recent name="leet.methods._4_doublePointer.review.L392" />
+      <recent name="leet.methods._1_linklist.review.L206" />
+      <recent name="leet.methods._2_stackAndqueue.review.L394" />
+      <recent name="leet.methods._2_stackAndqueue.review.L295" />
+      <recent name="leet.methods._3_hashTable.easy.review.L242" />
+      <recent name="leet.methods._4_doublePointer.review.L876" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L266_r1Test.canPermutePalindrome">
@@ -247,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.L266_r1Test.canPermutePalindrome" />
-        <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
         <item itemvalue="JUnit.Leet394Test.testLeet394WithMethodSource" />
         <item itemvalue="JUnit.Leet20Test.testLeet21WithMethodSource" />
+        <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
         <item itemvalue="JUnit.Leet1823Test.maximumTripletValue" />
+        <item itemvalue="JUnit.L266_r1Test.canPermutePalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -414,15 +419,12 @@
       <workItem from="1761892551992" duration="3119000" />
       <workItem from="1761912883987" duration="2000" />
       <workItem from="1762105567209" duration="1516000" />
-      <workItem from="1762133717517" duration="3535000" />
-    </task>
-    <task id="LOCAL-00059" summary="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
-      <option name="closed" value="true" />
-      <created>1752726026924</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1752726026924</updated>
+      <workItem from="1762133717517" duration="4169000" />
+      <workItem from="1762177281631" duration="1649000" />
+      <workItem from="1762187751413" duration="7000" />
+      <workItem from="1762218398635" duration="693000" />
+      <workItem from="1762219109421" duration="38000" />
+      <workItem from="1762219166161" duration="9856000" />
     </task>
     <task id="LOCAL-00060" summary="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
       <option name="closed" value="true" />
@@ -808,7 +810,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761897365679</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Leet 160 876 21 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1762137368301</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1762137368301</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -845,7 +855,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="数学&#10;leet231 整数拆分&#10;commit" />
     <MESSAGE value="数学&#10;leet89 格雷码&#10;commit" />
     <MESSAGE value="数学&#10;leet1823 找出游戏的获胜者&#10;commit" />
     <MESSAGE value="数学&#10;leet2273 去除相邻的异或字符串&#10;commit" />
@@ -870,7 +879,8 @@
     <MESSAGE value="Leet 409 复习&#10;commit" />
     <MESSAGE value="Leet 392 242 266 295 394 409 复习&#10;commit" />
     <MESSAGE value="Leet 205 409 20 155 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 205 409 20 155 复习&#10;commit" />
+    <MESSAGE value="Leet 160 876 21 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 160 876 21 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
