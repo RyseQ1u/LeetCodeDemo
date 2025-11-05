@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 160 876 206 86 242 295 394 复习&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_r1.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 167 复习&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L205/L205_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L142/L142_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L142/L142_r1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_r2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/middle/Leet142.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/middle/Leet142.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,11 +157,11 @@
       <recent name="leet.methods.tree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._4_doublePointer.review.L146" />
       <recent name="leet.methods._4_doublePointer.review.L167" />
+      <recent name="leet.methods._3_hashTable.easy.review.L205" />
       <recent name="leet.methods._1_linklist.review.L86" />
       <recent name="leet.methods._1_linklist.review.L206" />
-      <recent name="leet.methods._2_stackAndqueue.review.L394" />
-      <recent name="leet.methods._2_stackAndqueue.review.L295" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L266_r1Test.canPermutePalindrome">
@@ -416,14 +420,10 @@
       <workItem from="1762218398635" duration="693000" />
       <workItem from="1762219109421" duration="38000" />
       <workItem from="1762219166161" duration="11915000" />
-    </task>
-    <task id="LOCAL-00061" summary="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit">
-      <option name="closed" value="true" />
-      <created>1752806225927</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1752806225927</updated>
+      <workItem from="1762272497545" duration="625000" />
+      <workItem from="1762309620521" duration="4587000" />
+      <workItem from="1762324170743" duration="1000" />
+      <workItem from="1762329127779" duration="3000" />
     </task>
     <task id="LOCAL-00062" summary="动态规划&#10;leet1480一维数组的动态求和&#10;commit">
       <option name="closed" value="true" />
@@ -809,7 +809,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762230082863</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Leet 167 复习&#10;commit">
+      <option name="closed" value="true" />
+      <created>1762273552688</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1762273552688</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -846,7 +854,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="数学&#10;leet1823 找出游戏的获胜者&#10;commit" />
     <MESSAGE value="数学&#10;leet2273 去除相邻的异或字符串&#10;commit" />
     <MESSAGE value="合并链表&#10;Leet21 &#10;commit" />
     <MESSAGE value="合并链表&#10;Leet206 复习&#10;commit" />
@@ -871,7 +878,8 @@
     <MESSAGE value="Leet 205 409 20 155 复习&#10;commit" />
     <MESSAGE value="Leet 160 876 21 复习&#10;commit" />
     <MESSAGE value="Leet 160 876 206 86 242 295 394 复习&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 160 876 206 86 242 295 394 复习&#10;commit" />
+    <MESSAGE value="Leet 167 复习&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 167 复习&#10;commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

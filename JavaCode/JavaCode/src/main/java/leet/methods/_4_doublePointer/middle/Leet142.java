@@ -32,7 +32,6 @@ public class Leet142 {
         while (flast != slow){
             flast = flast.next;
             slow=slow.next;
-
         }
         return  flast;
     }
