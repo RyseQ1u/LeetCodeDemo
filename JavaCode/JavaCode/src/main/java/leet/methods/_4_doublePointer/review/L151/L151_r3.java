@@ -9,7 +9,7 @@ public class L151_r3 {
         int index = 0;
         while (l >= 0) {
             //找到第一个空格
-            while (l >= 0 && s.charAt(l) == ' ') l--;
+            while (l >= 0 && s.charAt(l) != ' ') l--;
             //开始切割字符串
             for (int i = l + 1; i < r + 1; i++) {
                 res[index++] = s.charAt(i);
@@ -18,7 +18,7 @@ public class L151_r3 {
                 }
             }
             //找到第一个字符
-            while (l >= 0 && s.charAt(l) != ' ') l--;
+            while (l >= 0 && s.charAt(l) == ' ') l--;
             r=l;
         }
         return new String(res,0,index-1);
