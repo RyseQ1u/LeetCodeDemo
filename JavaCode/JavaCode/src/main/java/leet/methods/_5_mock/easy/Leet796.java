@@ -1,4 +1,4 @@
-package leet.methods.mock.easy;
+package leet.methods._5_mock.easy;
 
 public class Leet796 {
 

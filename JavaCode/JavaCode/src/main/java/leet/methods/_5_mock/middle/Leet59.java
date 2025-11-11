@@ -1,4 +1,4 @@
-package leet.methods.mock.middle;
+package leet.methods._5_mock.middle;
 
 public class Leet59 {
 

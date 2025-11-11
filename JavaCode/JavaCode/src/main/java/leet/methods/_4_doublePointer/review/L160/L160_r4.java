@@ -18,7 +18,7 @@ import leet._class.linklist.ListNode;
  * 链表相交的 Definition：两个链表相交，当且仅当两个链表的末尾节点相同。
  * 进阶：你能否设计一个时间复杂度 O(n) 且仅用 O(1) 内存的解决方案？
  */
-public class L160_r3 {
+public class L160_r4 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode a = headA, b = headB;
         while (a != b) {

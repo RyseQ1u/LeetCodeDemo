@@ -1,8 +1,8 @@
-package leet.methods.mock.easy;
+package leet.methods._5_mock.easy;
 
 public class Leet415 {
     public String addStrings(String num1, String num2) {
-        StringBuilder res = new StringBuilder("");
+        StringBuilder res = new StringBuilder();
         //carry 10进位
         int i = num1.length() - 1, j = num2.length() - 1, carry = 0;
         while (i >= 0 || j >= 0) {

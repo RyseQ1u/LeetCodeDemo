@@ -1,4 +1,4 @@
-package leet.methods.mock.middle;
+package leet.methods._5_mock.middle;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
