@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 160 239 415 876 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L239/L239_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L796/L796_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L796/L796_r1.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 15 167 239 415 796 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L232/Leet232_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L142/L142_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L796/L796_r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L946/L946_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L946/L946_r1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L239/L239_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L239/L239_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L232/Leet232_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L232/Leet232_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,11 +157,11 @@
       <recent name="leet.methods.tree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._5_mock.review.L946" />
       <recent name="leet.methods._5_mock.review.L796" />
+      <recent name="leet.methods._4_doublePointer.review.L142" />
+      <recent name="leet.methods._2_stackAndqueue.review.L232" />
       <recent name="leet.methods._5_mock.review.L415" />
-      <recent name="leet.methods._2_stackAndqueue.review.L239" />
-      <recent name="leet.methods._4_doublePointer.review.L167" />
-      <recent name="leet.methods._4_doublePointer.review.L15" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L266_r1Test.canPermutePalindrome">
@@ -438,15 +437,8 @@
       <workItem from="1762823487143" duration="17000" />
       <workItem from="1762823741853" duration="7948000" />
       <workItem from="1762869679729" duration="9000" />
-      <workItem from="1762911098564" duration="6557000" />
-    </task>
-    <task id="LOCAL-00070" summary="贪心&#10;leet11 盛最多水的容器、接雨水&#10;commit">
-      <option name="closed" value="true" />
-      <created>1754362247786</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1754362247787</updated>
+      <workItem from="1762911098564" duration="6855000" />
+      <workItem from="1762996131352" duration="5672000" />
     </task>
     <task id="LOCAL-00071" summary="贪心、流式处理&#10;leet179 最大数&#10;commit">
       <option name="closed" value="true" />
@@ -832,7 +824,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762837031704</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Leet 15 167 239 415 796 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1762919966465</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1762919966465</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -870,7 +870,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 20 155 复习&#10;commit" />
     <MESSAGE value="Leet 242 复习&#10;commit" />
     <MESSAGE value="Leet 232 237 复习&#10;commit" />
     <MESSAGE value="Leet 295 复习&#10;commit" />
@@ -895,7 +894,8 @@
     <MESSAGE value="Leet 15 3 151 20 155  review&#10;commit" />
     <MESSAGE value="Leet 239 review&#10;commit" />
     <MESSAGE value="Leet 160 239 415 876 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 160 239 415 876 review&#10;commit" />
+    <MESSAGE value="Leet 15 167 239 415 796 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 15 167 239 415 796 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

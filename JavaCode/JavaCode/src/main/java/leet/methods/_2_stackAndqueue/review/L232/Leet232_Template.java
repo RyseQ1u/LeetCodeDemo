@@ -1,5 +1,6 @@
 package leet.methods._2_stackAndqueue.review.L232;
 
+/// 使用栈实现队列
 public class Leet232_Template {
     public Leet232_Template() {
 
