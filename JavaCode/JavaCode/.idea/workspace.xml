@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 3 151 205 415 796 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L6/L6_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L6/L6_r1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_5_mock/review/L6/L6_r1Test.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 6 15 394 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L266/L266_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L409/L409_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L392/L392_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_r1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L6/L6_r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L946/L946_r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_2_stackAndqueue/review/L266/L266_TemplateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_4_doublePointer/review/L392/L392_TemplateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -74,7 +78,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.L266_Test.canPermutePalindrome.executor": "Run",
     "JUnit.L266_r1Test.canPermutePalindrome.executor": "Run",
+    "JUnit.L392_TemplateTest.canPermutePalindrome.executor": "Debug",
     "JUnit.L6_r1Test.maximumTripletValue.executor": "Debug",
     "JUnit.Leet104Test.maximumTripletValue.executor": "Run",
     "JUnit.Leet105Test.maximumTripletValue.executor": "Debug",
@@ -151,21 +157,53 @@
       <recent name="leet.methods.binarySearch" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="leet.methods._4_doublePointer.review.L392" />
+      <recent name="leet.methods._2_stackAndqueue.review.L266" />
       <recent name="leet.methods._5_mock.review.L6" />
       <recent name="leet.methods._3_hashTable.easy.review.L266" />
       <recent name="leet.methods._13_Math" />
-      <recent name="leet.methods.DivideConquer" />
-      <recent name="leet.methods.recall" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._3_hashTable.easy.review.L409" />
+      <recent name="leet.methods._5_mock.review.L54" />
       <recent name="leet.methods._5_mock.review.L6" />
-      <recent name="leet.methods._4_doublePointer.review.L15" />
-      <recent name="leet.methods._5_mock.review.L796" />
-      <recent name="leet.methods._5_mock.review.L415" />
-      <recent name="leet.methods._4_doublePointer.review.L151" />
+      <recent name="leet.methods._5_mock.review.L946" />
+      <recent name="leet.methods._4_doublePointer.review.L392" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.L6_r1Test.maximumTripletValue">
+  <component name="RunManager" selected="JUnit.L392_TemplateTest.canPermutePalindrome">
+    <configuration name="L266_Test.canPermutePalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods._2_stackAndqueue.review.L266.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods._2_stackAndqueue.review.L266" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._2_stackAndqueue.review.L266.L266_Test" />
+      <option name="METHOD_NAME" value="canPermutePalindrome(java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L392_TemplateTest.canPermutePalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods._4_doublePointer.review.L392.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods._4_doublePointer.review.L392" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._4_doublePointer.review.L392.L392_TemplateTest" />
+      <option name="METHOD_NAME" value="canPermutePalindrome(java.lang.String,java.lang.String,boolean)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="L6_r1Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
@@ -177,38 +215,6 @@
       <option name="PACKAGE_NAME" value="leet.methods._5_mock.review.L6" />
       <option name="MAIN_CLASS_NAME" value="leet.methods._5_mock.review.L6.L6_r1Test" />
       <option name="METHOD_NAME" value="maximumTripletValue(java.lang.String,int,java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leet1823Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods._13_Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods._13_Math" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.Leet1823Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int,int,int)" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leet205Test.testLeet205WithMethodSource" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="methods.linklist.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="methods.linklist.easy" />
-      <option name="MAIN_CLASS_NAME" value="methods.linklist.easy.Leet205Test" />
-      <option name="METHOD_NAME" value="testLeet205WithMethodSource(java.lang.String,java.lang.String,boolean)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -248,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.L392_TemplateTest.canPermutePalindrome" />
+        <item itemvalue="JUnit.L266_Test.canPermutePalindrome" />
         <item itemvalue="JUnit.L6_r1Test.maximumTripletValue" />
         <item itemvalue="JUnit.Leet394Test.testLeet394WithMethodSource" />
         <item itemvalue="JUnit.Leet20Test.testLeet21WithMethodSource" />
-        <item itemvalue="JUnit.Leet205Test.testLeet205WithMethodSource" />
-        <item itemvalue="JUnit.Leet1823Test.maximumTripletValue" />
       </list>
     </recent_temporary>
   </component>
@@ -443,15 +449,8 @@
       <workItem from="1763049756774" duration="1313000" />
       <workItem from="1763083788076" duration="7691000" />
       <workItem from="1763315791550" duration="3417000" />
-      <workItem from="1763341358362" duration="5982000" />
-    </task>
-    <task id="LOCAL-00074" summary="贪心&#10;leet231 2 的幂&#10;commit">
-      <option name="closed" value="true" />
-      <created>1755231964728</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1755231964728</updated>
+      <workItem from="1763341358362" duration="6806000" />
+      <workItem from="1763431148080" duration="7063000" />
     </task>
     <task id="LOCAL-00075" summary="位运算&#10;leet231 两数之和&#10;commit">
       <option name="closed" value="true" />
@@ -837,7 +836,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763319228707</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Leet 6 15 394 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1763355134981</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1763355134981</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -875,7 +882,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 242 387 复习&#10;commit" />
     <MESSAGE value="Leet 242 295 复习&#10;commit" />
     <MESSAGE value="Leet 394 复习&#10;commit" />
     <MESSAGE value="Leet 266 复习&#10;commit" />
@@ -900,7 +906,8 @@
     <MESSAGE value="Leet 142 796 232 review&#10;commit" />
     <MESSAGE value="Leet 239 946 242 295 394 review&#10;commit" />
     <MESSAGE value="Leet 3 151 205 415 796 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 3 151 205 415 796 review&#10;commit" />
+    <MESSAGE value="Leet 6 15 394 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 6 15 394 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -953,12 +960,12 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L6/L6_r1.java</url>
-          <line>4</line>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L392/L392_r4.java</url>
+          <line>5</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
