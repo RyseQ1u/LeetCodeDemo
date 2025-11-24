@@ -17,13 +17,14 @@ import leet._class.linklist.ListNode;
  * 如果两个链表没有交点，intersectVal 为 0 ，否则Intersected at node 8 (注意，如果两个链表相交，那么交点中的节点不能是两个链表的末尾节点！)。
  * 链表相交的 Definition：两个链表相交，当且仅当两个链表的末尾节点相同。
  * 进阶：你能否设计一个时间复杂度 O(n) 且仅用 O(1) 内存的解决方案？
+ *
  */
-public class L160_r4 {
+public class L160_r5 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode a = headA, b = headB;
-        while (a != b) {
-            a = a == null ? headB : a.next;
-            b = b == null ? headA : b.next;
+        while (a!=b){
+            a=a==null? headB:a.next;
+            b=b==null? headA:b.next;
         }
         return a;
     }
