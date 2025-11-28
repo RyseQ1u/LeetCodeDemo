@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 6 8 48 142 946 21 86 206 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L151/L151_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L3/L3_r5.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 8  review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L237/Leet237_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_r4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,11 +160,11 @@
       <recent name="leet.methods._13_Math" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._4_doublePointer.review.L15" />
+      <recent name="leet.methods._5_mock.review.L54" />
+      <recent name="leet.methods._1_linklist.review.L237" />
+      <recent name="leet.methods._5_mock.review.L8" />
       <recent name="leet.methods._4_doublePointer.review.L151" />
-      <recent name="leet.methods._4_doublePointer.review.L3" />
-      <recent name="leet.methods._5_mock.review.L6" />
-      <recent name="leet.methods._1_linklist.review.L206" />
-      <recent name="leet.methods._1_linklist.review.L86" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L392_TemplateTest.canPermutePalindrome">
@@ -453,23 +456,9 @@
       <workItem from="1764032842712" duration="607000" />
       <workItem from="1764062453088" duration="1769000" />
       <workItem from="1764077611493" duration="3747000" />
-      <workItem from="1764130040446" duration="4272000" />
-    </task>
-    <task id="LOCAL-00080" summary="数学&#10;leet89 格雷码&#10;commit">
-      <option name="closed" value="true" />
-      <created>1755748752212</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1755748752212</updated>
-    </task>
-    <task id="LOCAL-00081" summary="数学&#10;leet1823 找出游戏的获胜者&#10;commit">
-      <option name="closed" value="true" />
-      <created>1756350605579</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1756350605579</updated>
+      <workItem from="1764130040446" duration="5150000" />
+      <workItem from="1764207588646" duration="4964000" />
+      <workItem from="1764294618458" duration="7039000" />
     </task>
     <task id="LOCAL-00082" summary="数学&#10;leet2273 去除相邻的异或字符串&#10;commit">
       <option name="closed" value="true" />
@@ -847,7 +836,23 @@
       <option name="project" value="LOCAL" />
       <updated>1764081844888</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Leet 3 151  review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1764171640772</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1764171640772</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Leet 8  review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1764172339867</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1764172339867</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -885,8 +890,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 409 复习&#10;commit" />
-    <MESSAGE value="Leet 392 242 266 295 394 409 复习&#10;commit" />
     <MESSAGE value="Leet 205 409 20 155 复习&#10;commit" />
     <MESSAGE value="Leet 160 876 21 复习&#10;commit" />
     <MESSAGE value="Leet 160 876 206 86 242 295 394 复习&#10;commit" />
@@ -910,7 +913,9 @@
     <MESSAGE value="Leet 6 48 59 review&#10;commit" />
     <MESSAGE value="Leet 8 48 54 160 167 415 796 876 review&#10;commit" />
     <MESSAGE value="Leet 6 8 48 142 946 21 86 206 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 6 8 48 142 946 21 86 206 review&#10;commit" />
+    <MESSAGE value="Leet 3 151  review&#10;commit" />
+    <MESSAGE value="Leet 8  review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 8  review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
