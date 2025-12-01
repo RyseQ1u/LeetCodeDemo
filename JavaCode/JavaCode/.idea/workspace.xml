@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 8  review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L237/Leet237_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_r5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_r4.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 12 54 237  review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L20/Leet20_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L239/L239_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L48/L48_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L59/L59_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L8/L8_r4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L15/L15_Template.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L54/L54_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,11 +164,11 @@
       <recent name="leet.methods._13_Math" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._4_doublePointer.review.L15" />
-      <recent name="leet.methods._5_mock.review.L54" />
-      <recent name="leet.methods._1_linklist.review.L237" />
-      <recent name="leet.methods._5_mock.review.L8" />
-      <recent name="leet.methods._4_doublePointer.review.L151" />
+      <recent name="leet.methods._2_stackAndqueue.review.L20" />
+      <recent name="leet.methods._2_stackAndqueue.review.L155" />
+      <recent name="leet.methods._1_linklist.review.L138" />
+      <recent name="leet.methods._2_stackAndqueue.review.L239" />
+      <recent name="leet.methods._5_mock.review.L48" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L392_TemplateTest.canPermutePalindrome">
@@ -458,15 +462,9 @@
       <workItem from="1764077611493" duration="3747000" />
       <workItem from="1764130040446" duration="5150000" />
       <workItem from="1764207588646" duration="4964000" />
-      <workItem from="1764294618458" duration="7039000" />
-    </task>
-    <task id="LOCAL-00082" summary="数学&#10;leet2273 去除相邻的异或字符串&#10;commit">
-      <option name="closed" value="true" />
-      <created>1760349879527</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1760349879527</updated>
+      <workItem from="1764294618458" duration="7063000" />
+      <workItem from="1764552596725" duration="7192000" />
+      <workItem from="1764578991510" duration="1933000" />
     </task>
     <task id="LOCAL-00083" summary="合并链表&#10;Leet21 &#10;commit">
       <option name="closed" value="true" />
@@ -852,7 +850,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764172339867</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Leet 12 54 237  review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1764337064637</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1764337064637</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -890,8 +896,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 205 409 20 155 复习&#10;commit" />
-    <MESSAGE value="Leet 160 876 21 复习&#10;commit" />
     <MESSAGE value="Leet 160 876 206 86 242 295 394 复习&#10;commit" />
     <MESSAGE value="Leet 167 复习&#10;commit" />
     <MESSAGE value="Leet 142 167 205 复习&#10;commit" />
@@ -915,7 +919,9 @@
     <MESSAGE value="Leet 6 8 48 142 946 21 86 206 review&#10;commit" />
     <MESSAGE value="Leet 3 151  review&#10;commit" />
     <MESSAGE value="Leet 8  review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 8  review&#10;commit" />
+    <MESSAGE value="Leet 15 54 237  review&#10;commit" />
+    <MESSAGE value="Leet 15 54 237  review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 15 54 237  review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
