@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 12 54 237  review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L20/Leet20_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L239/L239_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L48/L48_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L59/L59_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L8/L8_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_r1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L796/L796_r5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L415/L415_r4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,11 +158,11 @@
       <recent name="leet.methods._13_Math" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.Search.review.L704" />
+      <recent name="leet.methods._5_mock.review.L796" />
       <recent name="leet.methods._2_stackAndqueue.review.L20" />
       <recent name="leet.methods._2_stackAndqueue.review.L155" />
       <recent name="leet.methods._1_linklist.review.L138" />
-      <recent name="leet.methods._2_stackAndqueue.review.L239" />
-      <recent name="leet.methods._5_mock.review.L48" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L392_TemplateTest.canPermutePalindrome">
@@ -465,6 +459,7 @@
       <workItem from="1764294618458" duration="7063000" />
       <workItem from="1764552596725" duration="7192000" />
       <workItem from="1764578991510" duration="1933000" />
+      <workItem from="1764659050913" duration="2487000" />
     </task>
     <task id="LOCAL-00083" summary="合并链表&#10;Leet21 &#10;commit">
       <option name="closed" value="true" />
