@@ -1,4 +1,4 @@
-package leet.methods._6_Search;
+package leet.methods.tree;
 
 import java.util.ArrayList;
 import java.util.List;

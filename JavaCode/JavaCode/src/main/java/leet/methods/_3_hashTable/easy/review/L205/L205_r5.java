@@ -6,11 +6,11 @@ public class L205_r5 {
         int[] tMap = new int[128];
         for (int i = 0; i < s.length(); i++) {
             char sc = s.charAt(i);
-            char st = t.charAt(i);
-            if (sMap[sc] != 0 && sMap[sc] != st) return false;
-            if (tMap[st] != 0 && tMap[st] != sc) return false;
-            sMap[sc] = st;
-            tMap[st] = sc;
+            char tc = t.charAt(i);
+            if (sMap[sc] != 0 && sMap[sc] != tc) return false;
+            if (tMap[tc] != 0 && tMap[tc] != sc) return false;
+            sMap[sc] = tc;
+            tMap[tc] = sc;
         }
         return true;
     }
