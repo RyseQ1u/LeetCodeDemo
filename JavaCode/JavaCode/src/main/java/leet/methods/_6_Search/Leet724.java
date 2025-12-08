@@ -1,4 +1,4 @@
-package leet.methods.Search;
+package leet.methods._6_Search;
 
 import java.util.Arrays;
 

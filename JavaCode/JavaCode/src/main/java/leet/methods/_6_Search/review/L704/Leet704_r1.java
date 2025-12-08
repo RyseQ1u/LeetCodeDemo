@@ -1,4 +1,4 @@
-package leet.methods.Search.review.L704;
+package leet.methods._6_Search.review.L704;
 
 ///  升序数组 二分查找
 public class Leet704_r1 {

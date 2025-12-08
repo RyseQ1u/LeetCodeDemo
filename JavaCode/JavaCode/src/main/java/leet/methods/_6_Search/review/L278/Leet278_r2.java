@@ -1,14 +1,14 @@
-package leet.methods.Search.review.L278;
+package leet.methods._6_Search.review.L278;
 /// 二分查询
-public class Leet278_r1 {
+public class Leet278_r2 {
     public int firstBadVersion(int n) {
-        int l = 1 ,r =n,mid = 0;
-        while (l<=r){
-            mid = l + (r - l) / 2;
+        int l =1;
+        while (l<=n){
+            int mid = l+(n-l)/2;
             if(isBadVersion(mid)){
-               r = mid -1;
+                n=mid-1;
             }else {
-                l = mid+1;
+                l=mid+1;
             }
         }
         return l;

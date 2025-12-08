@@ -4,14 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 278 704 724 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L278/Leet278_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L287/Leet287_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L295/Leet295_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L6/L6_r5.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 6 278 287 295 394 704 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L724/Leet724_r3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet154.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet154.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet207.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet207.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet215.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet215.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet287.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet287.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet704.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet704.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/Leet724.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/Leet724.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L278/Leet278_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L278/Leet278_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L278/Leet278_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L278/Leet278_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L278/Leet278_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L278/Leet278_r2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L278/Leet278_r3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L278/Leet278_r3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L287/Leet287_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L287/Leet287_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L287/Leet287_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L287/Leet287_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L287/Leet287_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L287/Leet287_r2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L704/Leet704_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L704/Leet704_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L704/Leet704_r2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L704/Leet704_r3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L704/Leet704_r3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L724/Leet724_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L724/Leet724_Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L724/Leet724_r1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L724/Leet724_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/Search/review/L724/Leet724_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L724/Leet724_r2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/Search/easy/Leet278Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_6_Search/easy/Leet278Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/Search/easy/Leet704Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_6_Search/easy/Leet704Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,11 +180,11 @@
       <recent name="leet.methods._3_hashTable.easy.review.L266" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods.Search.review.L724" />
       <recent name="leet.methods._5_mock.review.L6" />
       <recent name="leet.methods.Search.review.L278" />
       <recent name="leet.methods.Search.review.L704" />
       <recent name="leet.methods._2_stackAndqueue.review.L394" />
-      <recent name="leet.methods._2_stackAndqueue.review.L295" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L946_r4Test.maximumTripletValue">
@@ -468,15 +486,7 @@
       <workItem from="1764811110555" duration="3979000" />
       <workItem from="1764900518598" duration="701000" />
       <workItem from="1764915568504" duration="4583000" />
-      <workItem from="1765158912009" duration="1086000" />
-    </task>
-    <task id="LOCAL-00086" summary="Leet86、206 复习&#10;commit">
-      <option name="closed" value="true" />
-      <created>1760734691050</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1760734691050</updated>
+      <workItem from="1765158912009" duration="2033000" />
     </task>
     <task id="LOCAL-00087" summary="Leet21 237 复习&#10;commit">
       <option name="closed" value="true" />
@@ -862,7 +872,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764727906245</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="Leet 6 278 287 295 394 704 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1765160095190</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1765160095190</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -900,7 +918,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 151 142 237 876 160  复习&#10;commit" />
     <MESSAGE value="Leet 3 151 167  复习&#10;commit" />
     <MESSAGE value="Leet 3  142  151 266  292 409  138  复习&#10;commit" />
     <MESSAGE value="Leet 3 15 151 20 155  复习&#10;commit" />
@@ -925,7 +942,8 @@
     <MESSAGE value="Leet 796 704  review&#10;commit" />
     <MESSAGE value="Leet 278  review&#10;commit" />
     <MESSAGE value="Leet 278 704 724 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 278 704 724 review&#10;commit" />
+    <MESSAGE value="Leet 6 278 287 295 394 704 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 6 278 287 295 394 704 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
