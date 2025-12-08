@@ -1,4 +1,4 @@
-package leet.methods.tree;
+package leet.methods._7_Tree;
 
 import leet._class.Tree.TreeNode;
 import org.junit.jupiter.api.Assertions;

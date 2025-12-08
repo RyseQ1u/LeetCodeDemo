@@ -1,4 +1,4 @@
-package leet.methods.tree;
+package leet.methods._7_Tree;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

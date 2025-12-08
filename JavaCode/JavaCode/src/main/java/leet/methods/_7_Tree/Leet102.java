@@ -1,10 +1,11 @@
-package leet.methods.tree;
+package leet.methods._7_Tree;
+
+import leet._class.Tree.TreeNode;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
-import leet._class.Tree.TreeNode;
 
 public class Leet102 {
 
