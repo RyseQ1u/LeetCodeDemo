@@ -11,7 +11,7 @@ class L266_Test {
     @ParameterizedTest
     @MethodSource("provideTestCases")
     void canPermutePalindrome(String s , boolean expected) {
-        boolean res = new L266_r4().canPermutePalindrome(s);
+        boolean res = new L266_r5().canPermutePalindrome(s);
         Assertions.assertEquals (expected, res);
     }
 
