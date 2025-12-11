@@ -2,11 +2,12 @@ package leet.methods._5_mock.review.L8;
 
 public class L8_r4 {
     public int myAtoi(String s) {
+        s = s.trim();
         if (s.isEmpty()) return 0;
         int index = 0,n = s.length(),flag = 1,res = 0,max = Integer.MAX_VALUE /10;
         //跳过空格
         while (s.charAt(index)==' ')index++;
-        if(index==n-1) return 0;
+        if(index==n) return 0;
         //符号判断
         if(s.charAt(index)=='-') flag = -1;
         if(s.charAt(index)=='+'||s.charAt(index) == '-')index++;
