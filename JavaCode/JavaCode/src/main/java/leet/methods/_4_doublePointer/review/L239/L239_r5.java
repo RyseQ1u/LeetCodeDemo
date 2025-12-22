@@ -1,4 +1,4 @@
-package leet.methods._2_stackAndqueue.review.L239;
+package leet.methods._4_doublePointer.review.L239;
 
 import java.util.LinkedList;
 
