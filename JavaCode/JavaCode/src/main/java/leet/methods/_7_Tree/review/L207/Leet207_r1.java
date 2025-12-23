@@ -9,7 +9,7 @@ public class Leet207_r1 {
         ArrayList<ArrayList<Integer>> list = new ArrayList<>();
         LinkedList<Integer> queue = new LinkedList<>();
         for (int i = 0; i < numCourses; i++) {
-            list    .add(new ArrayList<>());
+            list.add(new ArrayList<>());
         }
         for (int[] pr : prerequisites) {
             //记录需要先修的课程数量
@@ -19,16 +19,15 @@ public class Leet207_r1 {
         }
         //统计不需要前置条件的课程
         for (int i = 0; i < numCourses; i++) {
-            if(indegress[i]==0)queue.add(i);
+            if (indegress[i] == 0) queue.add(i);
         }
-        while (!queue.isEmpty()){
+        while (!queue.isEmpty()) {
             Integer pre = queue.poll();
             numCourses--;
             for (Integer toword : list.get(pre)) {
-                if(--indegress[toword]==0)queue.add(toword);
+                if (--indegress[toword] == 0) queue.add(toword);
             }
         }
-
-        return numCourses==0;
+        return numCourses == 0;
     }
 }
