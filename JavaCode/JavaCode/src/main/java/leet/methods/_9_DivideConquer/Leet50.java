@@ -1,4 +1,4 @@
-package leet.methods.DivideConquer;
+package leet.methods._9_DivideConquer;
 
 public class Leet50 {
 

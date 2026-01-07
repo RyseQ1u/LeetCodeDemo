@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 59 113 236 509 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L48/L48_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L8/L8_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_7_Tree/review/L103/Leet103_r5.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 8 48 103 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_7_Tree/review/L207/Leet207_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L226/Leet226_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L226/Leet226_r1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L509/Leet509_r3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L509/Leet509_r3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet105.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet297.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet297.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/DivideConquer/Leet105Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_9_DivideConquer/Leet105Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/DivideConquer/Leet297Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_9_DivideConquer/Leet297Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leet/methods/_13_Math/Leet1823Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leet/methods/_13_Math/Leet1823Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,11 +171,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._9_DivideConquer.review.L226" />
+      <recent name="leet.methods._7_Tree.review.L207" />
       <recent name="leet.methods._5_mock.review.L48" />
       <recent name="leet.methods._7_Tree.review.L103" />
       <recent name="leet.methods._5_mock.review.L8" />
-      <recent name="leet.methods._7_Tree.review.L236" />
-      <recent name="leet.methods._10_Dynamic.review.L509" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -493,15 +501,9 @@
       <workItem from="1767491084070" duration="3501000" />
       <workItem from="1767494624283" duration="8000" />
       <workItem from="1767575646384" duration="3672000" />
-      <workItem from="1767689316830" duration="3020000" />
-    </task>
-    <task id="LOCAL-00111" summary="Leet 142 167 205 复习&#10;commit">
-      <option name="closed" value="true" />
-      <created>1762362149317</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1762362149318</updated>
+      <workItem from="1767689316830" duration="3052000" />
+      <workItem from="1767716322203" duration="3000" />
+      <workItem from="1767771485406" duration="2643000" />
     </task>
     <task id="LOCAL-00112" summary="Leet 151 142 237 876 160  复习&#10;commit">
       <option name="closed" value="true" />
@@ -887,7 +889,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767578843452</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Leet 8 48 103 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1767692389376</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1767692389376</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -925,7 +935,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 278  review&#10;commit" />
     <MESSAGE value="Leet 278 704 724 review&#10;commit" />
     <MESSAGE value="Leet 6 278 287 295 394 704 review&#10;commit" />
     <MESSAGE value="Leet 54 205 154 287 review&#10;commit" />
@@ -950,7 +959,8 @@
     <MESSAGE value="Leet 509 review&#10;commit" />
     <MESSAGE value="Leet 46 47 230 review&#10;commit" />
     <MESSAGE value="Leet 59 113 236 509 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 59 113 236 509 review&#10;commit" />
+    <MESSAGE value="Leet 8 48 103 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 8 48 103 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -995,7 +1005,7 @@
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet105.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet105.java</url>
           <line>19</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />

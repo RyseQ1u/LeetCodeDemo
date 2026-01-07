@@ -1,4 +1,4 @@
-package leet.methods.DivideConquer;
+package leet.methods._9_DivideConquer;
 
 import leet._class.Tree.TreeNode;
 import org.junit.jupiter.api.Assertions;
@@ -8,12 +8,13 @@ import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
 
-class Leet105Test {
+class Leet297Test {
+
     @ParameterizedTest
     @MethodSource("provideTestCases")
-    void maximumTripletValue(int[] preorder,int[] inorder,TreeNode expected) {
-        TreeNode res = new Leet105().buildTree(preorder,inorder);
-        Assertions.assertEquals (expected, res);
+    void maximumTripletValue(int[] preorder, int[] inorder, TreeNode expected) {
+         new Leet297().test1();
+        Assertions.assertEquals (1, 1);
     }
 
     private static Stream<Arguments> provideTestCases() {
