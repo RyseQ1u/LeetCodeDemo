@@ -28,7 +28,7 @@ public class Leet206_r6 {
 
     private ListNode reverse(ListNode cur, ListNode pre) {
         if(cur==null) return pre;
-        ListNode res = reverse(cur.next,pre);
+        ListNode res = reverse(cur.next,cur);
         cur.next = pre;
         return res;
     }
