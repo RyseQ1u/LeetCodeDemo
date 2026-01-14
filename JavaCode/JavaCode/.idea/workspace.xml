@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 50 110 287 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L110/Leet110_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L50/Leet50_r2.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 20 110 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_8_Recall/review/L46/Leet46_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_8_Recall/review/L47/Leet47_r5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,11 +161,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._8_Recall.review.L47" />
+      <recent name="leet.methods._8_Recall.review.L46" />
       <recent name="leet.methods._9_DivideConquer.review.L50" />
       <recent name="leet.methods._9_DivideConquer.review.L110" />
       <recent name="leet.methods._6_Search.review.L287" />
-      <recent name="leet.methods._1_linklist.review.L237" />
-      <recent name="leet.methods._6_Search.review.L724" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -503,14 +503,7 @@
       <workItem from="1768143318580" duration="3975000" />
       <workItem from="1768180281937" duration="9508000" />
       <workItem from="1768267207957" duration="2022000" />
-    </task>
-    <task id="LOCAL-00117" summary="Leet 239 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1762760311279</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1762760311279</updated>
+      <workItem from="1768360446776" duration="2758000" />
     </task>
     <task id="LOCAL-00118" summary="Leet 160 239 415 876 review&#10;commit">
       <option name="closed" value="true" />
@@ -896,7 +889,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768190760666</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="Leet 20 110 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1768360459953</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1768360459953</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -934,7 +935,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 103 278 704 review&#10;commit" />
     <MESSAGE value="Leet 8 48 59 724 review&#10;commit" />
     <MESSAGE value="Leet 160 876 236 287 review&#10;commit" />
     <MESSAGE value="Leet 142 167 103 230 236 review&#10;commit" />
@@ -959,7 +959,8 @@
     <MESSAGE value="Leet 226 278 509 704 review&#10;commit" />
     <MESSAGE value="Leet 101 237 724 review&#10;commit" />
     <MESSAGE value="Leet 50 110 287 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 50 110 287 review&#10;commit" />
+    <MESSAGE value="Leet 20 110 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 20 110 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
