@@ -4,7 +4,7 @@ public class Leet50_r1 {
 
     public double myPow(double x, int n) {
         if(n<0){
-            return mp(1/x,-n);
+            return mp(1/x,-(long) n);
         }
         return mp(x,n);
     }
