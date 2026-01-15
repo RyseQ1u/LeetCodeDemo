@@ -1,0 +1,78 @@
+package leet.methods._2_stackAndqueue.review.L155;
+
+import java.util.LinkedList;
+
+/**
+ * 155. 最小栈
+ * 设计一个支持 push ，pop ，top 操作，并能在常数时间内检索到最小元素的栈。
+ * push(x) —— 将元素 x 推入栈中。
+ * pop() —— 删除栈顶的元素。
+ * top() —— 获取栈顶元素。
+ * getMin() —— 检索栈中的最小元素。
+ * 示例:
+ * 输入：
+ * ["MinStack","push","push","push","getMin","pop","top","getMin"]
+ * [[],[-2],[0],[-3],[],[],[],[]]
+ * 输出：
+ * [null,null,null,null,-3,null,0,-2]
+ * 解释：
+ * MinStack minStack = new MinStack();
+ * minStack.push(-2);
+ * minStack.push(0);
+ * minStack.push(-3);
+ * minStack.getMin(); // 返回 -3.
+ * minStack.pop();
+ * minStack.top();    // 返回 0.
+ * minStack.getMin(); // 返回 -2.
+ * 提示：
+ * pop、top 和 getMin 操作总是在 非空栈 上调用。
+ */
+public class Leet155_r5 {
+
+    /**
+     * 维护一个最小值
+     * 和一个差值数组
+     */
+    class MinStack {
+        private long min;
+        private final LinkedList<Long> list = new LinkedList<>();
+
+        public MinStack() {
+
+        }
+
+        public void push(int val) {
+            if (list.isEmpty()) {
+                min = val;
+                list.add(0L);
+            } else {
+                long sub = val - min;
+                if (sub < 0) {
+                    min = val;
+                }
+                list.add(sub);
+            }
+        }
+
+        public void pop() {
+            Long pop = list.removeLast();
+            if (pop < 0) {
+                //表示弹出的是最小值
+                min -= pop;
+            }
+        }
+
+        public int top() {
+            Long peek = list.peekLast();
+            if (peek < 0) {
+                return (int) min;
+            } else {
+                return (int) (min + peek);
+            }
+        }
+
+        public int getMin() {
+            return (int) min;
+        }
+    }
+}
