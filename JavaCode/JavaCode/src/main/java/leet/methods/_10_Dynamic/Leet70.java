@@ -24,7 +24,7 @@ public class Leet70 {
      */
     public int climbStairs_2(int n) {
         int a = 1, b = 1, sum = 0;
-        for (int i = 2; i < n-1; i++) {
+        for (int i = 0; i < n-1; i++) {
             sum = a + b;
             a = b;
             b = sum;
