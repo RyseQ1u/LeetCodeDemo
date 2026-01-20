@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 70 232 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L295/Leet295_r7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_3_hashTable/easy/review/L242/Leet242_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L509/Leet509_r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L110/Leet110_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L50/Leet50_r4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L394/Leet394_r6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L50/Leet50_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/review/L50/Leet50_r2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,11 +163,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._9_DivideConquer.review.L50" />
+      <recent name="leet.methods._9_DivideConquer.review.L110" />
+      <recent name="leet.methods._10_Dynamic.review.L509" />
       <recent name="leet.methods._3_hashTable.easy.review.L242" />
       <recent name="leet.methods._2_stackAndqueue.review.L394" />
-      <recent name="leet.methods._2_stackAndqueue.review.L295" />
-      <recent name="leet.methods._2_stackAndqueue.review.L232" />
-      <recent name="leet.methods._10_Dynamic.review.L70" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -513,6 +513,7 @@
       <workItem from="1768550664531" duration="2699000" />
       <workItem from="1768761925090" duration="2069000" />
       <workItem from="1768789376484" duration="5299000" />
+      <workItem from="1768872091525" duration="5023000" />
     </task>
     <task id="LOCAL-00123" summary="Leet 6 15 394 review&#10;commit">
       <option name="closed" value="true" />

@@ -20,15 +20,16 @@ public class Leet50_r3 {
     }
 
     public double myPow_V2(double x, int n) {
+        long m = n;
         if(n<0){
             x=1/x;
-            n=-n;
+            m=-m;
         }
-        int res = 1;
-        while (n>0){
-            if((n&1)==1) res *= x;
-            res*=res;
-            n>>=1;
+        double res = 1;
+        while (m>0){
+            if((m&1)==1) res *= x;
+            x*=x;
+            m>>=1;
         }
         return res;
     }
