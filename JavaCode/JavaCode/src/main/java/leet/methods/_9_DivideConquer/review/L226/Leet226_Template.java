@@ -10,5 +10,9 @@ public class Leet226_Template {
     public TreeNode invertTree(TreeNode root) {
         return root;
     }
+
+    public TreeNode invertTree_V2(TreeNode root) {
+        return root;
+    }
 }
 
