@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 103 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_7_Tree/review/L207/Leet207_r6.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 207 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L142/L142_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L167/L167_r7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,9 +124,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
@@ -160,11 +161,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._4_doublePointer.review.L142" />
+      <recent name="leet.methods._4_doublePointer.review.L167" />
       <recent name="leet.methods._7_Tree.review.L207" />
       <recent name="leet.methods._7_Tree.review.L103" />
       <recent name="leet.methods._4_doublePointer.review.L160" />
-      <recent name="leet.methods._4_doublePointer.review.L876" />
-      <recent name="leet.methods._7_Tree.review.L236" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -516,15 +517,9 @@
       <workItem from="1769311551556" duration="5298000" />
       <workItem from="1769390943004" duration="5093000" />
       <workItem from="1769480276680" duration="726000" />
-      <workItem from="1769562105677" duration="532000" />
-    </task>
-    <task id="LOCAL-00128" summary="Leet 6 8 48 142 946 21 86 206 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1764081844888</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1764081844888</updated>
+      <workItem from="1769562105677" duration="584000" />
+      <workItem from="1769650570299" duration="136000" />
+      <workItem from="1769650717702" duration="2532000" />
     </task>
     <task id="LOCAL-00129" summary="Leet 3 151  review&#10;commit">
       <option name="closed" value="true" />
@@ -910,7 +905,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769481001712</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="Leet 207 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1769562668567</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1769562668567</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -948,7 +951,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 796 104 113 207 230 review&#10;commit" />
     <MESSAGE value="Leet 113 46 review&#10;commit" />
     <MESSAGE value="Leet 946 46 47 104 review&#10;commit" />
     <MESSAGE value="Leet 6 113 review&#10;commit" />
@@ -973,7 +975,8 @@
     <MESSAGE value="Leet 226 230 review&#10;commit" />
     <MESSAGE value="Leet 876 101 160 236 review&#10;commit" />
     <MESSAGE value="Leet 103 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 103 review&#10;commit" />
+    <MESSAGE value="Leet 207 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 207 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
