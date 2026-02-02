@@ -11,20 +11,20 @@ public class L15_r6 {
         Arrays.sort(nums);
         List<List<Integer>> res = new ArrayList<>();
         int n = nums.length, left = 0;
-        for (; left < n-2; left++) {
-            if(left>0 && nums[left]==nums[left-1])continue;
-            int mid = left+1,right = n-1;
-            if(nums[left]+nums[mid+1]+nums[mid]> 0)break;
-            if(nums[left]+nums[right-1]+nums[right]<0)continue;
-            while (mid<right){
-                if(nums[left]+nums[mid]+nums[right] >0){
+        for (; left < n - 2; left++) {
+            if (left > 0 && nums[left] == nums[left - 1]) continue;
+            int mid = left + 1, right = n - 1;
+            if (nums[left] + nums[mid + 1] + nums[mid] > 0) break;
+            if (nums[left] + nums[right - 1] + nums[right] < 0) continue;
+            while (mid < right) {
+                if (nums[left] + nums[mid] + nums[right] > 0) {
                     right--;
-                }else if(nums[left]+nums[mid]+nums[right] <0){
+                } else if (nums[left] + nums[mid] + nums[right] < 0) {
                     mid++;
-                }else {
-                    res.add(Arrays.asList(nums[left],nums[mid],nums[right]));
-                    while (mid<right && nums[mid] == nums[++mid]);
-                    while (mid<right && nums[right] == nums[--right]);
+                } else {
+                    res.add(Arrays.asList(nums[left], nums[mid], nums[right]));
+                    while (mid < right && nums[mid] == nums[++mid]) ;
+                    while (mid < right && nums[right] == nums[--right]) ;
                 }
             }
         }
