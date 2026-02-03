@@ -16,6 +16,6 @@ public class Leet121 {
             //记录今天卖出的最大利润
             res = Math.max(res, price - min);
         }
-        return res  ;
+        return res;
     }
 }
