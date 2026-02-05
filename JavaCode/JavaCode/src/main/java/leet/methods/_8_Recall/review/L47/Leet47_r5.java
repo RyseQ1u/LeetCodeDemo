@@ -9,7 +9,7 @@ public class Leet47_r5 {
         for (int num : nums) {
             cur.add(num);
         }
-
+        bt(0);
         return new LinkedList<>();
     }
     private void bt(int i){
