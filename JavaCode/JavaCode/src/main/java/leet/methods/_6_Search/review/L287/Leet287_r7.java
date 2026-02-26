@@ -2,10 +2,12 @@ package leet.methods._6_Search.review.L287;
 
 public class Leet287_r7 {
     public int findDuplicate(int[] nums) {
-        boolean[] used = new boolean[nums.length+1];
+        int[] map = new int[nums.length];
         for (int num : nums) {
-            if(used[num])return num;
-            used[num]=true;
+            map[num]++;
+        }
+        for (int num : nums) {
+            if(map[num]>1)return num;
         }
         return 0;
     }
