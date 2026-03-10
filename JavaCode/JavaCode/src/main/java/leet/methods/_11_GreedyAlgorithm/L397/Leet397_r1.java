@@ -1,6 +1,6 @@
 package leet.methods._11_GreedyAlgorithm.L397;
 
-public class Leet379_r1 {
+public class Leet397_r1 {
     public int integerReplacement(int n) {
         if(n==1)return 1;
         //偶数
