@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 206 207 146 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_14_Thread/L1115/LeetCode1115_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_8_Recall/review/L104/Leet104_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L121/Leet121_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L1480/Leet1480_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L53/Leet53_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L64/Leet64_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_15_test/L146/LeetCode146_r3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -162,11 +165,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._8_Recall.review.L104" />
-      <recent name="leet.methods._14_Thread.L1115" />
-      <recent name="leet.methods._11_GreedyAlgorithm.L122" />
+      <recent name="leet.methods._10_Dynamic.review.L53" />
+      <recent name="leet.methods._10_Dynamic.review.L64" />
+      <recent name="leet.methods._10_Dynamic.review.L121" />
+      <recent name="leet.methods._10_Dynamic.review.L1480" />
       <recent name="leet.methods._15_test.L146" />
-      <recent name="leet.methods._7_Tree.review.L207" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -568,6 +571,7 @@
       <workItem from="1773497828147" duration="4000000" />
       <workItem from="1773587410597" duration="1704000" />
       <workItem from="1773622524841" duration="2056000" />
+      <workItem from="1773711843718" duration="5076000" />
     </task>
     <task id="LOCAL-00171" summary="Leet 70 232 review&#10;commit">
       <option name="closed" value="true" />
