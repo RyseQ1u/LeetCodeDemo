@@ -1,6 +1,6 @@
 package leet.methods._15_test.L146;
 
-public class LeetCode146_Template {
+public class Leet146_Template {
     class LRUCache {
 
         public LRUCache(int capacity) {
