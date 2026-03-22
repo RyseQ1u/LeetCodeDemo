@@ -1,6 +1,6 @@
 package leet.methods._11_GreedyAlgorithm.L11;
 
-public class LeetCode11_r1 {
+public class Leet11_r1 {
 
     /**
      * 二分法
