@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 134 768 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L135/Leet134_r3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L191/Leet191_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_14_Thread/L1115/LeetCode1115_r5.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 11, 264 300 509 768 1143 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L1143/Leet1143_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L264/Leet264_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L300/Leet300_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L509/Leet509_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L768/Leet768_r3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,11 +167,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._11_GreedyAlgorithm.L135" />
-      <recent name="leet.methods._14_Thread.L1115" />
-      <recent name="leet.methods._12_BitManipulation.L191" />
       <recent name="leet.methods._11_GreedyAlgorithm.L768" />
-      <recent name="leet.methods._12_BitManipulation.Leet191" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L11" />
+      <recent name="leet.methods._10_Dynamic.review.L509" />
+      <recent name="leet.methods._10_Dynamic.review.L1143" />
+      <recent name="leet.methods._10_Dynamic.review.L300" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -583,14 +587,8 @@
       <workItem from="1774362708104" duration="22000" />
       <workItem from="1774401220064" duration="3257000" />
       <workItem from="1774490873387" duration="7156000" />
-    </task>
-    <task id="LOCAL-00179" summary="Leet 50 104 110 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1769738554018</created>
-      <option name="number" value="00179" />
-      <option name="presentableId" value="LOCAL-00179" />
-      <option name="project" value="LOCAL" />
-      <updated>1769738554018</updated>
+      <workItem from="1774574461752" duration="11658000" />
+      <workItem from="1774625476376" duration="695000" />
     </task>
     <task id="LOCAL-00180" summary="Leet 3 15 151 review&#10;commit">
       <option name="closed" value="true" />
@@ -976,7 +974,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774362722324</updated>
     </task>
-    <option name="localTasksCounter" value="228" />
+    <task id="LOCAL-00228" summary="Leet 134 191 1115 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1774574530396</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
+      <option name="project" value="LOCAL" />
+      <updated>1774574530397</updated>
+    </task>
+    <option name="localTasksCounter" value="229" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1021,9 +1027,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 53 70 278 704 review&#10;commit" />
-    <MESSAGE value="Leet 64 264 review&#10;commit" />
-    <MESSAGE value="Leet 8 48 50 110 121 300 1143 1480 review&#10;commit" />
     <MESSAGE value="Leet 122 724 review&#10;commit" />
     <MESSAGE value="Leet 122 287 review&#10;commit" />
     <MESSAGE value="Leet 198 review&#10;commit" />
@@ -1046,7 +1049,10 @@
     <MESSAGE value="Leet 11 179 review&#10;commit" />
     <MESSAGE value="Leet 134 179 review&#10;commit" />
     <MESSAGE value="Leet 134 768 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 134 768 review&#10;commit" />
+    <MESSAGE value="Leet 191 768 review&#10;commit" />
+    <MESSAGE value="Leet 134 191 1115 review&#10;commit" />
+    <MESSAGE value="Leet 11, 264 300 509 768 1143 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 11, 264 300 509 768 1143 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
