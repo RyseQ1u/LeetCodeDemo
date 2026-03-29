@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 11, 264 300 509 768 1143 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L1143/Leet1143_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L264/Leet264_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L300/Leet300_r6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L509/Leet509_r7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L768/Leet768_r3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L179/Leet179_r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L397/Leet397_r5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_Template.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,11 +162,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._11_GreedyAlgorithm.L179" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L397" />
       <recent name="leet.methods._11_GreedyAlgorithm.L768" />
       <recent name="leet.methods._11_GreedyAlgorithm.L11" />
       <recent name="leet.methods._10_Dynamic.review.L509" />
-      <recent name="leet.methods._10_Dynamic.review.L1143" />
-      <recent name="leet.methods._10_Dynamic.review.L300" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -588,15 +583,8 @@
       <workItem from="1774401220064" duration="3257000" />
       <workItem from="1774490873387" duration="7156000" />
       <workItem from="1774574461752" duration="11658000" />
-      <workItem from="1774625476376" duration="695000" />
-    </task>
-    <task id="LOCAL-00180" summary="Leet 3 15 151 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1769999838174</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1769999838174</updated>
+      <workItem from="1774625476376" duration="718000" />
+      <workItem from="1774795912693" duration="628000" />
     </task>
     <task id="LOCAL-00181" summary="Leet 70 121 1480 review&#10;commit">
       <option name="closed" value="true" />
@@ -982,7 +970,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774574530397</updated>
     </task>
-    <option name="localTasksCounter" value="229" />
+    <task id="LOCAL-00229" summary="Leet 11, 264 300 509 768 1143 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1774627093856</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1774627093856</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
