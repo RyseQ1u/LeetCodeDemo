@@ -1,6 +1,6 @@
 package leet.methods._11_GreedyAlgorithm.L135;
 
-public class Leet134_r2 {
+public class Leet135_r2 {
     public int candy(int[] ratings) {
         //双向贪心
         int res=0,n=ratings.length;
