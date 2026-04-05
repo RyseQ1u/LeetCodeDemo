@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 191 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L122/Leet122_r6.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 134 768 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L768/Leet768_r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L191/Leet191_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L191/Leet191_r1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,11 +163,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods._11_GreedyAlgorithm.L122" />
-      <recent name="leet.methods._12_BitManipulation.L191" />
-      <recent name="leet.methods._9_DivideConquer.review.L101" />
-      <recent name="leet.methods._10_Dynamic.review.L10" />
-      <recent name="leet.methods._12_BitManipulation.L371" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L768" />
+      <recent name="leet.methods._12_BitManipulation.Leet191" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L135" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L179" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L11" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -579,17 +582,70 @@
       <workItem from="1774344075150" duration="1130000" />
       <workItem from="1774362708104" duration="22000" />
       <workItem from="1774401220064" duration="3257000" />
-      <workItem from="1774490873387" duration="7156000" />
-      <workItem from="1774574461752" duration="11658000" />
-      <workItem from="1774625476376" duration="718000" />
-      <workItem from="1774795912693" duration="2868000" />
-      <workItem from="1774833466066" duration="3861000" />
-      <workItem from="1774882005481" duration="102000" />
-      <workItem from="1774921541954" duration="1383000" />
-      <workItem from="1775006366258" duration="8627000" />
-      <workItem from="1775093498388" duration="5975000" />
-      <workItem from="1775183178106" duration="1276000" />
-      <workItem from="1775403465371" duration="585000" />
+    </task>
+    <task id="LOCAL-00179" summary="Leet 50 104 110 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1769738554018</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1769738554018</updated>
+    </task>
+    <task id="LOCAL-00180" summary="Leet 3 15 151 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1769999838174</created>
+      <option name="number" value="00180" />
+      <option name="presentableId" value="LOCAL-00180" />
+      <option name="project" value="LOCAL" />
+      <updated>1769999838174</updated>
+    </task>
+    <task id="LOCAL-00181" summary="Leet 70 121 1480 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770090509033</created>
+      <option name="number" value="00181" />
+      <option name="presentableId" value="LOCAL-00181" />
+      <option name="project" value="LOCAL" />
+      <updated>1770090509033</updated>
+    </task>
+    <task id="LOCAL-00182" summary="Leet 64 121 1480 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770172760309</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1770172760310</updated>
+    </task>
+    <task id="LOCAL-00183" summary="Leet 415 46 47 64 113 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770263749714</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1770263749714</updated>
+    </task>
+    <task id="LOCAL-00184" summary="Leet 239 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770265149592</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1770265149592</updated>
+    </task>
+    <task id="LOCAL-00185" summary="Leet 796 53 121 1480 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770351547366</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1770351547366</updated>
+    </task>
+    <task id="LOCAL-00186" summary="Leet 53 64 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1770564858121</created>
+      <option name="number" value="00186" />
+      <option name="presentableId" value="LOCAL-00186" />
+      <option name="project" value="LOCAL" />
+      <updated>1770564858122</updated>
     </task>
     <task id="LOCAL-00187" summary="Leet 6 946 53 review&#10;commit">
       <option name="closed" value="true" />
@@ -919,71 +975,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774362722324</updated>
     </task>
-    <task id="LOCAL-00228" summary="Leet 134 191 1115 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1774574530396</created>
-      <option name="number" value="00228" />
-      <option name="presentableId" value="LOCAL-00228" />
-      <option name="project" value="LOCAL" />
-      <updated>1774574530397</updated>
-    </task>
-    <task id="LOCAL-00229" summary="Leet 11, 264 300 509 768 1143 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1774627093856</created>
-      <option name="number" value="00229" />
-      <option name="presentableId" value="LOCAL-00229" />
-      <option name="project" value="LOCAL" />
-      <updated>1774627093856</updated>
-    </task>
-    <task id="LOCAL-00230" summary="Leet 179 240 397 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1774796827711</created>
-      <option name="number" value="00230" />
-      <option name="presentableId" value="LOCAL-00230" />
-      <option name="project" value="LOCAL" />
-      <updated>1774796827711</updated>
-    </task>
-    <task id="LOCAL-00231" summary="Leet 191 231 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1774797585828</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1774797585828</updated>
-    </task>
-    <task id="LOCAL-00232" summary="Leet 231 371 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1774852855893</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1774852855893</updated>
-    </task>
-    <task id="LOCAL-00233" summary="Leet 136 371 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1775007942533</created>
-      <option name="number" value="00233" />
-      <option name="presentableId" value="LOCAL-00233" />
-      <option name="project" value="LOCAL" />
-      <updated>1775007942533</updated>
-    </task>
-    <task id="LOCAL-00234" summary="Leet 10 101 71 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1775183271068</created>
-      <option name="number" value="00234" />
-      <option name="presentableId" value="LOCAL-00234" />
-      <option name="project" value="LOCAL" />
-      <updated>1775183271068</updated>
-    </task>
-    <task id="LOCAL-00235" summary="Leet 191 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1775403493741</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1775403493742</updated>
-    </task>
-    <option name="localTasksCounter" value="236" />
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1028,6 +1020,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Leet 53 70 278 704 review&#10;commit" />
+    <MESSAGE value="Leet 64 264 review&#10;commit" />
+    <MESSAGE value="Leet 8 48 50 110 121 300 1143 1480 review&#10;commit" />
+    <MESSAGE value="Leet 122 724 review&#10;commit" />
+    <MESSAGE value="Leet 122 287 review&#10;commit" />
+    <MESSAGE value="Leet 198 review&#10;commit" />
+    <MESSAGE value="Leet 122 213 review&#10;commit" />
+    <MESSAGE value="Leet 10 review&#10;commit" />
+    <MESSAGE value="Leet 122 review&#10;commit" />
     <MESSAGE value="Leet 264 300 1143 review&#10;commit" />
     <MESSAGE value="Leet 1115 review&#10;commit" />
     <MESSAGE value="Leet 240 379 review&#10;commit" />
@@ -1044,16 +1045,7 @@
     <MESSAGE value="Leet 11 179 review&#10;commit" />
     <MESSAGE value="Leet 134 179 review&#10;commit" />
     <MESSAGE value="Leet 134 768 review&#10;commit" />
-    <MESSAGE value="Leet 191 768 review&#10;commit" />
-    <MESSAGE value="Leet 134 191 1115 review&#10;commit" />
-    <MESSAGE value="Leet 11, 264 300 509 768 1143 review&#10;commit" />
-    <MESSAGE value="Leet 179 240 397 review&#10;commit" />
-    <MESSAGE value="Leet 191 231 review&#10;commit" />
-    <MESSAGE value="Leet 231 371 review&#10;commit" />
-    <MESSAGE value="Leet 136 371 review&#10;commit" />
-    <MESSAGE value="Leet 10 101 71 review&#10;commit" />
-    <MESSAGE value="Leet 191 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 191 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 134 768 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
