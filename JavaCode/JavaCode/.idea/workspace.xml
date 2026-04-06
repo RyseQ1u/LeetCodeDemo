@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 134 768 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L768/Leet768_r2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L191/Leet191_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L191/Leet191_r1.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 122 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L11/Leet11_r5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,11 +161,11 @@
       <recent name="leet.methods._5_mock.review.L6" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._11_GreedyAlgorithm.L11" />
       <recent name="leet.methods._11_GreedyAlgorithm.L768" />
       <recent name="leet.methods._12_BitManipulation.Leet191" />
       <recent name="leet.methods._11_GreedyAlgorithm.L135" />
       <recent name="leet.methods._11_GreedyAlgorithm.L179" />
-      <recent name="leet.methods._11_GreedyAlgorithm.L11" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet103_r3Test.maximumTripletValue">
@@ -582,6 +580,7 @@
       <workItem from="1774344075150" duration="1130000" />
       <workItem from="1774362708104" duration="22000" />
       <workItem from="1774401220064" duration="3257000" />
+      <workItem from="1775488950600" duration="528000" />
     </task>
     <task id="LOCAL-00179" summary="Leet 50 104 110 review&#10;commit">
       <option name="closed" value="true" />
