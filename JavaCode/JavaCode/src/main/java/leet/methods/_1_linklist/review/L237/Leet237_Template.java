@@ -6,6 +6,8 @@ public class Leet237_Template {
 
     /// 删除某个节点
     public void deleteNode(ListNode node) {
+        node.val = node.next.val;
+        node.next = node.next.next;
     }
 
 }
