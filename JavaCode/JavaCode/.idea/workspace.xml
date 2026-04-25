@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 231 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r3.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 137 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_1_linklist/review/L138/Leet138_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L155/Leet155_r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/review/L20/Leet20_r8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +53,7 @@
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/HashMap.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/Stack.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r2.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -164,11 +167,11 @@
       <recent name="leet.methods._2_stackAndqueue.review.L266" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._2_stackAndqueue.review.L155" />
+      <recent name="leet.methods._1_linklist.review.L138" />
+      <recent name="leet.methods._2_stackAndqueue.review.L20" />
       <recent name="leet.methods._12_BitManipulation.L137" />
       <recent name="leet.methods._12_BitManipulation.L231" />
-      <recent name="leet.methods._15_test.L146" />
-      <recent name="leet.methods._12_BitManipulation.L371" />
-      <recent name="leet.methods._1_linklist.review.L86" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.MainTest.main">
@@ -599,23 +602,7 @@
       <workItem from="1776870523665" duration="2878000" />
       <workItem from="1776915617324" duration="1692000" />
       <workItem from="1776958496458" duration="1327000" />
-      <workItem from="1777103164295" duration="2529000" />
-    </task>
-    <task id="LOCAL-00192" summary="Leet 213 300 1143 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1770967835449</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1770967835449</updated>
-    </task>
-    <task id="LOCAL-00193" summary="Leet 53 264 300 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1771039386510</created>
-      <option name="number" value="00193" />
-      <option name="presentableId" value="LOCAL-00193" />
-      <option name="project" value="LOCAL" />
-      <updated>1771039386510</updated>
+      <workItem from="1777103164295" duration="13325000" />
     </task>
     <task id="LOCAL-00194" summary="Leet 1143 review&#10;commit">
       <option name="closed" value="true" />
@@ -993,7 +980,23 @@
       <option name="project" value="LOCAL" />
       <updated>1776958591286</updated>
     </task>
-    <option name="localTasksCounter" value="241" />
+    <task id="LOCAL-00241" summary="Leet 137 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1777107349537</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1777107349538</updated>
+    </task>
+    <task id="LOCAL-00242" summary="Leet 137 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1777107373627</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
+      <option name="project" value="LOCAL" />
+      <updated>1777107373627</updated>
+    </task>
+    <option name="localTasksCounter" value="243" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1064,14 +1067,14 @@
     <MESSAGE value="Leet 136 179 371 review&#10;commit" />
     <MESSAGE value="Leet 191 review&#10;commit" />
     <MESSAGE value="Leet 11 231 review&#10;commit" />
-    <MESSAGE value="Leet 137 review&#10;commit" />
     <MESSAGE value="Leet 137 1115 review&#10;commit" />
     <MESSAGE value="Leet 21 240 397 review&#10;commit" />
     <MESSAGE value="Leet 86 206 review&#10;commit" />
     <MESSAGE value="Leet 237 review&#10;commit" />
     <MESSAGE value="Leet 146 371 review&#10;commit" />
     <MESSAGE value="Leet 231 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 231 review&#10;commit" />
+    <MESSAGE value="Leet 137 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 137 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
