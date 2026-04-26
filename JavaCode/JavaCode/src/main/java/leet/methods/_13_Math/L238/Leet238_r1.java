@@ -20,8 +20,6 @@ public class Leet238_r1 {
 
     /**
      * 空间优化
-     * @param nums
-     * @return
      */
     public int[] productExceptSelf_V2(int[] nums) {
         int n = nums.length;
