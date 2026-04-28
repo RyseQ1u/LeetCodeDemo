@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 238 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_13_Math/L238/Leet238_Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_13_Math/L238/Leet238_r2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_13_Math/L169/Leet169_Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_13_Math/L169/Leet169_r1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,11 +167,11 @@
       <recent name="leet.methods._4_doublePointer.review.L392" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._13_Math.L169" />
       <recent name="leet.methods._13_Math.L238" />
       <recent name="leet.methods._2_stackAndqueue.review.L155" />
       <recent name="leet.methods._1_linklist.review.L138" />
       <recent name="leet.methods._2_stackAndqueue.review.L20" />
-      <recent name="leet.methods._12_BitManipulation.L137" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet238_r1Test.maximumTripletValue (1)">
@@ -621,15 +620,8 @@
       <workItem from="1776958496458" duration="1327000" />
       <workItem from="1777103164295" duration="14443000" />
       <workItem from="1777180795995" duration="5042000" />
-      <workItem from="1777299610235" duration="1302000" />
-    </task>
-    <task id="LOCAL-00197" summary="Leet 101 300 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1771256536281</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1771256536281</updated>
+      <workItem from="1777299610235" duration="1354000" />
+      <workItem from="1777385397893" duration="2395000" />
     </task>
     <task id="LOCAL-00198" summary="Leet 198 264 review&#10;commit">
       <option name="closed" value="true" />
@@ -1015,7 +1007,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777199083244</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="Leet 238 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1777302101669</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1777302101670</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
