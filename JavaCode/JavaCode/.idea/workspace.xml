@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 394 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_5_mock/review/L796/L796_r8.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 796 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L10/Leet10_r7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,11 +166,11 @@
       <recent name="leet.methods._4_doublePointer.review.L392" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._10_Dynamic.review.L10" />
       <recent name="leet.methods._5_mock.review.L796" />
       <recent name="leet.methods._2_stackAndqueue.review.L394" />
       <recent name="leet.methods._2_stackAndqueue.review.L232" />
       <recent name="leet.methods._3_hashTable.easy.review.L242" />
-      <recent name="leet.methods._13_Math.L169" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Leet238_r1Test.maximumTripletValue (1)">
@@ -625,15 +625,7 @@
       <workItem from="1778221732132" duration="3328000" />
       <workItem from="1778290094117" duration="1730000" />
       <workItem from="1778514569055" duration="97000" />
-      <workItem from="1779024058008" duration="2684000" />
-    </task>
-    <task id="LOCAL-00201" summary="Leet 53 70 278 704 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1771897537255</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1771897537255</updated>
+      <workItem from="1779024058008" duration="3945000" />
     </task>
     <task id="LOCAL-00202" summary="Leet 64 264 review&#10;commit">
       <option name="closed" value="true" />
@@ -1019,7 +1011,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778290120946</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="Leet 796 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1779032135488</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1779032135488</updated>
+    </task>
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1072,7 +1072,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 206 207 146 review&#10;commit" />
     <MESSAGE value="Leet 53 64 121 1480 146 review&#10;commit" />
     <MESSAGE value="Leet 240 397 review&#10;commit" />
     <MESSAGE value="Leet 11 review&#10;commit" />
@@ -1097,7 +1096,8 @@
     <MESSAGE value="Leet 238 review&#10;commit" />
     <MESSAGE value="Leet 169 232 238 242 review&#10;commit" />
     <MESSAGE value="Leet 394 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 394 review&#10;commit" />
+    <MESSAGE value="Leet 796 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 796 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
