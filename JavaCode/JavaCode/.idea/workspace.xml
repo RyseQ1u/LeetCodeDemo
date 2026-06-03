@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 1115 review&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_13_Math/L169/Leet169_r4.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 137 169 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L160/Leet160_r8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,79 +70,79 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.L266_Test.canPermutePalindrome.executor": "Debug",
-    "JUnit.L266_r1Test.canPermutePalindrome.executor": "Run",
-    "JUnit.L392_TemplateTest.canPermutePalindrome.executor": "Run",
-    "JUnit.L6_r1Test.maximumTripletValue.executor": "Debug",
-    "JUnit.L946_r4Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet103_r3Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet104Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet105Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet115Test.testLeet237WithMethodSource (1).executor": "Debug",
-    "JUnit.Leet115Test.testLeet237WithMethodSource.executor": "Debug",
-    "JUnit.Leet151Test.testLeet206WithMethodSource.executor": "Debug",
-    "JUnit.Leet15Test.testLeet206WithMethodSource.executor": "Run",
-    "JUnit.Leet167Test.maximumTripletValue.[3] [-1, 0], -1, [1, 2].executor": "Debug",
-    "JUnit.Leet167Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet1823Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet205Test.testLeet205WithMethodSource.executor": "Debug",
-    "JUnit.Leet206Test.executor": "Run",
-    "JUnit.Leet206Test.testLeet206WithMethodSource.executor": "Run",
-    "JUnit.Leet20Test.testLeet21WithMethodSource.executor": "Debug",
-    "JUnit.Leet21Test.executor": "Run",
-    "JUnit.Leet21Test.testLeet21WithMethodSource.executor": "Run",
-    "JUnit.Leet2255Test.testLeet2255WithMethodSource.executor": "Debug",
-    "JUnit.Leet230Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet237Test.testLeet237WithMethodSource.executor": "Run",
-    "JUnit.Leet238_r1Test.maximumTripletValue (1).executor": "Run",
-    "JUnit.Leet238_r1Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet2716Test.testLeet2716WithMethodSource.executor": "Run",
-    "JUnit.Leet278Test.maximumTripletValue (1).executor": "Debug",
-    "JUnit.Leet278Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet2873Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet297Test.executor": "Debug",
-    "JUnit.Leet297Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet297Test.test1.executor": "Debug",
-    "JUnit.Leet394Test.testLeet394WithMethodSource.executor": "Run",
-    "JUnit.Leet54Test.maximumTripletValue (1).executor": "Run",
-    "JUnit.Leet54Test.maximumTripletValue.executor": "Run",
-    "JUnit.Leet6Test.maximumTripletValue (1).executor": "Debug",
-    "JUnit.Leet6Test.maximumTripletValue (2).executor": "Run",
-    "JUnit.Leet6Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet704Test.maximumTripletValue.executor": "Debug",
-    "JUnit.Leet86Test.executor": "Debug",
-    "JUnit.Leet86Test.testLeet206WithMethodSource.executor": "Debug",
-    "JUnit.MainTest.main.executor": "Debug",
-    "JUnit.SolutionTest.calcErrorCount.executor": "Run",
-    "Maven.JavaCode [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "JavaCode",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Study/Code/YS_BI/ysbi_backend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDK",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "应用程序.Main.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.L266_Test.canPermutePalindrome.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.L266_r1Test.canPermutePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.L392_TemplateTest.canPermutePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.L6_r1Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.L946_r4Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet103_r3Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet104Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet105Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet115Test.testLeet237WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet151Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet15Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet167Test.maximumTripletValue.[3] [-1, 0], -1, [1, 2].executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet167Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet1823Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet21Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet21Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet2255Test.testLeet2255WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet230Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet237Test.testLeet237WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet238_r1Test.maximumTripletValue (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet238_r1Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet2716Test.testLeet2716WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet278Test.maximumTripletValue (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet278Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet2873Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet297Test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet297Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet297Test.test1.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet394Test.testLeet394WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet54Test.maximumTripletValue (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet54Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet6Test.maximumTripletValue (1).executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet6Test.maximumTripletValue (2).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet6Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet704Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet86Test.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet86Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.MainTest.main.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.SolutionTest.calcErrorCount.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JavaCode [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/YS_BI/ysbi_backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql",
-      "hive"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;,
+      &quot;hive&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="leet.methods.DivideConquer" />
@@ -167,11 +166,11 @@
       <recent name="leet.methods._4_doublePointer.review.L392" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leet.methods._4_doublePointer.review.L160" />
       <recent name="leet.methods._13_Math.L169" />
       <recent name="leet.methods._12_BitManipulation.L137" />
       <recent name="leet.methods._14_Thread.L1115" />
       <recent name="leet.methods._13_Math.L238" />
-      <recent name="leet.methods._12_BitManipulation.L136" />
     </key>
   </component>
   <component name="RunManager" selected="JUnit.L266_Test.canPermutePalindrome">
@@ -639,15 +638,8 @@
       <workItem from="1779978496072" duration="1970000" />
       <workItem from="1780236218086" duration="2290000" />
       <workItem from="1780326305397" duration="407000" />
-      <workItem from="1780412085469" duration="1791000" />
-    </task>
-    <task id="LOCAL-00215" summary="Leet 379 -&gt; 379 review&#10;commit">
-      <option name="closed" value="true" />
-      <created>1773113876480</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1773113876480</updated>
+      <workItem from="1780412085469" duration="3067000" />
+      <workItem from="1780500679587" duration="593000" />
     </task>
     <task id="LOCAL-00216" summary="Leet 230 240 397 1115 review&#10;commit">
       <option name="closed" value="true" />
@@ -1033,7 +1025,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780326703737</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="Leet 137 169 review&#10;commit">
+      <option name="closed" value="true" />
+      <created>1780413925928</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1780413925928</updated>
+    </task>
+    <option name="localTasksCounter" value="265" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1086,7 +1086,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Leet 21 240 397 review&#10;commit" />
     <MESSAGE value="Leet 86 206 review&#10;commit" />
     <MESSAGE value="Leet 237 review&#10;commit" />
     <MESSAGE value="Leet 146 371 review&#10;commit" />
@@ -1111,7 +1110,8 @@
     <MESSAGE value="Leet 266 11 191 review&#10;commit" />
     <MESSAGE value="Leet 136 238 review&#10;commit" />
     <MESSAGE value="Leet 1115 review&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leet 1115 review&#10;commit" />
+    <MESSAGE value="Leet 137 169 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 137 169 review&#10;commit" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
