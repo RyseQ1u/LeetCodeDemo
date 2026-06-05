@@ -9,3 +9,4 @@
 Thumbs.db
 
 # Build outputs (language-specific ignores belong in each language branch)
+.claude/
