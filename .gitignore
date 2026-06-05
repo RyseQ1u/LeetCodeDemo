@@ -8,5 +8,11 @@
 .DS_Store
 Thumbs.db
 
-# Build outputs (language-specific ignores belong in each language branch)
+# Java
+target/
+*.class
+*.jar
+*.war
+
+# Claude Code
 .claude/
