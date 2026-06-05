@@ -8,5 +8,12 @@
 .DS_Store
 Thumbs.db
 
-# Build outputs (language-specific ignores belong in each language branch)
+# .NET
+/LeetConsole/.vs/
+/LeetConsole/bin/
+/LeetConsole/obj/
+/LeetTest/bin/
+/LeetTest/obj/
+
+# Claude Code
 .claude/
