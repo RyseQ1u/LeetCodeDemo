@@ -1,0 +1,13 @@
+package leet.methods._1_linklist.review.L237;
+
+import leet._class.linklist.ListNode;
+
+public class Leet237_r5 {
+
+    /// 删除某个节点
+    public void deleteNode(ListNode node) {
+        node.val=node.next.val;
+        node.next=node.next.next;
+    }
+
+}

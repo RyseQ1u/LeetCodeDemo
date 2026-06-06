@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet70.java" afterDir="false" />
+    <list default="true" id="8b30a0ac-5968-451d-94d3-658056c896e6" name="更改" comment="Leet 278 704 review&#10;commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/review/L213/Leet213_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_11_GreedyAlgorithm/L397/Leet397_r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_6_Search/review/L724/Leet724_r8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet509.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leet/methods/_10_Dynamic/Leet509.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
@@ -45,6 +47,13 @@
     &quot;accountId&quot;: &quot;735a660b-93cf-490e-b6f5-58ac067d0998&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/Deque.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/HashMap.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/Stack.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../../../Dev/Java/java8/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/leet/methods/_12_BitManipulation/L137/Leet137_r2.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -65,6 +74,12 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;JUnit.L266_Test.canPermutePalindrome.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.L266_r1Test.canPermutePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.L392_TemplateTest.canPermutePalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.L6_r1Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.L946_r4Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.Leet103_r3Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet104Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet105Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet115Test.testLeet237WithMethodSource (1).executor&quot;: &quot;Debug&quot;,
@@ -73,15 +88,18 @@
     &quot;JUnit.Leet15Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet167Test.maximumTripletValue.[3] [-1, 0], -1, [1, 2].executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet167Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet1823Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet205Test.testLeet205WithMethodSource.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet206Test.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet206Test.testLeet206WithMethodSource.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet20Test.testLeet21WithMethodSource.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet21Test.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet21Test.testLeet21WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet2255Test.testLeet2255WithMethodSource.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet230Test.maximumTripletValue.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet237Test.testLeet237WithMethodSource.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet238_r1Test.maximumTripletValue (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Leet238_r1Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet2716Test.testLeet2716WithMethodSource.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.Leet278Test.maximumTripletValue (1).executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet278Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
@@ -98,22 +116,25 @@
     &quot;JUnit.Leet704Test.maximumTripletValue.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet86Test.executor&quot;: &quot;Debug&quot;,
     &quot;JUnit.Leet86Test.testLeet206WithMethodSource.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.MainTest.main.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.SolutionTest.calcErrorCount.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.JavaCode [clean].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;git-widget-placeholder&quot;: &quot;JavaCode&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/C#/Test/ConsoleApp1/JavaCode/JavaCode/src/main/java/leet/methods/Search&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Study/Code/YS_BI/ysbi_backend&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDK&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.Main.executor&quot;: &quot;Run&quot;
   },
@@ -129,104 +150,123 @@
       <recent name="leet.methods.DivideConquer" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study\Code\C#\Test\ConsoleApp1\JavaCode\JavaCode\src\main\java\leet\methods\_2_stackAndqueue" />
       <recent name="D:\Study\Code\C#\Test\ConsoleApp1\JavaCode\JavaCode\src\main\java\leet\methods\Search" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="leet.methods.tree" />
       <recent name="leet.methods.binarySearch" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="leet.methods.DivideConquer" />
-      <recent name="leet.methods.recall" />
-      <recent name="leet.methods.tree" />
-      <recent name="leet.methods.binarySearch.easy" />
-      <recent name="leet.methods.mock.middle" />
+      <recent name="leet.methods._13_Math.L238" />
+      <recent name="leet.methods._16_t" />
+      <recent name="leet.methods._7_Tree.review.L103" />
+      <recent name="leet.methods._5_mock.review.L946" />
+      <recent name="leet.methods._4_doublePointer.review.L392" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leet.methods.DivideConquer" />
-      <recent name="leet.methods.recall" />
-      <recent name="leet.methods.Search" />
-      <recent name="leet.methods.tree" />
-      <recent name="leet.Daily.easy" />
+      <recent name="leet.methods._10_Dynamic.review.L213" />
+      <recent name="leet.methods._11_GreedyAlgorithm.L397" />
+      <recent name="leet.methods._6_Search.review.L724" />
+      <recent name="leet.methods._6_Search.review.L704" />
+      <recent name="leet.methods._6_Search.review.L278" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Leet297Test.maximumTripletValue">
-    <configuration name="Leet104Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.L266_Test.canPermutePalindrome">
+    <configuration name="L266_Test.canPermutePalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leet.methods.recall.*" />
+          <option name="PATTERN" value="leet.methods._2_stackAndqueue.review.L266.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.recall" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.recall.Leet104Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(leet._class.Tree.TreeNode,int)" />
+      <option name="PACKAGE_NAME" value="leet.methods._2_stackAndqueue.review.L266" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._2_stackAndqueue.review.L266.L266_Test" />
+      <option name="METHOD_NAME" value="canPermutePalindrome(java.lang.String,boolean)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet105Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet238_r1Test.maximumTripletValue (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leet.methods.DivideConquer.*" />
+          <option name="PATTERN" value="leet.methods._13_Math.L238.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet105Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int[],int[],leet._class.Tree.TreeNode)" />
+      <option name="PACKAGE_NAME" value="leet.methods._13_Math.L238" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.L238.Leet238_r1Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int[],int[])" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet297Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet238_r1Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leet.methods.DivideConquer.*" />
+          <option name="PATTERN" value="leet.methods._13_Math.L238.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet297Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leet297Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leet.methods.DivideConquer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet297Test" />
-      <option name="METHOD_NAME" value="maximumTripletValue(int[],int[],leet._class.Tree.TreeNode)" />
+      <option name="PACKAGE_NAME" value="leet.methods._13_Math.L238" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.L238.Leet238_r1Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int[],leet._class.Tree.TreeNode)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leet297Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Leet238_r1Test.maximumTripletValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leet.methods.DivideConquer.*" />
+          <option name="PATTERN" value="leet.methods._13_Math.L238.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leet.methods.DivideConquer" />
-      <option name="MAIN_CLASS_NAME" value="leet.methods.DivideConquer.Leet297Test" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="leet.methods._13_Math.L238" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._13_Math.L238.Leet238_r1Test" />
+      <option name="METHOD_NAME" value="maximumTripletValue(int[],int[])" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods._16_t.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods._16_t" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._16_t.MainTest" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.calcErrorCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leet.methods._16_t.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leet.methods._16_t" />
+      <option name="MAIN_CLASS_NAME" value="leet.methods._16_t.SolutionTest" />
+      <option name="METHOD_NAME" value="calcErrorCount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Leet297Test.maximumTripletValue" />
-        <item itemvalue="JUnit.Leet105Test.maximumTripletValue" />
-        <item itemvalue="JUnit.Leet297Test" />
-        <item itemvalue="JUnit.Leet297Test.test1" />
-        <item itemvalue="JUnit.Leet104Test.maximumTripletValue" />
+        <item itemvalue="JUnit.L266_Test.canPermutePalindrome" />
+        <item itemvalue="JUnit.Leet238_r1Test.maximumTripletValue (1)" />
+        <item itemvalue="JUnit.Leet238_r1Test.maximumTripletValue" />
+        <item itemvalue="JUnit.MainTest.main" />
+        <item itemvalue="JUnit.SolutionTest.calcErrorCount" />
       </list>
     </recent_temporary>
   </component>
@@ -339,417 +379,704 @@
       <workItem from="1750813750013" duration="9790000" />
       <workItem from="1752717255276" duration="7296000" />
       <workItem from="1752801758403" duration="5595000" />
+      <workItem from="1753061687596" duration="7124000" />
+      <workItem from="1753147410382" duration="11545000" />
+      <workItem from="1753319586561" duration="4514000" />
+      <workItem from="1753667439414" duration="2370000" />
+      <workItem from="1753753506513" duration="3746000" />
+      <workItem from="1753839220226" duration="3362000" />
+      <workItem from="1754014003385" duration="1407000" />
+      <workItem from="1754359727448" duration="5220000" />
+      <workItem from="1754876073931" duration="1130000" />
+      <workItem from="1754884643394" duration="154000" />
+      <workItem from="1754885435524" duration="2610000" />
+      <workItem from="1755133846926" duration="4526000" />
+      <workItem from="1755226420342" duration="6308000" />
+      <workItem from="1755481741703" duration="2109000" />
+      <workItem from="1755584879893" duration="3646000" />
+      <workItem from="1755672558625" duration="4469000" />
+      <workItem from="1755739023178" duration="2168000" />
+      <workItem from="1756344359654" duration="4433000" />
+      <workItem from="1757991812719" duration="855000" />
+      <workItem from="1760343208055" duration="4386000" />
+      <workItem from="1760375212878" duration="25000" />
+      <workItem from="1760459015162" duration="1412000" />
+      <workItem from="1760496898261" duration="5000" />
+      <workItem from="1760543722723" duration="3065000" />
+      <workItem from="1760613508379" duration="573000" />
+      <workItem from="1760634797074" duration="1581000" />
+      <workItem from="1760668468224" duration="4232000" />
+      <workItem from="1760733608716" duration="1091000" />
+      <workItem from="1760757159908" duration="620000" />
+      <workItem from="1760808073202" duration="829000" />
+      <workItem from="1760950043089" duration="2926000" />
+      <workItem from="1760978966084" duration="1275000" />
+      <workItem from="1760980850004" duration="17000" />
+      <workItem from="1760980874308" duration="116000" />
+      <workItem from="1760980999457" duration="297000" />
+      <workItem from="1760981653200" duration="3000" />
+      <workItem from="1761027017022" duration="1797000" />
+      <workItem from="1761037753162" duration="884000" />
+      <workItem from="1761053620940" duration="1266000" />
+      <workItem from="1761147439615" duration="1152000" />
+      <workItem from="1761183232988" duration="7163000" />
+      <workItem from="1761297660276" duration="313000" />
+      <workItem from="1761298026151" duration="1370000" />
+      <workItem from="1761303723033" duration="3381000" />
+      <workItem from="1761314441808" duration="757000" />
+      <workItem from="1761397216273" duration="2647000" />
+      <workItem from="1761486981232" duration="10000" />
+      <workItem from="1761487031008" duration="5120000" />
+      <workItem from="1761527166328" duration="6000" />
+      <workItem from="1761527179257" duration="5354000" />
+      <workItem from="1761534908352" duration="4000" />
+      <workItem from="1761547100378" duration="700000" />
+      <workItem from="1761588688715" duration="602000" />
+      <workItem from="1761614164310" duration="8439000" />
+      <workItem from="1761624120810" duration="5846000" />
+      <workItem from="1761640381780" duration="12000" />
+      <workItem from="1761702851061" duration="2459000" />
+      <workItem from="1761791151582" duration="6891000" />
+      <workItem from="1761816488313" duration="3000" />
+      <workItem from="1761892551992" duration="3119000" />
+      <workItem from="1761912883987" duration="2000" />
+      <workItem from="1762105567209" duration="1516000" />
+      <workItem from="1762133717517" duration="4169000" />
+      <workItem from="1762177281631" duration="1649000" />
+      <workItem from="1762187751413" duration="7000" />
+      <workItem from="1762218398635" duration="693000" />
+      <workItem from="1762219109421" duration="38000" />
+      <workItem from="1762219166161" duration="11915000" />
+      <workItem from="1762272497545" duration="625000" />
+      <workItem from="1762309620521" duration="4587000" />
+      <workItem from="1762324170743" duration="1000" />
+      <workItem from="1762329127779" duration="3000" />
+      <workItem from="1762362117302" duration="49000" />
+      <workItem from="1762391790004" duration="6020000" />
+      <workItem from="1762405016471" duration="17000" />
+      <workItem from="1762477156997" duration="5060000" />
+      <workItem from="1762609968079" duration="1840000" />
+      <workItem from="1762626782219" duration="5191000" />
+      <workItem from="1762690398606" duration="4646000" />
+      <workItem from="1762709771146" duration="5000" />
+      <workItem from="1762739188955" duration="5827000" />
+      <workItem from="1762755722377" duration="3453000" />
+      <workItem from="1762823487143" duration="17000" />
+      <workItem from="1762823741853" duration="7948000" />
+      <workItem from="1762869679729" duration="9000" />
+      <workItem from="1762911098564" duration="6855000" />
+      <workItem from="1762996131352" duration="5705000" />
+      <workItem from="1763049756774" duration="1313000" />
+      <workItem from="1763083788076" duration="7691000" />
+      <workItem from="1763315791550" duration="3417000" />
+      <workItem from="1763341358362" duration="6806000" />
+      <workItem from="1763431148080" duration="7664000" />
+      <workItem from="1763514669134" duration="5763000" />
+      <workItem from="1763601559494" duration="7798000" />
+      <workItem from="1763711615445" duration="3989000" />
+      <workItem from="1763807198271" duration="1193000" />
+      <workItem from="1763809477114" duration="3766000" />
+      <workItem from="1763955466156" duration="8892000" />
+      <workItem from="1764032842712" duration="607000" />
+      <workItem from="1764062453088" duration="1769000" />
+      <workItem from="1764077611493" duration="3747000" />
+      <workItem from="1764130040446" duration="5150000" />
+      <workItem from="1764207588646" duration="4964000" />
+      <workItem from="1764294618458" duration="7063000" />
+      <workItem from="1764552596725" duration="7192000" />
+      <workItem from="1764578991510" duration="1933000" />
+      <workItem from="1764659050913" duration="3716000" />
+      <workItem from="1764724835501" duration="2914000" />
+      <workItem from="1764811110555" duration="3979000" />
+      <workItem from="1764900518598" duration="701000" />
+      <workItem from="1764915568504" duration="4583000" />
+      <workItem from="1765158912009" duration="8484000" />
+      <workItem from="1765177133962" duration="2995000" />
+      <workItem from="1765246406572" duration="2722000" />
+      <workItem from="1765348017033" duration="3639000" />
+      <workItem from="1765416280498" duration="7022000" />
+      <workItem from="1765501635182" duration="6025000" />
+      <workItem from="1765765021294" duration="6109000" />
+      <workItem from="1765848467192" duration="3236000" />
+      <workItem from="1765934010512" duration="9135000" />
+      <workItem from="1766044556411" duration="2350000" />
+      <workItem from="1766106370400" duration="1215000" />
+      <workItem from="1766245664561" duration="2753000" />
+      <workItem from="1766367860262" duration="15263000" />
+      <workItem from="1766459108676" duration="1784000" />
+      <workItem from="1766472734054" duration="4060000" />
+      <workItem from="1766539266988" duration="2672000" />
+      <workItem from="1766628600835" duration="6647000" />
+      <workItem from="1766712331626" duration="4158000" />
+      <workItem from="1766929976352" duration="3929000" />
+      <workItem from="1766974370625" duration="2897000" />
+      <workItem from="1767058242251" duration="4628000" />
+      <workItem from="1767491084070" duration="3501000" />
+      <workItem from="1767494624283" duration="8000" />
+      <workItem from="1767575646384" duration="3672000" />
+      <workItem from="1767689316830" duration="3052000" />
+      <workItem from="1767716322203" duration="3000" />
+      <workItem from="1767771485406" duration="2881000" />
+      <workItem from="1767785101738" duration="110000" />
+      <workItem from="1767842294626" duration="9893000" />
+      <workItem from="1767884003871" duration="10000" />
+      <workItem from="1767920943803" duration="8152000" />
+      <workItem from="1768017095021" duration="6000" />
+      <workItem from="1768052510582" duration="4602000" />
+      <workItem from="1768143318580" duration="3975000" />
+      <workItem from="1768180281937" duration="9508000" />
+      <workItem from="1768267207957" duration="2022000" />
+      <workItem from="1768360446776" duration="3239000" />
+      <workItem from="1768440042634" duration="7192000" />
+      <workItem from="1768467915053" duration="2606000" />
+      <workItem from="1768486647516" duration="4092000" />
+      <workItem from="1768526051106" duration="1775000" />
+      <workItem from="1768550664531" duration="2699000" />
+      <workItem from="1768761925090" duration="2069000" />
+      <workItem from="1768789376484" duration="5299000" />
+      <workItem from="1768872091525" duration="5384000" />
+      <workItem from="1768958086296" duration="1381000" />
+      <workItem from="1769230145156" duration="3120000" />
+      <workItem from="1769311551556" duration="5298000" />
+      <workItem from="1769390943004" duration="5093000" />
+      <workItem from="1769480276680" duration="726000" />
+      <workItem from="1769562105677" duration="584000" />
+      <workItem from="1769650570299" duration="136000" />
+      <workItem from="1769650717702" duration="4606000" />
+      <workItem from="1769735640208" duration="3791000" />
+      <workItem from="1769994854532" duration="4885000" />
+      <workItem from="1770081164316" duration="3077000" />
+      <workItem from="1770169657458" duration="1530000" />
+      <workItem from="1770172088706" duration="676000" />
+      <workItem from="1770253406684" duration="9171000" />
+      <workItem from="1770276510799" duration="17000" />
+      <workItem from="1770342046843" duration="3973000" />
+      <workItem from="1770351531676" duration="30000" />
+      <workItem from="1770561732051" duration="4392000" />
+      <workItem from="1770599299913" duration="4663000" />
+      <workItem from="1770687545912" duration="4121000" />
+      <workItem from="1770777808970" duration="4495000" />
+      <workItem from="1770782780989" duration="10000" />
+      <workItem from="1770862183953" duration="2513000" />
+      <workItem from="1770881263188" duration="1966000" />
+      <workItem from="1770949921996" duration="6859000" />
+      <workItem from="1771032859409" duration="4960000" />
+      <workItem from="1771164163546" duration="3361000" />
+      <workItem from="1771255399346" duration="1131000" />
+      <workItem from="1771307400533" duration="1302000" />
+      <workItem from="1771335953161" duration="2604000" />
+      <workItem from="1771423539770" duration="3302000" />
+      <workItem from="1771894760953" duration="20073000" />
+      <workItem from="1771981545491" duration="4951000" />
+      <workItem from="1772072236345" duration="3917000" />
+      <workItem from="1772158488999" duration="3768000" />
+      <workItem from="1772162719973" duration="17000" />
+      <workItem from="1772245127295" duration="1953000" />
+      <workItem from="1772431561836" duration="1924000" />
+      <workItem from="1772647100759" duration="12000" />
+      <workItem from="1772673040122" duration="2219000" />
+      <workItem from="1772760724918" duration="4092000" />
+      <workItem from="1772977522655" duration="2711000" />
+      <workItem from="1773041590686" duration="3458000" />
+      <workItem from="1773060408113" duration="610000" />
+      <workItem from="1773105461765" duration="8069000" />
+      <workItem from="1773125423687" duration="35000" />
+      <workItem from="1773194651854" duration="5103000" />
+      <workItem from="1773213901103" duration="633000" />
+      <workItem from="1773280549406" duration="4542000" />
+      <workItem from="1773371549627" duration="1407000" />
+      <workItem from="1773373166206" duration="17000" />
+      <workItem from="1773411852636" duration="2222000" />
+      <workItem from="1773497828147" duration="4000000" />
+      <workItem from="1773587410597" duration="1704000" />
+      <workItem from="1773622524841" duration="2056000" />
+      <workItem from="1773711843718" duration="5140000" />
+      <workItem from="1773717932808" duration="9000" />
+      <workItem from="1773797975113" duration="4919000" />
+      <workItem from="1773886360082" duration="3400000" />
+      <workItem from="1773973490009" duration="4942000" />
+      <workItem from="1774168463583" duration="10450000" />
+      <workItem from="1774227783446" duration="3281000" />
+      <workItem from="1774247769755" duration="28000" />
+      <workItem from="1774285621891" duration="3000" />
+      <workItem from="1774323902430" duration="1870000" />
+      <workItem from="1774344075150" duration="1130000" />
+      <workItem from="1774362708104" duration="22000" />
+      <workItem from="1774401220064" duration="3257000" />
+      <workItem from="1775488950600" duration="782000" />
+      <workItem from="1775557238942" duration="4000" />
+      <workItem from="1775652693453" duration="6311000" />
+      <workItem from="1775885282902" duration="6382000" />
+      <workItem from="1775980082975" duration="1608000" />
+      <workItem from="1776008090158" duration="3826000" />
+      <workItem from="1776043827631" duration="1283000" />
+      <workItem from="1776047011743" duration="2028000" />
+      <workItem from="1776344365559" duration="1767000" />
+      <workItem from="1776436574469" duration="4840000" />
+      <workItem from="1776527975009" duration="1742000" />
+      <workItem from="1776696397405" duration="5434000" />
+      <workItem from="1776782974557" duration="1795000" />
+      <workItem from="1776870523665" duration="2878000" />
+      <workItem from="1776915617324" duration="1692000" />
+      <workItem from="1776958496458" duration="1327000" />
+      <workItem from="1777103164295" duration="14443000" />
+      <workItem from="1777180795995" duration="5042000" />
+      <workItem from="1777299610235" duration="1354000" />
+      <workItem from="1777385397893" duration="2700000" />
+      <workItem from="1777470280340" duration="7185000" />
+      <workItem from="1778221732132" duration="3328000" />
+      <workItem from="1778290094117" duration="1730000" />
+      <workItem from="1778514569055" duration="97000" />
+      <workItem from="1779024058008" duration="4288000" />
+      <workItem from="1779201767085" duration="3193000" />
+      <workItem from="1779291114584" duration="2542000" />
+      <workItem from="1779374678999" duration="3525000" />
+      <workItem from="1779458402677" duration="4299000" />
+      <workItem from="1779544010399" duration="4175000" />
+      <workItem from="1779633765739" duration="2122000" />
+      <workItem from="1779717647494" duration="4016000" />
+      <workItem from="1779800157428" duration="3630000" />
+      <workItem from="1779891188238" duration="2785000" />
+      <workItem from="1779978496072" duration="1970000" />
+      <workItem from="1780236218086" duration="2290000" />
+      <workItem from="1780326305397" duration="407000" />
+      <workItem from="1780412085469" duration="3067000" />
+      <workItem from="1780500679587" duration="916000" />
+      <workItem from="1780581800422" duration="3522000" />
+      <workItem from="1780671989100" duration="2860000" />
     </task>
-    <task id="LOCAL-00013" summary="Leet2255,876 commit">
+    <task id="LOCAL-00218" summary="Leet 103 240 397 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1742796283917</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
+      <created>1773372909392</created>
+      <option name="number" value="00218" />
+      <option name="presentableId" value="LOCAL-00218" />
       <option name="project" value="LOCAL" />
-      <updated>1742796283917</updated>
+      <updated>1773372909392</updated>
     </task>
-    <task id="LOCAL-00014" summary="Leet160 commit">
+    <task id="LOCAL-00219" summary="Leet 206 207 146 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1742870264989</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
+      <created>1773500525424</created>
+      <option name="number" value="00219" />
+      <option name="presentableId" value="LOCAL-00219" />
       <option name="project" value="LOCAL" />
-      <updated>1742870264989</updated>
+      <updated>1773500525424</updated>
     </task>
-    <task id="LOCAL-00015" summary="Leet2716 commit">
+    <task id="LOCAL-00220" summary="Leet 53 64 121 1480 146 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1743144652323</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
+      <created>1773717167771</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
       <option name="project" value="LOCAL" />
-      <updated>1743144652323</updated>
+      <updated>1773717167771</updated>
     </task>
-    <task id="LOCAL-00016" summary="Leet2278 commit">
+    <task id="LOCAL-00221" summary="Leet 240 397 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1743386918640</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
+      <created>1773803132869</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
       <option name="project" value="LOCAL" />
-      <updated>1743386918640</updated>
+      <updated>1773803132869</updated>
     </task>
-    <task id="LOCAL-00017" summary="Leet2873 commit">
+    <task id="LOCAL-00222" summary="Leet 11 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1743596626146</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
+      <created>1773912270426</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
       <option name="project" value="LOCAL" />
-      <updated>1743596626146</updated>
+      <updated>1773912270426</updated>
     </task>
-    <task id="LOCAL-00018" summary="Leet2874、295 commit">
+    <task id="LOCAL-00223" summary="Leet 2,179,198 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1743660959899</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
+      <created>1774168705186</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
       <option name="project" value="LOCAL" />
-      <updated>1743660959899</updated>
+      <updated>1774168705186</updated>
     </task>
-    <task id="LOCAL-00019" summary="Leet167 commit">
+    <task id="LOCAL-00224" summary="Leet 46 47 113 198 213 146 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1744006912618</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
+      <created>1774177235746</created>
+      <option name="number" value="00224" />
+      <option name="presentableId" value="LOCAL-00224" />
       <option name="project" value="LOCAL" />
-      <updated>1744006912618</updated>
+      <updated>1774177235746</updated>
     </task>
-    <task id="LOCAL-00020" summary="Leet2843、142 commit">
+    <task id="LOCAL-00225" summary="Leet 11 179 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1744354581745</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
+      <created>1774199806887</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
       <option name="project" value="LOCAL" />
-      <updated>1744354581745</updated>
+      <updated>1774199806887</updated>
     </task>
-    <task id="LOCAL-00021" summary="Leet1534&#10; commit">
+    <task id="LOCAL-00226" summary="Leet 134 179 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1744594917327</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
+      <created>1774247786348</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
       <option name="project" value="LOCAL" />
-      <updated>1744594917327</updated>
+      <updated>1774247786348</updated>
     </task>
-    <task id="LOCAL-00022" summary="Leet2094&#10; commit">
+    <task id="LOCAL-00227" summary="Leet 134 768 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747033062683</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
+      <created>1774362722323</created>
+      <option name="number" value="00227" />
+      <option name="presentableId" value="LOCAL-00227" />
       <option name="project" value="LOCAL" />
-      <updated>1747033062683</updated>
+      <updated>1774362722324</updated>
     </task>
-    <task id="LOCAL-00023" summary="Leet3335&#10; commit">
+    <task id="LOCAL-00228" summary="Leet 11 231 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747106439250</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
+      <created>1775489730041</created>
+      <option name="number" value="00228" />
+      <option name="presentableId" value="LOCAL-00228" />
       <option name="project" value="LOCAL" />
-      <updated>1747106439250</updated>
+      <updated>1775489730041</updated>
     </task>
-    <task id="LOCAL-00024" summary="Leet151 method1&#10; commit">
+    <task id="LOCAL-00229" summary="Leet 768 135 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747191404286</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
+      <created>1775933526349</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
       <option name="project" value="LOCAL" />
-      <updated>1747191404286</updated>
+      <updated>1775933526349</updated>
     </task>
-    <task id="LOCAL-00025" summary="Leet151 method2&#10; commit">
+    <task id="LOCAL-00230" summary="Leet 50 70 110 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747192382959</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
+      <created>1776008579855</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
       <option name="project" value="LOCAL" />
-      <updated>1747192382959</updated>
+      <updated>1776008579855</updated>
     </task>
-    <task id="LOCAL-00026" summary="Leet3&#10; commit">
+    <task id="LOCAL-00231" summary="Leet 136 179 371 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747367595493</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
+      <created>1776017559608</created>
+      <option name="number" value="00231" />
+      <option name="presentableId" value="LOCAL-00231" />
       <option name="project" value="LOCAL" />
-      <updated>1747367595493</updated>
+      <updated>1776017559608</updated>
     </task>
-    <task id="LOCAL-00027" summary="Leet3&#10; commit">
+    <task id="LOCAL-00232" summary="Leet 191 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747367608517</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
+      <created>1776044200718</created>
+      <option name="number" value="00232" />
+      <option name="presentableId" value="LOCAL-00232" />
       <option name="project" value="LOCAL" />
-      <updated>1747367608517</updated>
+      <updated>1776044200718</updated>
     </task>
-    <task id="LOCAL-00028" summary="Leet15&#10; commit">
+    <task id="LOCAL-00233" summary="Leet 11 231 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747622040175</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
+      <created>1776045112848</created>
+      <option name="number" value="00233" />
+      <option name="presentableId" value="LOCAL-00233" />
       <option name="project" value="LOCAL" />
-      <updated>1747622040175</updated>
+      <updated>1776045112848</updated>
     </task>
-    <task id="LOCAL-00029" summary="Leet3355&#10; commit">
+    <task id="LOCAL-00234" summary="Leet 137 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747726657500</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
+      <created>1776346782843</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
       <option name="project" value="LOCAL" />
-      <updated>1747726657500</updated>
+      <updated>1776346782843</updated>
     </task>
-    <task id="LOCAL-00030" summary="Leet415&#10; commit">
+    <task id="LOCAL-00235" summary="Leet 137 1115 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747840820083</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
+      <created>1776528492459</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
       <option name="project" value="LOCAL" />
-      <updated>1747840820083</updated>
+      <updated>1776528492459</updated>
     </task>
-    <task id="LOCAL-00031" summary="Leet415&#10; commit">
+    <task id="LOCAL-00236" summary="Leet 21 240 397 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747842154685</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
+      <created>1776700487755</created>
+      <option name="number" value="00236" />
+      <option name="presentableId" value="LOCAL-00236" />
       <option name="project" value="LOCAL" />
-      <updated>1747842154685</updated>
+      <updated>1776700487755</updated>
     </task>
-    <task id="LOCAL-00032" summary="Leet796&#10; commit">
+    <task id="LOCAL-00237" summary="Leet 86 206 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747925872241</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
+      <created>1776875860013</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
       <option name="project" value="LOCAL" />
-      <updated>1747925872241</updated>
+      <updated>1776875860013</updated>
     </task>
-    <task id="LOCAL-00033" summary="Leet946&#10; commit">
+    <task id="LOCAL-00238" summary="Leet 237 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1747980117182</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
+      <created>1776875976964</created>
+      <option name="number" value="00238" />
+      <option name="presentableId" value="LOCAL-00238" />
       <option name="project" value="LOCAL" />
-      <updated>1747980117182</updated>
+      <updated>1776875976964</updated>
     </task>
-    <task id="LOCAL-00034" summary="Leet54&#10; commit">
+    <task id="LOCAL-00239" summary="Leet 146 371 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1748930850566</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
+      <created>1776917318179</created>
+      <option name="number" value="00239" />
+      <option name="presentableId" value="LOCAL-00239" />
       <option name="project" value="LOCAL" />
-      <updated>1748930850566</updated>
+      <updated>1776917318179</updated>
     </task>
-    <task id="LOCAL-00035" summary="Leet59&#10; commit">
+    <task id="LOCAL-00240" summary="Leet 231 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749004469091</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
+      <created>1776958591286</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
       <option name="project" value="LOCAL" />
-      <updated>1749004469091</updated>
+      <updated>1776958591286</updated>
     </task>
-    <task id="LOCAL-00036" summary="Leet48&#10; commit">
+    <task id="LOCAL-00241" summary="Leet 137 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749106759383</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
+      <created>1777107349537</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
       <option name="project" value="LOCAL" />
-      <updated>1749106759383</updated>
+      <updated>1777107349538</updated>
     </task>
-    <task id="LOCAL-00037" summary="Leet48&#10; commit">
+    <task id="LOCAL-00242" summary="Leet 137 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749173616695</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
+      <created>1777107373627</created>
+      <option name="number" value="00242" />
+      <option name="presentableId" value="LOCAL-00242" />
       <option name="project" value="LOCAL" />
-      <updated>1749173616695</updated>
+      <updated>1777107373627</updated>
     </task>
-    <task id="LOCAL-00038" summary="Leet8&#10; commit">
+    <task id="LOCAL-00243" summary="Leet 20 138 155 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749185657742</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
+      <created>1777124795943</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
       <option name="project" value="LOCAL" />
-      <updated>1749185657742</updated>
+      <updated>1777124795943</updated>
     </task>
-    <task id="LOCAL-00039" summary="Leet278&#10; commit">
+    <task id="LOCAL-00244" summary="Leet 238 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749607916964</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
+      <created>1777199023962</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
       <option name="project" value="LOCAL" />
-      <updated>1749607916964</updated>
+      <updated>1777199023962</updated>
     </task>
-    <task id="LOCAL-00040" summary="Leet274&#10; commit">
+    <task id="LOCAL-00245" summary="Leet 238 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749611242964</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
+      <created>1777199083244</created>
+      <option name="number" value="00245" />
+      <option name="presentableId" value="LOCAL-00245" />
       <option name="project" value="LOCAL" />
-      <updated>1749611242964</updated>
+      <updated>1777199083244</updated>
     </task>
-    <task id="LOCAL-00041" summary="Leet3423&#10; commit">
+    <task id="LOCAL-00246" summary="Leet 238 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1749694347684</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
+      <created>1777302101669</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
       <option name="project" value="LOCAL" />
-      <updated>1749694347684</updated>
+      <updated>1777302101670</updated>
     </task>
-    <task id="LOCAL-00042" summary="Leet235,230&#10; commit">
+    <task id="LOCAL-00247" summary="Leet 238 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750129759853</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
+      <created>1777389126809</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
       <option name="project" value="LOCAL" />
-      <updated>1750129759853</updated>
+      <updated>1777389126809</updated>
     </task>
-    <task id="LOCAL-00043" summary="Leet215&#10; commit">
+    <task id="LOCAL-00248" summary="Leet 169 232 238 242 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750215740297</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
+      <created>1777478037331</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
       <option name="project" value="LOCAL" />
-      <updated>1750215740297</updated>
+      <updated>1777478037331</updated>
     </task>
-    <task id="LOCAL-00044" summary="Leet207&#10; commit">
+    <task id="LOCAL-00249" summary="Leet 394 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750219285821</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
+      <created>1778290120946</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
       <option name="project" value="LOCAL" />
-      <updated>1750219285821</updated>
+      <updated>1778290120946</updated>
     </task>
-    <task id="LOCAL-00045" summary="Leet113、104&#10; commit">
+    <task id="LOCAL-00250" summary="Leet 796 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750301203254</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
+      <created>1779032135488</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
       <option name="project" value="LOCAL" />
-      <updated>1750301203254</updated>
+      <updated>1779032135488</updated>
     </task>
-    <task id="LOCAL-00046" summary="Leet46&#10; commit">
+    <task id="LOCAL-00251" summary="Leet 10 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750388138384</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
+      <created>1779033427507</created>
+      <option name="number" value="00251" />
+      <option name="presentableId" value="LOCAL-00251" />
       <option name="project" value="LOCAL" />
-      <updated>1750388138384</updated>
+      <updated>1779033427507</updated>
     </task>
-    <task id="LOCAL-00047" summary="Leet47&#10; commit">
+    <task id="LOCAL-00252" summary="Leet 415 946 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750389345590</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
+      <created>1779204985937</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
       <option name="project" value="LOCAL" />
-      <updated>1750389345590</updated>
+      <updated>1779204985937</updated>
     </task>
-    <task id="LOCAL-00048" summary="Leet39,40&#10; commit">
+    <task id="LOCAL-00253" summary="Leet 8 122 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750507642399</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
+      <created>1779292182828</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
       <option name="project" value="LOCAL" />
-      <updated>1750507642399</updated>
+      <updated>1779292182828</updated>
     </task>
-    <task id="LOCAL-00049" summary="Leet79&#10; commit">
+    <task id="LOCAL-00254" summary="Leet  122 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750603151174</created>
-      <option name="number" value="00049" />
-      <option name="presentableId" value="LOCAL-00049" />
+      <created>1779293671062</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
       <option name="project" value="LOCAL" />
-      <updated>1750603151174</updated>
+      <updated>1779293671062</updated>
     </task>
-    <task id="LOCAL-00050" summary="Leet226&#10; commit">
+    <task id="LOCAL-00255" summary="Leet  239 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750643982841</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
+      <created>1779379043461</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
       <option name="project" value="LOCAL" />
-      <updated>1750643982842</updated>
+      <updated>1779379043461</updated>
     </task>
-    <task id="LOCAL-00051" summary="Leet101&#10; commit">
+    <task id="LOCAL-00256" summary="Leet  232 242 295 394 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750650930804</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
+      <created>1779548335244</created>
+      <option name="number" value="00256" />
+      <option name="presentableId" value="LOCAL-00256" />
       <option name="project" value="LOCAL" />
-      <updated>1750650930804</updated>
+      <updated>1779548335245</updated>
     </task>
-    <task id="LOCAL-00052" summary="Leet105..&#10; commit">
+    <task id="LOCAL-00257" summary="Leet  121 1480 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1750834361692</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
+      <created>1779638024120</created>
+      <option name="number" value="00257" />
+      <option name="presentableId" value="LOCAL-00257" />
       <option name="project" value="LOCAL" />
-      <updated>1750834361692</updated>
+      <updated>1779638024120</updated>
     </task>
-    <task id="LOCAL-00053" summary="Leet105..&#10; commit">
+    <task id="LOCAL-00258" summary="Leet  205 53 169 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638533255</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
+      <created>1779724539363</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
       <option name="project" value="LOCAL" />
-      <updated>1752638533255</updated>
+      <updated>1779724539363</updated>
     </task>
-    <task id="LOCAL-00054" summary="Leet105..&#10; commit">
+    <task id="LOCAL-00259" summary="Leet 135 768 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638599161</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
+      <created>1779807081155</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
       <option name="project" value="LOCAL" />
-      <updated>1752638599161</updated>
+      <updated>1779807081155</updated>
     </task>
-    <task id="LOCAL-00055" summary="Leet105..&#10; commit">
+    <task id="LOCAL-00260" summary="Leet 392 409 179 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638607020</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
+      <created>1779897087105</created>
+      <option name="number" value="00260" />
+      <option name="presentableId" value="LOCAL-00260" />
       <option name="project" value="LOCAL" />
-      <updated>1752638607020</updated>
+      <updated>1779897087106</updated>
     </task>
-    <task id="LOCAL-00056" summary="代码管理&#10;commit">
+    <task id="LOCAL-00261" summary="Leet 266 11 191 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638655033</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
+      <created>1779980470318</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
       <option name="project" value="LOCAL" />
-      <updated>1752638655033</updated>
+      <updated>1779980470318</updated>
     </task>
-    <task id="LOCAL-00057" summary="代码管理&#10;commit">
+    <task id="LOCAL-00262" summary="Leet 136 238 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638664577</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
+      <created>1780238500505</created>
+      <option name="number" value="00262" />
+      <option name="presentableId" value="LOCAL-00262" />
       <option name="project" value="LOCAL" />
-      <updated>1752638664577</updated>
+      <updated>1780238500506</updated>
     </task>
-    <task id="LOCAL-00058" summary="代码管理&#10;commit">
+    <task id="LOCAL-00263" summary="Leet 1115 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752638851001</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
+      <created>1780326703737</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
       <option name="project" value="LOCAL" />
-      <updated>1752638851001</updated>
+      <updated>1780326703737</updated>
     </task>
-    <task id="LOCAL-00059" summary="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
+    <task id="LOCAL-00264" summary="Leet 137 169 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752726026924</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
+      <created>1780413925928</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
       <option name="project" value="LOCAL" />
-      <updated>1752726026924</updated>
+      <updated>1780413925928</updated>
     </task>
-    <task id="LOCAL-00060" summary="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit">
+    <task id="LOCAL-00265" summary="Leet 876 160 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752726063004</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
+      <created>1780501578453</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
       <option name="project" value="LOCAL" />
-      <updated>1752726063004</updated>
+      <updated>1780501578454</updated>
     </task>
-    <task id="LOCAL-00061" summary="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit">
+    <task id="LOCAL-00266" summary="Leet 278 704 review&#10;commit">
       <option name="closed" value="true" />
-      <created>1752806225927</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
+      <created>1780588442340</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
       <option name="project" value="LOCAL" />
-      <updated>1752806225927</updated>
+      <updated>1780588442340</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <option name="localTasksCounter" value="267" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="90" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="109" />
+                  <entry key="Table.GitHub.CommitStatus.ColumnIdWidth" value="108" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/JavaCode" />
+                        <option value="JavaCode" />
                       </list>
                     </value>
                   </entry>
@@ -762,32 +1089,34 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leet796&#10; commit" />
-    <MESSAGE value="Leet946&#10; commit" />
-    <MESSAGE value="Leet6&#10; commit" />
-    <MESSAGE value="Leet54&#10; commit" />
-    <MESSAGE value="Leet59&#10; commit" />
-    <MESSAGE value="Leet48&#10; commit" />
-    <MESSAGE value="Leet8&#10; commit" />
-    <MESSAGE value="Leet278&#10; commit" />
-    <MESSAGE value="Leet274&#10; commit" />
-    <MESSAGE value="Leet3423&#10; commit" />
-    <MESSAGE value="Leet235,230&#10; commit" />
-    <MESSAGE value="Leet215&#10; commit" />
-    <MESSAGE value="Leet207&#10; commit" />
-    <MESSAGE value="Leet113、104&#10; commit" />
-    <MESSAGE value="Leet46&#10; commit" />
-    <MESSAGE value="Leet47&#10; commit" />
-    <MESSAGE value="Leet39,40&#10; commit" />
-    <MESSAGE value="Leet79&#10; commit" />
-    <MESSAGE value="Leet226&#10; commit" />
-    <MESSAGE value="Leet101&#10; commit" />
-    <MESSAGE value="demo commit" />
-    <MESSAGE value="Leet105..&#10; commit" />
-    <MESSAGE value="代码管理&#10;commit" />
-    <MESSAGE value="leet297 二叉树的序列化和反序列化&#10;层序遍历做法&#10;commit" />
-    <MESSAGE value="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="动态规划&#10;leet509 斐波那契数列&#10;递归 循环&#10;commit" />
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Leet 146 371 review&#10;commit" />
+    <MESSAGE value="Leet 231 review&#10;commit" />
+    <MESSAGE value="Leet 137 review&#10;commit" />
+    <MESSAGE value="Leet 20 138 155 review&#10;commit" />
+    <MESSAGE value="Leet 238 review&#10;commit" />
+    <MESSAGE value="Leet 169 232 238 242 review&#10;commit" />
+    <MESSAGE value="Leet 394 review&#10;commit" />
+    <MESSAGE value="Leet 796 review&#10;commit" />
+    <MESSAGE value="Leet 10 review&#10;commit" />
+    <MESSAGE value="Leet 415 946 review&#10;commit" />
+    <MESSAGE value="Leet 6 122 review&#10;commit" />
+    <MESSAGE value="Leet  122 review&#10;commit" />
+    <MESSAGE value="Leet 6 122 review&#10;commit" />
+    <MESSAGE value="Leet  239 review&#10;commit" />
+    <MESSAGE value="Leet  232 242 295 394 review&#10;commit" />
+    <MESSAGE value="Leet  121 1480 review&#10;commit" />
+    <MESSAGE value="Leet  205 53 169 review&#10;commit" />
+    <MESSAGE value="Leet 135 768 review&#10;commit" />
+    <MESSAGE value="Leet 392 409 179 review&#10;commit" />
+    <MESSAGE value="Leet 266 11 191 review&#10;commit" />
+    <MESSAGE value="Leet 136 238 review&#10;commit" />
+    <MESSAGE value="Leet 1115 review&#10;commit" />
+    <MESSAGE value="Leet 137 169 review&#10;commit" />
+    <MESSAGE value="Leet 876 160 review&#10;commit" />
+    <MESSAGE value="Leet 278 704 review&#10;commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leet 278 704 review&#10;commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -798,29 +1127,14 @@
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet115.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet115.java</url>
           <line>7</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet115.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_2_stackAndqueue/middle/Leet115.java</url>
           <line>25</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java</url>
-          <line>60</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/stackAndqueue/middle/Leet394.java</url>
-          <line>91</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leet/Daily/easy/Leet2255.java</url>
@@ -828,12 +1142,12 @@
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/doublePointer/middle/Leet167.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/middle/Leet167.java</url>
           <line>17</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/recall/Leet104.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_8_Recall/Leet104.java</url>
           <line>39</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
@@ -841,17 +1155,30 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/leet/methods/tree/Leet102Test.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/leet/methods/_7_Tree/Leet102Test.java</url>
           <line>18</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/DivideConquer/Leet105.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_9_DivideConquer/Leet105.java</url>
           <line>19</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/leet/methods/_4_doublePointer/review/L392/L392_r4.java</url>
+          <line>5</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/leet/methods/_16_t/MainTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -860,5 +1187,9 @@
         <PinnedItemInfo parentTag="java.lang.Integer" memberName="value" />
       </pinned-members>
     </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,18 +1,12 @@
-# IDE
-.idea/
-.vs/
-*.suo
-*.user
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
 
-# OS
-.DS_Store
-Thumbs.db
+/.vs
+/LeetConsole/.vs/
+/LeetConsole/bin/Debug/
+/LeetConsole/obj/
 
-# Java
-target/
-*.class
-*.jar
-*.war
-
-# Claude Code
-.claude/
+/LeetTest/bin/Debug/net6.0
+/LeetTest/obj
+/LeetTest/bin/Release/net6.0
