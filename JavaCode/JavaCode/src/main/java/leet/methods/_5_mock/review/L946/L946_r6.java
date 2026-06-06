@@ -6,7 +6,7 @@ public class L946_r6 {
         int i =0 ,j=0;
         for (int num : pushed) {
             pushed[i++]=num;
-            while (i>0&& pushed[i-1]==popped[j]){
+            while (j<popped.length && pushed[i-1]==popped[j]){
                 i--;
                 j++;
             }
